@@ -1,0 +1,4834 @@
+[
+{
+"id": 899,
+"subject": "chemistry",
+"question": "25cm3 of a gas X contains Zmolecules at 150C and 75mmHg. How many molecules will 25cmm3 of another gas Y contain at the same temperature and pressure",
+"options": {
+"A": "2Y",
+"B": "2Z",
+"C": "Z",
+"D": "Y"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 900,
+"subject": "chemistry",
+"question": "What mass of water is produced when 8.0g of hydriogen reacts with excess oxygen [H = 1, O = 16]",
+"options": {
+"A": "36.0g",
+"B": "8.0g",
+"C": "72.0g",
+"D": "16.0g"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 901,
+"subject": "chemistry",
+"question": "A particle that contains 9 protons, 10 neutrons and 10electrons is a",
+"options": {
+"A": "Neghative ion",
+"B": "Positive ion",
+"C": "Neutral atom of a non metal",
+"D": "Neutral atom of a metal"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 902,
+"subject": "chemistry",
+"question": "Cancerous growths are cured by exposure to",
+"options": {
+"A": "ɣ-rays",
+"B": " β – rays",
+"C": " ἀ – rays",
+"D": "X -rays"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 903,
+"subject": "chemistry",
+"question": "An oxide X02 has a vapour density of 32. What is the atomic mass of X [O = 16]",
+"options": {
+"A": "32",
+"B": "20",
+"C": "14",
+"D": "12"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 904,
+"subject": "chemistry",
+"question": "Milikan’s contribution to the development of atomic theory is the determination of",
+"options": {
+"A": "Charge on electron",
+"B": "Positive rays",
+"C": "Charge to amss ratio",
+"D": "Cathode rays"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 905,
+"subject": "chemistry",
+"question": "Four elements W, X, Y, and Z have atomic numbers 2, 6, 16 and 20 respectively. Which of these elements is a metal",
+"options": {
+"A": "X",
+"B": "W",
+"C": "Z",
+"D": "Y"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 906,
+"subject": "chemistry",
+"question": "An element X with relative atomic mass 16.2 contains two isotopes      X  with relative abundance of 90% and      X with relative abundance of 10%. The value of m is",
+"options": {
+"A": "16",
+"B": "18",
+"C": "12",
+"D": "14"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 907,
+"subject": "chemistry",
+"question": "Which of the following statements is correct about the average kinetic energy of the molecules of a gas",
+"options": {
+"A": "It inctreasaes with increase in pressure",
+"B": "It increases at constant pressure",
+"C": "It increases with increase in temperature",
+"D": "It increases in volume"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 908,
+"subject": "chemistry",
+"question": "The pollution from petroleum spillage in rivers and lakes can best be dispersed by",
+"options": {
+"A": "Pouring detergents",
+"B": "Passing of ships through the area",
+"C": "Pouring organic solvents",
+"D": "Evaporation"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 909,
+"subject": "chemistry",
+"question": "Deliquenscent substances are used for",
+"options": {
+"A": "Cooling",
+"B": "Wetting",
+"C": "Melting",
+"D": "Drying"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 910,
+"subject": "chemistry",
+"question": "Pure solvents are obtained by",
+"options": {
+"A": "Distillation",
+"B": "Condensation",
+"C": "Extraction",
+"D": "EvapopraTION"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 911,
+"subject": "chemistry",
+"question": "What is the decrease in volume of air when pyrogallol is shaken with 30.00cm3 of air",
+"options": {
+"A": "15.00cm3",
+"B": "6.00cm3",
+"C": "0.63cm3",
+"D": "0.06cm3"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 912,
+"subject": "chemistry",
+"question": "Environmental pollution is worsened by the release from automobile exhausts of",
+"options": {
+"A": "Water vapour",
+"B": "Steam",
+"C": "Smoke",
+"D": "Heavy metals"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 913,
+"subject": "chemistry",
+"question": "The chemiocal used for coagulation in water purification is",
+"options": {
+"A": "Aluminum tetraoxosulphate(VI)",
+"B": "Copper tetratoxosulphate (VI)",
+"C": "Sodium tetraoxosulphate(VI)",
+"D": "Calcium tetraoxosulphate (VI)"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 914,
+"subject": "chemistry",
+"question": "Phosphorous is stored under water to precvent it from",
+"options": {
+"A": "Dehydrating",
+"B": "Becoming inert",
+"C": "Smelling",
+"D": "Catching fire"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 915,
+"subject": "chemistry",
+"question": "In which of the following reactuions does reduction take place",
+"options": {
+"A": "Fe2+ - e-   Fe3+",
+"B": "2O2-  → O2 + 4e-",
+"C": "Cr - 2e-  → Cr2+",
+"D": "2H+  +  2e-   →H2"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 916,
+"subject": "chemistry",
+"question": "P(g) + O(g)    ⇌ 3R(s)  +  S(g)   ΔH is negative which of the following will increase the yield of R",
+"options": {
+"A": "Using a larger closed vessel",
+"B": "Increasing the temperature",
+"C": "Removing some S",
+"D": "Adding a positive catalyst"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 917,
+"subject": "chemistry",
+"question": "A metal M displaces zinc from zinc chloride solution. This shows that",
+"options": {
+"A": "M is more electronegative than zinc",
+"B": "Zinc is above hydrogen in the series",
+"C": "M is more electropositive than zinc",
+"D": "Electrons flow from zinc to M"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 918,
+"subject": "chemistry",
+"question": "Which of the following best explains the increase in the rate of a chemical reaction as the temperature rises",
+"options": {
+"A": "The bonds in the reacting molecules are more readily broken",
+"B": "The molecules collisions become more violent",
+"C": "A lower proportion of the molecules has the necessary minimum energy to react",
+"D": "The collision frequency of the molecules increases"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 919,
+"subject": "chemistry",
+"question": "What current in amperes will deposit 2.7g of aluminium in 2 hours [Al = 27, f = 96500 C mol-1]",
+"options": {
+"A": "32",
+"B": "8",
+"C": "4",
+"D": "16"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 920,
+"subject": "chemistry",
+"question": "Ethanoic acid is",
+"options": {
+"A": "Tribasic",
+"B": "Unionizeable",
+"C": "Monobasic",
+"D": "Dibasic"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 921,
+"subject": "chemistry",
+"question": "C(s) + 2S (g)  → CS2 (g)      Δ H = +89kJ mol-1. The chemical equation above implies that",
+"options": {
+"A": "Each of carbon and sulphur has 89kJ of energy",
+"B": "Both carbon and sulphur contribute 89kJ of energy",
+"C": "89kJ of energy is released",
+"D": "89kJ is absorbed"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 922,
+"subject": "chemistry",
+"question": " 2SO2(g) + O2(g) ⇌  2SO3(g)  The equilibrium constant for the reaction above is increased by  [ΔH = -189kJ mol -1]",
+"options": {
+"A": "Increasing the temperature of the system",
+"B": "Increasing the pressure of the system",
+"C": "The addition of a catalyst to the system",
+"D": "Increasing the surface area of the vessel"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 923,
+"subject": "chemistry",
+"question": "3CU(s)  +  8HNO3(aq) →  3Cu(NO3)2(aq)  +  4H2O(I)  +  2NO(g)  In the equation above, copper is",
+"options": {
+"A": "An electron acceptor",
+"B": "A base",
+"C": "An oxidizing agent",
+"D": "A reducing agent"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 924,
+"subject": "chemistry",
+"question": "When ΔH is negative, a reaction is said to be",
+"options": {
+"A": "Ionic",
+"B": "Reversible",
+"C": "Exothermic",
+"D": "Endothermic"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 925,
+"subject": "chemistry",
+"question": "As the concentration of an electrolyte reduces, the conductivity",
+"options": {
+"A": "Reduces to zero",
+"B": "Decreases",
+"C": "Increases",
+"D": "Is unaffected"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 926,
+"subject": "chemistry",
+"question": "In which of the following reactions has the oxidation number of nitrogen increased",
+"options": {
+"A": "2NO(g)  +  Br2(l)  → 2NOBr(l)",
+"B": "2NO2(g)  +  O2(g)   → 2NO2(g)",
+"C": "FeSO4(aq)  +  NO(g) → Fe(NO)SO4(s)",
+"D": "2NO(g)  +  CI2(g) →  2NOCI(l)"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 927,
+"subject": "chemistry",
+"question": "NH3(g)  +  HCI(g)  → NH4CI(s) The entropy change in the system is",
+"options": {
+"A": "Negative",
+"B": "Indeterminate",
+"C": "Positive",
+"D": "Zero"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 928,
+"subject": "chemistry",
+"question": "Fermentation is the",
+"options": {
+"A": "Breaking down of carbohydrate to glucose",
+"B": "Conversion of sugar to alcohol in the presence of yeast",
+"C": "Breaking down of sugar to carbohydrate",
+"D": "Conversion of alcohol to sugar in the presence of yeast"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 929,
+"subject": "chemistry",
+"question": "The general formula for the alkanals is",
+"options": {
+"A": "ROH",
+"B": "R2CO",
+"C": "RCOOR1",
+"D": "RCHO"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 930,
+"subject": "chemistry",
+"question": "The main impurity in iron ore during the extraction of iron is",
+"options": {
+"A": "Silicon (IV) oxide",
+"B": "Carbon(IV) oxide",
+"C": "Calciumtrioxosilicate",
+"D": "Sulphur(II) oxide"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 931,
+"subject": "chemistry",
+"question": "During the vulcanization of rubber, sulphur is added to",
+"options": {
+"A": "Break down rubber polymer",
+"B": "Lengthen the chain of rubber",
+"C": "Bind rubber molecules together",
+"D": "Act as a catalyst"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 932,
+"subject": "chemistry",
+"question": "Catalytic hydrogenation of benzene produces",
+"options": {
+"A": "Oil",
+"B": "Cyclohexane",
+"C": "Cycloexane",
+"D": "Margarine"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 933,
+"subject": "chemistry",
+"question": "A trihydric alkanol is",
+"options": {
+"A": "glycerol",
+"B": "phenol",
+"C": "glycol",
+"D": "ethanol"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 934,
+"subject": "chemistry",
+"question": "When chlorine is passed into water and the resulting solution exposed to sunlight, the product formed are",
+"options": {
+"A": "Chlorine gas and hydrogen",
+"B": "Oxygen and oxochlorate(l) acid",
+"C": "Hydrochloric acid and oxygen",
+"D": ""
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 935,
+"subject": "chemistry",
+"question": "Proteins in acid solution undergo",
+"options": {
+"A": "Polymerization",
+"B": "Substitution",
+"C": "Fermentation",
+"D": "Hydrolysis"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 936,
+"subject": "chemistry",
+"question": "A characteristic reaction of the compounds with the general formula CnH2n is",
+"options": {
+"A": "Esterification",
+"B": "Polymerization",
+"C": "Decarboxylation",
+"D": "Substitution"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 937,
+"subject": "chemistry",
+"question": "The pair of organic compounds that are isomers is",
+"options": {
+"A": "Benzene and methylbenzene",
+"B": "Trichloromethane and Tetrachloromethane",
+"C": "Ethanol and propanone",
+"D": "But-1-ene and but-2-ene"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 938,
+"subject": "chemistry",
+"question": "A burning candle produces water and",
+"options": {
+"A": "Carbon(II)oxide",
+"B": "Carbon(IV) oxide",
+"C": "Oxygen",
+"D": "Hydrogen"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 939,
+"subject": "chemistry",
+"question": "The gas that can best be collected by downward displacement of air is",
+"options": {
+"A": "Chlorine",
+"B": "Sulphur(IV)oxide",
+"C": "Ammonia",
+"D": "Carbon(IV)oxide"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 940,
+"subject": "chemistry",
+"question": "Which of the following metals burns brick with a brick-red",
+"options": {
+"A": "Pb",
+"B": "Ca",
+"C": "Na",
+"D": "Ma"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 941,
+"subject": "chemistry",
+"question": "Which of the followinig respresents hybridization in ethyne?",
+"options": {
+"A": "Sp2",
+"B": "Sp2d",
+"C": "Sp3",
+"D": "sp"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 942,
+"subject": "chemistry",
+"question": "When sodium reacts with water, the resulting solution is",
+"options": {
+"A": "weakly acdic",
+"B": "neutral",
+"C": "acidic",
+"D": "alkaline"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2001",
+"image": ""
+},
+{
+"id": 943,
+"subject": "chemistry",
+"question": "Which of the following gases contains the least number of atoms at s.t.p",
+"options": {
+"A": "4 moles of chlorine",
+"B": "3 moles of ozone",
+"C": "1 mole of butane",
+"D": "7 moles of argon"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 944,
+"subject": "chemistry",
+"question": "A compound contains 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formular of the compound",
+"options": {
+"A": "KCLO3",
+"B": "KCLO4",
+"C": "KCLO",
+"D": "KCLO2"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 945,
+"subject": "chemistry",
+"question": "The formula CH2O for ethanoic acid is regarded as its",
+"options": {
+"A": "General formula",
+"B": "Structural formula",
+"C": "Molecular formula",
+"D": "Empirical formula"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 946,
+"subject": "chemistry",
+"question": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from",
+"options": {
+"A": "699C – 700C",
+"B": "820C – 840C",
+"C": "600C – 780C",
+"D": "700C – 744C"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 947,
+"subject": "chemistry",
+"question": "The chromatographic separation of ink is based on the ability of the components to",
+"options": {
+"A": "React with each other",
+"B": "React with the solvent",
+"C": "Dissolve in each other in the column",
+"D": "Move at different speeds in the column"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 948,
+"subject": "chemistry",
+"question": "Steam changes the colour of anhydrous cobalt(II) chloride from",
+"options": {
+"A": "White to red",
+"B": "Blue to white",
+"C": "White to green",
+"D": "Blue to pink"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 949,
+"subject": "chemistry",
+"question": "Which of the following solutions containing only hydroxyl ions will liberate hydrogen gas when reacted with magnesium metal",
+"options": {
+"A": "1.0 x 10-2 mol dm-3",
+"B": "1.0 x 10-4 mol dm -3",
+"C": "1.0 x 10-5 mol dm-3",
+"D": "1.0 x 10-12 mol dm-3"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 950,
+"subject": "chemistry",
+"question": "The substance least considered as a source of environmental pollution is",
+"options": {
+"A": "Silicate minerals",
+"B": "Uranium",
+"C": "Lead compounds",
+"D": "Organophosphorous compounds"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 951,
+"subject": "chemistry",
+"question": "The property which makes alcohol soluble in water is the",
+"options": {
+"A": "Hydrogen bonding",
+"B": "Covalent nature",
+"C": "Ionic character",
+"D": "Boiling point"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 952,
+"subject": "chemistry",
+"question": "The furring of kettles is caused by the presence in water of",
+"options": {
+"A": "Calcium trioxocarbonate(IV)",
+"B": "Calcium tetraoxosulphate(VI)",
+"C": "CALCIUM HYDROXIDE",
+"D": "Calcium hydrofentrioxocarbonate(IV)"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 953,
+"subject": "chemistry",
+"question": "Tetraoxosulphate(VI) acid burns the skin by",
+"options": {
+"A": "Heating",
+"B": "Hydration",
+"C": "Dehydration",
+"D": "Hydrolysis"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 954,
+"subject": "chemistry",
+"question": "When a salt loses its water of crystallization to the atmosphere on exposure, the process is said to be",
+"options": {
+"A": "Deliquescence",
+"B": "Effervescence",
+"C": "Efflorescence",
+"D": "Fluorescence"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 955,
+"subject": "chemistry",
+"question": "Three drops of a 1.0 mol dm-3 solution of Na OH are added to 20cm3 of a solution of pH8.4. the pH of the resulting solution will be",
+"options": {
+"A": "Greater than 8.4",
+"B": "Unaltered",
+"C": "Close to that of pure water",
+"D": "Less than 8.4"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 956,
+"subject": "chemistry",
+"question": "The solubility of a salt of molar mass 101g at 200C is 0.34mol dm-3. If 3.40g of the salt is dissolved completely in 250cm3 of water in a beaker, the resulting solution is",
+"options": {
+"A": "Unsaturated",
+"B": "A suspension",
+"C": "Saturated",
+"D": "Supersaturated"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 957,
+"subject": "chemistry",
+"question": "25cm3 of a 0.2mol dm-3 solution of Na2CO3 requires 20cm3 of  solution of HCl for neutralization. The concentration of the solution is",
+"options": {
+"A": "0.6 mol dm-3",
+"B": "0.5 mol dm-3",
+"C": "0.4 mol dm-3",
+"D": "0.2 mol dm-3"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 958,
+"subject": "chemistry",
+"question": "which of the following chlorides would exhibit the least ionic character",
+"options": {
+"A": "AlCl3",
+"B": "CaCl2",
+"C": "MgCi2",
+"D": "LiCl"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 959,
+"subject": "chemistry",
+"question": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in a vessel with a total pressure of 0.7 atmosphere. What is the partial pressure of oxygen in the mixture",
+"options": {
+"A": "0.55 atmosphere",
+"B": "0.44 atmosphere",
+"C": "0.33 atmosphere",
+"D": "0.22 atmosphere"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 960,
+"subject": "chemistry",
+"question": "The processes which return carbon(IV) oxide to the atmosphere include",
+"options": {
+"A": "Photosynthesis, decay and respiration",
+"B": "Photosynthesis, respiration and transpiration",
+"C": "Respiration, decay and combustion",
+"D": "Ozone, depletion, combustion and decay"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 961,
+"subject": "chemistry",
+"question": "Which of the following statements is true of a proton.",
+"options": {
+"A": "The total mass of the protons in a particular nucleus always half the nuclear mass",
+"B": "The mass of a proton is 1840 times the mass of an electron",
+"C": "The mass proton is 1.0008g",
+"D": "The mass of a proton is one-twelfth the molar mass of carbon"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 962,
+"subject": "chemistry",
+"question": "A gas X diffuses twice as fast as gas Y under the same conditions. If the relative molecular mass of X is 28. Calculate the relative molecular mass of Y",
+"options": {
+"A": "120",
+"B": "14",
+"C": "56",
+"D": "112"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 963,
+"subject": "chemistry",
+"question": "A fixed mass of gas has a  volume of 92cm3 at 30C. What will be be its volume at 180C if the pressure remains constant",
+"options": {
+"A": "15.3cm3",
+"B": "87.3cm3",
+"C": "97.0cm3",
+"D": "552.0cm3"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 964,
+"subject": "chemistry",
+"question": "The postulate of Dalton’s atomic theory which still holds is that",
+"options": {
+"A": "Particles of different elements combine in a simple whole number ratio",
+"B": "Atoms can neither be created nor destroyed",
+"C": "The particles of the same element are exactly alike",
+"D": "All elements are made of small indivisible particles"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 965,
+"subject": "chemistry",
+"question": "Ordinary glass is manufactured from silica, Ca CO3 and",
+"options": {
+"A": "K2CO3",
+"B": "NaHCO3",
+"C": "Na2CO3",
+"D": "K2SO4"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 966,
+"subject": "chemistry",
+"question": "A rock sample was added to cold dilute HNMO3. The gas evolved was passed into a solution of acidified K2Cr2O7 and the solution turned green. The rock sample contains",
+"options": {
+"A": "NO3-",
+"B": "Cl-",
+"C": "SO42-",
+"D": "SO32-"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 967,
+"subject": "chemistry",
+"question": "Hydrogen is readily released when dilute hydrochloric acid reacts with",
+"options": {
+"A": "Au",
+"B": "Cu",
+"C": "Na",
+"D": "Ag"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 968,
+"subject": "chemistry",
+"question": "The most important use of hydrogen is in the",
+"options": {
+"A": "Hydrogenation of oils",
+"B": "Manufacture of methyl alcohol",
+"C": "Manufacture of ammonia",
+"D": "Manufacture of ethyl alcohol"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 969,
+"subject": "chemistry",
+"question": "Which of the following gives a precipitate when treated with NaOH solution",
+"options": {
+"A": "Na2CO3",
+"B": "CH3COONa",
+"C": "NH4Cl",
+"D": "AlCl3"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 970,
+"subject": "chemistry",
+"question": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate(VI) is",
+"options": {
+"A": "Ethanol",
+"B": "Methanol",
+"C": "Butanal",
+"D": "Propanal"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 971,
+"subject": "chemistry",
+"question": "The gas that gives brown colouration in brown ring test",
+"options": {
+"A": "Co2",
+"B": "NO2",
+"C": "NO",
+"D": "CO"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 972,
+"subject": "chemistry",
+"question": "The boiling of fat and aqueous caustic soda is referred as",
+"options": {
+"A": "Saponification",
+"B": "Esterification",
+"C": "Acidification",
+"D": "Hydrolysis"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2002",
+"image": ""
+},
+{
+"id": 973,
+"subject": "chemistry",
+"question": "What volume of oxygen is produced from the decomposition of 2 moles of KClO3 at s.t.p   [Molar volume of a gas at s.t.p = 22.4 dm3]",
+"options": {
+"A": "22.4 dm3",
+"B": "33.6 dm3",
+"C": "44.8 dm3",
+"D": "67.2 dm3"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 974,
+"subject": "chemistry",
+"question": "Which of the following is a physical change",
+"options": {
+"A": "Burning kerosene",
+"B": "Freezing ice-cream",
+"C": "Exposing white phosphorus to air",
+"D": "Dissolving calcium in water"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 975,
+"subject": "chemistry",
+"question": "What is the percentage by mass of oxygen in Al2(SO4)3.2H2O",
+"options": {
+"A": "14.29%",
+"B": "25.39%",
+"C": "50.79%",
+"D": "59.25%"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 976,
+"subject": "chemistry",
+"question": "The filter in a cigarette reduces the nicotine content by",
+"options": {
+"A": "Burning",
+"B": "Adsorption",
+"C": "Evaporation",
+"D": "Absorption"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 977,
+"subject": "chemistry",
+"question": "3Cu  +  pHNO3  → 3Cu(NO3)2  +  4H2O  + xNO   In the equation above, the values of p and x respectively are",
+"options": {
+"A": "1 and 3",
+"B": "2 and 3",
+"C": "6 and 2",
+"D": "8 and 2"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 978,
+"subject": "chemistry",
+"question": "Neutral atoms of neon with atomic number 10 have the same number of electrons as",
+"options": {
+"A": "O2+",
+"B": "Ca2+",
+"C": "K+",
+"D": "Mg2+"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 979,
+"subject": "chemistry",
+"question": "The noble gases owe their inactivity to",
+"options": {
+"A": "Octet configuration",
+"B": "Cyclic shape",
+"C": "Hexagonal shape",
+"D": "Obtuse configuration"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 980,
+"subject": "chemistry",
+"question": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to",
+"options": {
+"A": "Decrease",
+"B": "Increase",
+"C": "Remain constant",
+"D": "Be zero"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 981,
+"subject": "chemistry",
+"question": " I.  H = 1s1\nII. O = 1s22s22p4\nIII. N = 1s22s22p3\nIV. Zn = 1s22s22p63s23p64s23d10\nFrom the above, which of the following pairs is likely to be paramagnetic?\n",
+"options": {
+"A": "I and II",
+"B": "I and  III",
+"C": "I    and IV",
+"D": "III  and IV"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 982,
+"subject": "chemistry",
+"question": "A gas exerts pressure on its container because",
+"options": {
+"A": "Some of its molecules are moving faster than others",
+"B": "Of the collision of the molecules with each other",
+"C": "Of the mass of the molecules of gas",
+"D": "The molecules of a gas collide with the walls of the container"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 983,
+"subject": "chemistry",
+"question": "When cathode rays are detected onto the electrode of an electrometer, the instrument becomes",
+"options": {
+"A": "Negatively charged",
+"B": "Positively charged",
+"C": "Neutral",
+"D": "Bipolar"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 984,
+"subject": "chemistry",
+"question": "The weakest attractive force that can be observed between two molecules is",
+"options": {
+"A": "Ionic",
+"B": "Covalent",
+"C": "Coordinate covalent",
+"D": "Van der Waals"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 985,
+"subject": "chemistry",
+"question": "A consequence of global warming is",
+"options": {
+"A": "Air pollution",
+"B": "Water pollution",
+"C": "Increased humidity",
+"D": "Flooding"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 986,
+"subject": "chemistry",
+"question": "Which of the following ions is acidic",
+"options": {
+"A": "K+",
+"B": "NO-3",
+"C": "S2-",
+"D": "H3O+"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 987,
+"subject": "chemistry",
+"question": "The structural component that makes detergent dissolve more quickly in water than soap is",
+"options": {
+"A": "–SO3 –Na+",
+"B": "–COO-Na+",
+"C": "–SO4- Na+",
+"D": "–COO-K+"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 988,
+"subject": "chemistry",
+"question": "A liquid that will dissolve fast is",
+"options": {
+"A": "Hydrochloric acid",
+"B": "Calcium hydroxide",
+"C": "Kerosene",
+"D": "Water"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 989,
+"subject": "chemistry",
+"question": "What mass of K2CrO4 is required to prepare 250cm3 of 0.020 mol dm-3 solution   [K2CrO4 = 194.2g mol-1]",
+"options": {
+"A": "0.97g",
+"B": "9.70g",
+"C": "19.42g",
+"D": "97.10g"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 990,
+"subject": "chemistry",
+"question": "Farmlands affected by crude –oil spillage can be decontaminated by",
+"options": {
+"A": "Adding acidic solutions",
+"B": "Using aerobic bacteria",
+"C": "Pouring water on the affected area",
+"D": "Burning off the oil from the area"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 991,
+"subject": "chemistry",
+"question": "When 10g of sodium hydroxide is dissolved in 1000cm3 of water, the solution formed is approximately   [Na = 23, H = 1, O = 16]",
+"options": {
+"A": "0.01 mol dm-3",
+"B": "0.10 mol dm-3",
+"C": "0.25 mol dm-3",
+"D": "0.50 mol dm-3"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 992,
+"subject": "chemistry",
+"question": "A charge in the temperature of a saturated solution disturbs the equilibrium between the",
+"options": {
+"A": "Dissolved solute and the solvent",
+"B": "Solvent and the undissolved solute",
+"C": "Dissolved solute and the undissolved solute",
+"D": "Dissolved solute and the solution"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 993,
+"subject": "chemistry",
+"question": "If an equilibrium reaction has   H>0, the reaction will proceed favourably in the forward direction at",
+"options": {
+"A": "High temperature",
+"B": "Any temperature",
+"C": "Low temperature",
+"D": "Minimum temperature"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 994,
+"subject": "chemistry",
+"question": "The commonest feature of the reactions at the anode is that",
+"options": {
+"A": "Electrons are consumed",
+"B": "Oxidation is involved",
+"C": "Ions are reduced",
+"D": "Electrode dissolves"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 995,
+"subject": "chemistry",
+"question": "Which of the following will change when a catalyst is added to a chemical reaction",
+"options": {
+"A": "The activation energy",
+"B": "The potential energy of the reactants",
+"C": "The heat of reaction",
+"D": "The potential energy of the products"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 996,
+"subject": "chemistry",
+"question": "If Y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct",
+"options": {
+"A": "Y increases in oxidation number",
+"B": "Y becomes reduced",
+"C": "Z loses protons",
+"D": "Z gains protons"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 997,
+"subject": "chemistry",
+"question": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant",
+"options": {
+"A": " 2SO3(g)  ⇌  2SO2(g)  +  O2(g)",
+"B": " 2CO2(g)  ⇌ 2CO(g)  +  O2(g)",
+"C": " 2H2(g)  +  O2(g) ⇌  2H2O(g)",
+"D": " 2NO(g)   ⇌ N2(g)  +  O2(g)"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 998,
+"subject": "chemistry",
+"question": "In the electrolysis of a concentrated solution of sodium chloride using inert electrodes, which of the following ions are discharged at the cathode and anode respectively",
+"options": {
+"A": "Na+ and Cl-",
+"B": "Na+ and OH-",
+"C": "H+ and OH-",
+"D": "H+ and Cl-"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 999,
+"subject": "chemistry",
+"question": " CO(g) + H2O(g) ⇌  CO2(g)  +  H2(g)\nFrom the reaction above, calculate the standard heat change if the standard enthalpies of formation of CO2 (g), H2O (g) and CO (g) in kJ mol-1 are -394, -242 and -110 respectively.\n",
+"options": {
+"A": "-262 kJ  mol-1",
+"B": "-42kJ mol-1",
+"C": "+42 kJ mol-1",
+"D": "+262 kJ mol-1"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1000,
+"subject": "chemistry",
+"question": "When sugar is dissolved in tea, the reaction is always accompanied by",
+"options": {
+"A": "Positive entropy change",
+"B": "Negative entropy change",
+"C": "No entropy change",
+"D": "A minimum entropy change"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1001,
+"subject": "chemistry",
+"question": "Which of the following is an electrolyte",
+"options": {
+"A": "Alcohol",
+"B": "Sodium acetate solution",
+"C": "Solid potassium hydroxide",
+"D": "Mercury"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1002,
+"subject": "chemistry",
+"question": "Chlorine gas is prepared in the laboratory by",
+"options": {
+"A": "Adding concentrated hydrochloric acid to solid manganese (IV) oxide",
+"B": "Adding concentrated tetraoxosulphate (VI) acid to solid sodium chloride",
+"C": "Dropping concentrated hydrochloric acid onto potassium tetraoxomanganate (VII) crystals",
+"D": "Oxidizing concentrated hydrochloric acid using potassium heptaoxodichromate (VI) crystals"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1003,
+"subject": "chemistry",
+"question": "Metals of the first transition series have special proper ties which are different from those of groups I and II elements because they have partially filled",
+"options": {
+"A": "s  orbitals",
+"B": "p orbitals",
+"C": "d orbitals",
+"D": "f orbitals"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1004,
+"subject": "chemistry",
+"question": "Hydrogen can be displaced form a hot alkaline solution by",
+"options": {
+"A": "Fe",
+"B": "Cu",
+"C": "Ca",
+"D": "Sn"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1005,
+"subject": "chemistry",
+"question": "Which of the following statements is true of sulphur (IV) oxide",
+"options": {
+"A": "It forms Tetraoxosulphate (VI) acid with water",
+"B": "It is an odourless gas",
+"C": "It is an acid anhydride",
+"D": "It forms white precipitate with acidified barium chloride"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1006,
+"subject": "chemistry",
+"question": "The salt that will form a precipitate soluble in excess ammonia solution is",
+"options": {
+"A": "Ca(NO3)2",
+"B": "Cu(NO3)2",
+"C": "Mg(NO3)2",
+"D": "Al(NO3)3"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1007,
+"subject": "chemistry",
+"question": "The metal that liberates hydrogen from cold water in bubbles only is",
+"options": {
+"A": "Na",
+"B": "K",
+"C": "Ca",
+"D": "Al"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1008,
+"subject": "chemistry",
+"question": "Chlorine gas turns a damp starch-iodide paper",
+"options": {
+"A": "Pink",
+"B": "Colourless",
+"C": "Red",
+"D": "Dark blue"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1009,
+"subject": "chemistry",
+"question": "The modern process of manufacturing steel from iron is by",
+"options": {
+"A": "Treatment with acids",
+"B": "Oxidation",
+"C": "Blast reduction",
+"D": "Treatment with alkalis"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1010,
+"subject": "chemistry",
+"question": "Ethene reacts with hydrogen bromide to give",
+"options": {
+"A": "CH2Br2",
+"B": "CH3CH2Br",
+"C": "C2H2Br2",
+"D": "CHBr3"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1011,
+"subject": "chemistry",
+"question": "Carbohydrates are compounds containing carbon, hydrogen and oxygen in the ratio",
+"options": {
+"A": "3:01:01",
+"B": "2:01:01",
+"C": "1:02:01",
+"D": "1:01:01"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1012,
+"subject": "chemistry",
+"question": "How many isomers does pentane have",
+"options": {
+"A": "6",
+"B": "5",
+"C": "4",
+"D": "3"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1013,
+"subject": "chemistry",
+"question": "The leachate of a certain plant ash is used in local soap making because it contains",
+"options": {
+"A": "Sodium chloride and potassium hydroxide",
+"B": "Sodium hydroxide",
+"C": "Potassium hydroxide",
+"D": "Soluble carbonates and hydrogen carbonates"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1014,
+"subject": "chemistry",
+"question": "The formula for ethyl butanoate is",
+"options": {
+"A": "C3H7COOC2H5",
+"B": "C2H5COOC3H7",
+"C": "C4H9COOC2H5",
+"D": "C2H5COOC4H9"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1015,
+"subject": "chemistry",
+"question": "The type of reaction that is peculiar to benzene is",
+"options": {
+"A": "Addition",
+"B": "Hydrolysis",
+"C": "Polymerization",
+"D": "Substitution"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1016,
+"subject": "chemistry",
+"question": "Ethanol reacts with excess acidified K2Cr2O7 to produce",
+"options": {
+"A": "Ethanoic acid",
+"B": "Ethanol",
+"C": "Ethyl ethanoate",
+"D": "Ethanoic acid"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1017,
+"subject": "chemistry",
+"question": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula  [H = 1, C = 12, O = 16]",
+"options": {
+"A": "CH2O",
+"B": "C3H6O3",
+"C": "C6H12O6",
+"D": "C6H6O3"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1018,
+"subject": "chemistry",
+"question": "The process by which atoms are rearranged into different molecular structures in the petroleum refining process is referred to as",
+"options": {
+"A": "Catalytic cracking",
+"B": "Hydrocracking",
+"C": "Polymerization",
+"D": "Reforming"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1019,
+"subject": "chemistry",
+"question": "Which of the following is found in cotton",
+"options": {
+"A": "Starch",
+"B": "Cellulose",
+"C": "fat",
+"D": "oil"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1020,
+"subject": "chemistry",
+"question": "the principal constituent of natural gas is methane",
+"options": {
+"A": "ethane",
+"B": "propane",
+"C": "butane",
+"D": "butane"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2003",
+"image": ""
+},
+{
+"id": 1021,
+"subject": "chemistry",
+"question": "When a solid substance disappears completely as a gas on heating, the substance is said to have under gone",
+"options": {
+"A": "Evaporation",
+"B": "Distillation",
+"C": "Crystallization",
+"D": "Sublimation"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1022,
+"subject": "chemistry",
+"question": "A chemical reaction is always associated with",
+"options": {
+"A": "An increase in the composition of one of the substances",
+"B": "A change in the volume of the reactants",
+"C": "A change in the nature of the reactants",
+"D": "The formation of new substances"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1023,
+"subject": "chemistry",
+"question": "If a solution contains 4.8g of Tetraoxosulphate (VI) acid. Calculate the amount of copper(II) oxide that will react with it  [CU = 64, O = 16, S = 32, H = 1]",
+"options": {
+"A": "0.8g",
+"B": "4.0g",
+"C": "40.0g",
+"D": "80.0g"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1024,
+"subject": "chemistry",
+"question": "What volume of gas is evolved at s.t.p. if 2g of calcium trioxocarbonate(IV) is added to a solution of hydrochloric acid    [Ca = 40, C = 12, O = 16, CI = 35.5, H = 1, Molar volume of a gas at s.t.p = 22.4dm3]",
+"options": {
+"A": "112cm3",
+"B": "224cm3",
+"C": "448cm3",
+"D": "224cm3"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1025,
+"subject": "chemistry",
+"question": "According to Charles  law, the volume of a gas becomes zero at",
+"options": {
+"A": "00C",
+"B": "-1000C",
+"C": "-2730C",
+"D": "-3730C"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1026,
+"subject": "chemistry",
+"question": "It is difficult to achieve an orderly arrangement of the molecules of a gas because they",
+"options": {
+"A": "Have no definite shape",
+"B": "Have little force attraction between them",
+"C": "Can collide with one another in the container",
+"D": "Are too small in size"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1027,
+"subject": "chemistry",
+"question": "A given volume of methane diffuses in 20s. how long will it take the same volume of sulphur(IV) oxide to diffuse under the same conditions    [C = 12, H = 1, S = 32, O = 16]",
+"options": {
+"A": "5s",
+"B": "20s",
+"C": "40s",
+"D": "60s"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1028,
+"subject": "chemistry",
+"question": "An electron can be added to a halogen atom to form a halide ion with",
+"options": {
+"A": "2 valence electrons",
+"B": "3 valence electrons",
+"C": "7 valence electrons",
+"D": "Valence electrons"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1029,
+"subject": "chemistry",
+"question": "The shape of the s-orbital is",
+"options": {
+"A": "Spherical",
+"B": "Elliptical",
+"C": "Spiral",
+"D": "Circular"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1030,
+"subject": "chemistry",
+"question": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecule is its",
+"options": {
+"A": "Electrovalency",
+"B": "Electron affinity",
+"C": "Electropositivity",
+"D": "Electronegativity"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1031,
+"subject": "chemistry",
+"question": "Chlorine consisting of two isotopes of mass numbers 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotope of mass number 37.",
+"options": {
+"A": "20",
+"B": "25",
+"C": "60",
+"D": "75"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1032,
+"subject": "chemistry",
+"question": "Which of the following mixtures of gases is likely to burn in flame",
+"options": {
+"A": "Neon and hydrogen",
+"B": "Nitrogen and helium",
+"C": "Helium and neon",
+"D": "Neon and nitrogen"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1033,
+"subject": "chemistry",
+"question": "Hardness of water is caused by the presence of the ions of",
+"options": {
+"A": "Magnesium and silver",
+"B": "Calcium and magnesium",
+"C": "Sodium and potassium",
+"D": "Calcium and sodium"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1034,
+"subject": "chemistry",
+"question": "Pollution of underground water by metal ions is very likely in a soil that has high",
+"options": {
+"A": "Acidity",
+"B": "Alkalinity",
+"C": "Chloride content",
+"D": "Nitrate content"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1035,
+"subject": "chemistry",
+"question": "A carcinogenic substance is",
+"options": {
+"A": "Asbestos dust",
+"B": "Sawdust",
+"C": "Nitrogen(II) oxide",
+"D": "Carbon (II) oxide"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1036,
+"subject": "chemistry",
+"question": "The solubility in mol dm-3 of 20g of CuSO4 dissolved in 100g of water at 1800C is  [Cu = 64, S = 32, O = 16]",
+"options": {
+"A": "0.13",
+"B": "0.25",
+"C": "1.25",
+"D": "2"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1037,
+"subject": "chemistry",
+"question": "Calcium Tetraoxosulphate(VI) dissolves in water only sparingly to form a",
+"options": {
+"A": "Solution",
+"B": "Suspension",
+"C": "Precipitate",
+"D": "Colloid"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1038,
+"subject": "chemistry",
+"question": "Which of these compounds is a normal salt",
+"options": {
+"A": "NaHS",
+"B": "NaSO4",
+"C": "NaHCO3",
+"D": "Na2CO3"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1039,
+"subject": "chemistry",
+"question": "What volume of 0.5mol dm-3 H2SO4 will exactly neutralize 20cm3 of 0.1 mol dm-3 NaOH solution",
+"options": {
+"A": "2.0cm3",
+"B": "5.0cm3",
+"C": "6.8cm3",
+"D": "8.3cm3"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1040,
+"subject": "chemistry",
+"question": "The oxidation state of chlorine in HClO4 is",
+"options": {
+"A": "-5",
+"B": "-1",
+"C": "1",
+"D": "7"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1041,
+"subject": "chemistry",
+"question": "ZnO(s) + CO (g) → Zn(s) + CO2 (g). ",
+"options": {
+"A": "Decomposed",
+"B": "Displaced",
+"C": "Oxidized",
+"D": "Reduced"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1042,
+"subject": "chemistry",
+"question": "Which of the following acts as both a reducing and an oxidizing agent",
+"options": {
+"A": "H2",
+"B": "SO2",
+"C": "H2S",
+"D": "CO2"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1043,
+"subject": "chemistry",
+"question": "In the electrolysis of brine, the anode is",
+"options": {
+"A": "Platinum",
+"B": "Copper",
+"C": "Zinc",
+"D": "Carbon"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1044,
+"subject": "chemistry",
+"question": "The mass of silver deposited when a current of 10A is passed through a solution of silver salt for 4830s is    [Ag = 108, F = 96500 Cmol-1]",
+"options": {
+"A": "108.0g",
+"B": "54.0g",
+"C": "27.0g",
+"D": "13.5g"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1045,
+"subject": "chemistry",
+"question": "Which of the following hydrogen halides has the highest entropy value",
+"options": {
+"A": "HF",
+"B": "HCl",
+"C": "HBr",
+"D": "Hl"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1046,
+"subject": "chemistry",
+"question": " N2O4(g)    ⇌  2NO2(g)",
+"options": {
+"A": "A constant volume",
+"B": "An increase in pressure",
+"C": "A decrease in pressure",
+"D": " A decrease in volume"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1047,
+"subject": "chemistry",
+"question": "Which of the following shows little or no net reaction when the volume of the system is decreased",
+"options": {
+"A": " H2(g)  +  l2(g)  ⇌  2Hl(g)",
+"B": "2NO2(g)  ⇌  N2O4(g)",
+"C": " PCl5(g)   ⇌ PCl3(g)  + Cl2(g)",
+"D": " 203(g)   ⇌  3O2(g)"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1048,
+"subject": "chemistry",
+"question": "The allotrope of carbon used in the decolourization of sugar is",
+"options": {
+"A": "Graphite",
+"B": "Soot",
+"C": "Charcoal",
+"D": "Lampblack"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1049,
+"subject": "chemistry",
+"question": "Which of the following gases can be collected by the method of downward delivery",
+"options": {
+"A": "Chlorine",
+"B": "Oxygen",
+"C": "Ammonia",
+"D": "Hydrogen"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1050,
+"subject": "chemistry",
+"question": "Which steam is passed over red-hot carbon, the substances produced are",
+"options": {
+"A": "Hydrogen and trioxocarbonate(IV) acid",
+"B": "Hydrogen, oxygen and carbon(IV) oxide",
+"C": "Hydrogen and carbon (II) oxide",
+"D": "Hydrogen and carbon (IV) oxide"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1051,
+"subject": "chemistry",
+"question": " sulphur (IV) oxide bleaches by",
+"options": {
+"A": "Reduction",
+"B": "Oxidation",
+"C": "Hydration",
+"D": "Absorption"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1052,
+"subject": "chemistry",
+"question": "Carbon is tetravalent because",
+"options": {
+"A": "The electrons in both the 2s and 2p orbitals are equivalent",
+"B": "The electrons in all the orbitals of carbon are equivalent",
+"C": "The 2s and 2p atomic orbitals hybridize",
+"D": "All the atomic orbitals of carbon hybridize"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1053,
+"subject": "chemistry",
+"question": "Aluminium hydroxide is used in the dyeing industry as a",
+"options": {
+"A": "Salt",
+"B": "Dye",
+"C": "Mordant",
+"D": "Dispersant"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1054,
+"subject": "chemistry",
+"question": "Alloys are best prepared by",
+"options": {
+"A": "Electroplating",
+"B": "Arc-welding",
+"C": "Reducing a mixture of their metallic oxides",
+"D": "Cooling a molten mixture of the metals"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1055,
+"subject": "chemistry",
+"question": "Transition metals posses variable oxidation states because they have",
+"options": {
+"A": "Electrons in the d orbitals",
+"B": "Electrons in the s orbitals",
+"C": "A variable number of electrons in the p orbitals",
+"D": "Partially filled p orbitals"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1056,
+"subject": "chemistry",
+"question": "Sodium metal is always kept under oil because it",
+"options": {
+"A": "Readily reacts with water",
+"B": "Is reduced by atmospheric nitrogen",
+"C": "Reacts vigorously on exposure to air",
+"D": "Reacts with oxygen and carbon(IV) oxide"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1057,
+"subject": "chemistry",
+"question": "Oxyacetylene flame is used for iron-welding because it",
+"options": {
+"A": " makes the iron metal solidity very quickly",
+"B": "Combines with oxygen to give a pop sound",
+"C": "Evolves a lot of heat when burnt",
+"D": "Dissociates to produce carbon (IV) oxide and oxygen"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1058,
+"subject": "chemistry",
+"question": "The alkyl group can be represented by the general formula",
+"options": {
+"A": "CnH2n+1",
+"B": "CnH2n",
+"C": "CnH2n+2",
+"D": "CnH2n-2"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1059,
+"subject": "chemistry",
+"question": "An isomer of C5H12 is",
+"options": {
+"A": "Butane",
+"B": "2-methylbutane",
+"C": "2-methylprpane",
+"D": "2-ethylbutane"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1060,
+"subject": "chemistry",
+"question": "A characteristic of the alkane family is",
+"options": {
+"A": "Addition reaction",
+"B": "Elimination reaction",
+"C": "Substitution reaction",
+"D": "Neutralization reaction"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1061,
+"subject": "chemistry",
+"question": "Which of these reagents can confirm the presence of a triple bond",
+"options": {
+"A": "Bromine water",
+"B": "Acidified KMnO4 ",
+"C": "Copper (I) chloride",
+"D": "Bromine gas"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1062,
+"subject": "chemistry",
+"question": "Vulcanization involves the removal of",
+"options": {
+"A": "A monomer",
+"B": "The single bond",
+"C": "The double bond",
+"D": "A polymer"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1063,
+"subject": "chemistry",
+"question": "The reaction above is",
+"options": {
+"A": "Carboxylation",
+"B": "Decarboxylation",
+"C": "Acidification",
+"D": "Esterification"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1064,
+"subject": "chemistry",
+"question": " Alkanol + Alkanoic acid ⇌  Ester + water.\nThe reverse reaction of the equation above is known as\n",
+"options": {
+"A": "Hydrolysis",
+"B": "Saponification",
+"C": "Hydration",
+"D": "Fermentation"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1065,
+"subject": "chemistry",
+"question": "In the production of soap, concentrated sodium chloride solution is added to",
+"options": {
+"A": "Increase the solubility of the soap",
+"B": "Decrease the solubility of the soap",
+"C": "Saponify the soap",
+"D": "Emulsify the soap"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 1066,
+"subject": "chemistry",
+"question": "The gas that can be dried using concentrated Tetraoxosulphate (VI) acid is",
+"options": {
+"A": "Ammonia",
+"B": "Hydrogen bromide",
+"C": "Sulphur (IV) oxide",
+"D": "Hydrogen sulphide"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1067,
+"subject": "chemistry",
+"question": "The property used in the industrial preparation of nitrogen and oxygen from air is",
+"options": {
+"A": "Rate of diffusion",
+"B": "Solubility",
+"C": "Density",
+"D": "Boiling point"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1068,
+"subject": "chemistry",
+"question": "A dense white fume is formed when ammonia gas reacts with",
+"options": {
+"A": "H2(g)",
+"B": "O2(g)",
+"C": "HCI(g)",
+"D": "Cl2(g)"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1069,
+"subject": "chemistry",
+"question": "In a flame test for calcium, the flame appears",
+"options": {
+"A": "Blue when viewed through a blue glass",
+"B": "Green when viewed through a blue glass",
+"C": "Orange-red when viewed through a blue glass",
+"D": "Brick-red when viewed through a blue glass"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1070,
+"subject": "chemistry",
+"question": "Which of the following alloys contain iron",
+"options": {
+"A": "Steel and permalloy",
+"B": "Duralumlin and steel",
+"C": "nd Soft Solder a Duralumlin ",
+"D": "Brass and bronze"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1071,
+"subject": "chemistry",
+"question": "To obtain pure carbon(II) oxide from its mixture with carbon (IV)oxide, the mixture should be",
+"options": {
+"A": "Bubbled through concentrated Tetraoxosulphate(VI) acid",
+"B": "Bubbled through sodium hydroxide",
+"C": "Passed over heated copper(II) oxide",
+"D": "Bubbled through water"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1072,
+"subject": "chemistry",
+"question": "N2(g)  +  3H2(g)  ⇌   2NH2(g)   Δ H = - 90kJ  In the equation above, the yield of ammonia can be decreased by",
+"options": {
+"A": "Adding a catalyst",
+"B": "Removing ammonia",
+"C": "Increasing the pressure",
+"D": "Increasing the temperature"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1073,
+"subject": "chemistry",
+"question": "Metalloids are also referred to as",
+"options": {
+"A": "Metals",
+"B": "Semi-metals",
+"C": "Colloids",
+"D": "Non-metals"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1074,
+"subject": "chemistry",
+"question": "The ores that can be concentrated by flotation are",
+"options": {
+"A": "Nitride ores",
+"B": "Chloride ores",
+"C": "Oxide ores",
+"D": "Sulphide ores"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1075,
+"subject": "chemistry",
+"question": "The most suitable metal that can be used as a lightening  conductor is",
+"options": {
+"A": "Aluminium",
+"B": "Iron",
+"C": "Copper",
+"D": "Silver"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1076,
+"subject": "chemistry",
+"question": "NH4CI(g) ⇌   NH3(g)  +  HCI(g)   The reaction above can only attain equilibrium if",
+"options": {
+"A": "It is in a closed system",
+"B": "It is in an open system",
+"C": "One of the products is removed",
+"D": "A gaseous reactant is added"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1077,
+"subject": "chemistry",
+"question": "When pure aluminum metal is heated to red hot in the presence of nitrogen gas, the compound formed is",
+"options": {
+"A": "AI2N",
+"B": "AIN",
+"C": "AI2N2",
+"D": "AI2N3"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1078,
+"subject": "chemistry",
+"question": "The most abundant element on the earth’s crust is",
+"options": {
+"A": "Oxygen",
+"B": "Fluorine",
+"C": "hydrogen",
+"D": "nitrogen"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1079,
+"subject": "chemistry",
+"question": "The pressure of 100cm3 of oxygen at 350C is 750mmHg. What will be the volume of the gas if the pressure is reduced to 100mmHg  without changing the temperature",
+"options": {
+"A": "850cm3",
+"B": "750cm3",
+"C": "650cm3",
+"D": "580cm3"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1080,
+"subject": "chemistry",
+"question": "What is the valence shell electron configuration of the element with atomic number 17",
+"options": {
+"A": "1s22s22p63s23p5",
+"B": "1s22s22p63s23p4",
+"C": "3s23p5",
+"D": "2s22p6"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1081,
+"subject": "chemistry",
+"question": "A heterogeneous mixture can be defined as any mixture",
+"options": {
+"A": "Whose composition is uniform",
+"B": "Whose composition is not uniform",
+"C": "Formed by solids and liquids",
+"D": "Of a solute and a solvent"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1082,
+"subject": "chemistry",
+"question": "The density of a certain gas is 1.98g dm-3 at s.t.p. What is the molecular mass of the gas   [Molar volume of a gas at s.t.p = 22.4dm-3]",
+"options": {
+"A": "26.0g",
+"B": "31.0g",
+"C": "54.0g",
+"D": "44.0g"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1083,
+"subject": "chemistry",
+"question": "Treatment of cancer   II. Detection of leakages in water mains   III. Detection of the ages of ancient tools    Which combination of the above refers to the uses of radioactive isotopes?",
+"options": {
+"A": "I, II and III",
+"B": "I, II, III and IV",
+"C": "II and III",
+"D": "I and II"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1084,
+"subject": "chemistry",
+"question": "An element will readily form an electrovalent compound if its electron configuration is",
+"options": {
+"A": "2,8,8",
+"B": "2,,8,4",
+"C": "2,8,5",
+"D": "2,8,1"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1085,
+"subject": "chemistry",
+"question": "How many moles of limestone will be required to produce 5.6g of CaO",
+"options": {
+"A": "0.20 mol",
+"B": "1, 12mol",
+"C": "0.10 mol",
+"D": "0.56 mol"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1086,
+"subject": "chemistry",
+"question": "The shape of the hydrocarbon compound CH4 is",
+"options": {
+"A": "Square planar",
+"B": "Tetrahedral",
+"C": "Planar",
+"D": "Linear"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1087,
+"subject": "chemistry",
+"question": "Which of these properties gives a solid its definite shape",
+"options": {
+"A": "Weak intermolecular attraction",
+"B": "High boiling point",
+"C": "High melting point",
+"D": "Strong intermolecular attraction"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1088,
+"subject": "chemistry",
+"question": "The component of an atom that contributes least to its mass is the",
+"options": {
+"A": "Nucleus",
+"B": "Neutron",
+"C": "Electron",
+"D": "Proton"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1089,
+"subject": "chemistry",
+"question": "Sugar is separated from its impurities by",
+"options": {
+"A": "Distillation",
+"B": "Evaporation",
+"C": "Precipitation",
+"D": "Crystallization"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1090,
+"subject": "chemistry",
+"question": "Equal moles of ethyne and hydrogen iodide react to give",
+"options": {
+"A": "CH2 = CH2",
+"B": "CH2 = CHI",
+"C": "CH2 – CHI",
+"D": "CH2 – CI3"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1091,
+"subject": "chemistry",
+"question": "How many hydrogen atoms does a single ring cycloalkane have less than the corresponding open- chain alkane",
+"options": {
+"A": "Three",
+"B": "One",
+"C": "Four",
+"D": "Two"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1092,
+"subject": "chemistry",
+"question": "The decolourization of the purple colour of a tetraoxomanganate (VII) ion is a test for",
+"options": {
+"A": "Alkanals",
+"B": "Alkanes",
+"C": "Alkenes",
+"D": "Alkanols"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1093,
+"subject": "chemistry",
+"question": "In the purification of impure samples of ethyl ethanoate synthesized by esterification, concentrated sodium trioxocarbonate(IV) solution is used to remove",
+"options": {
+"A": "Water",
+"B": "Acidic impurities",
+"C": "Basic impurities",
+"D": "Ethoxyethane"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1094,
+"subject": "chemistry",
+"question": "A substance that is used as a ripening agent for fruits is",
+"options": {
+"A": "Propene",
+"B": "Methane",
+"C": "Ethene",
+"D": "Butane"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1095,
+"subject": "chemistry",
+"question": "Which of the following are structural isomers",
+"options": {
+"A": "Propanoic acid and propan-1, 2-diol",
+"B": "Ethanoic acid and propanoic acid",
+"C": "Ethan-1, 2 –diol and ethanoic acid",
+"D": "Propanal and propanone"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1096,
+"subject": "chemistry",
+"question": "The enzyme responsible for converting sucrose into two simple isomeric sugars is",
+"options": {
+"A": "Invertase",
+"B": "Amylase",
+"C": "Lactose",
+"D": "Maltase"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1097,
+"subject": "chemistry",
+"question": "Natural water collected from rivers and ponds contains oxygen, carbon(IV) oxide and",
+"options": {
+"A": "Chlorine",
+"B": "Hydrogen",
+"C": "Sulphur(IV) oxide",
+"D": "Nitrogen"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1098,
+"subject": "chemistry",
+"question": "Kerosene is commonly used to remove the red colour stain of palm oil from clothes because it",
+"options": {
+"A": "Helps to spread the oil over a larger surface area",
+"B": "Makes the oil evaporate easily by dissolving it",
+"C": "Helps to dilute the oil and reduce its colour",
+"D": "Reacts with the oil to form an odourless compound"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1099,
+"subject": "chemistry",
+"question": "25cm3 of a mixture of noble gases was obtained from air after the removal of other constituents. What was the original volume of air",
+"options": {
+"A": "125cm3",
+"B": "1250cm3",
+"C": "2500cm3",
+"D": "80cm3"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1100,
+"subject": "chemistry",
+"question": "The solubility curve shows the variation of solute concentration with",
+"options": {
+"A": "Volume",
+"B": "Vapour density",
+"C": "Pressure",
+"D": "Temperature"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1101,
+"subject": "chemistry",
+"question": "The air around smelting industries is likely to contain",
+"options": {
+"A": "CO2, SO3 and H2",
+"B": "SO2N2 and CO2",
+"C": "H2, SO2 and CO2",
+"D": "H2S, CO and N2"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1102,
+"subject": "chemistry",
+"question": "The gas that is the most dangerous pollutant to humans is",
+"options": {
+"A": "Carbon(IV) oxide",
+"B": "Nitrogen (II)oxide",
+"C": "Hydrogen sulphide",
+"D": "Sulphur(IV) oxide"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1103,
+"subject": "chemistry",
+"question": "In which of the following reactions can the oxidation number of nitrogen be said to have increased",
+"options": {
+"A": "FeSO4(aq)  +  NO(g) →   Fe(NO)SO4(S)",
+"B": "2NO(g)  +  O2(g) → 2NO2(g)",
+"C": "NO(g)  +  CI2(g)  → NOCI2(l)",
+"D": "NO(g)  +  Br2(l)   → NOBr2(l)"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1104,
+"subject": "chemistry",
+"question": "A concentrated solution containing H+, Cu2+, OH- and Cl- was electrolyzed using platinum electrodes. The ion that will be discharged at the cathode is",
+"options": {
+"A": "OH-",
+"B": "Cl-",
+"C": "Cu2+",
+"D": "H+"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1105,
+"subject": "chemistry",
+"question": "Phenolphthalein in acidic solution is",
+"options": {
+"A": "Colourless",
+"B": "Yellow",
+"C": "Red",
+"D": "Orange"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1106,
+"subject": "chemistry",
+"question": "When sulphur (IV) oxide is passed into a solution of sodium hydroxide for a long time. It eventually produces a solution of",
+"options": {
+"A": "Na2SO4",
+"B": "NaHSO4",
+"C": "Na2SO3",
+"D": "NaHSO3"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1107,
+"subject": "chemistry",
+"question": "What is the correct IUPAC name for NO2",
+"options": {
+"A": "Dioxonitrate(III) ion",
+"B": "Dioxonitrate(IV) ION",
+"C": "trioxonitrate(iii) ion",
+"D": "trioxonitrate(iv) ion"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1108,
+"subject": "chemistry",
+"question": "What will happen if an aluminum spoon is used to stir a solution of iron (II) trioxonitrate(V)",
+"options": {
+"A": "The spoon will be reduced while the iron(II) ions will be oxidized",
+"B": "The spoon will be oxidized while the iron (II) ions will be reduced to the metal",
+"C": "The spoon will be reduced",
+"D": "The spoon will increase in size"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1109,
+"subject": "chemistry",
+"question": "Which of the following equimolar solutions will have the highest pH",
+"options": {
+"A": "NH4OH",
+"B": "CH3COONa",
+"C": "HCI",
+"D": "NaOH"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1110,
+"subject": "chemistry",
+"question": "2H2 + O2  → 2H2O  ΔH = -571Kj  In equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen?",
+"options": {
+"A": "-1713kJ",
+"B": "+1142kJ",
+"C": "-571kJ",
+"D": "-1142kJ"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1111,
+"subject": "chemistry",
+"question": "Which of the following ions requires the largest quantity of electricity for discharge at an electrode",
+"options": {
+"A": "2.5 moles of Cu2+",
+"B": "4.0 moles of CI-",
+"C": "2.0 moles of Al3+",
+"D": "3.0 moles of Na+"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2005",
+"image": ""
+},
+{
+"id": 1112,
+"subject": "chemistry",
+"question": "H2(g)  +  Br2(g) →  2BHr(g)  The reaction above is carried out at 250C. If Δ H is kJ mol-1 and   Δ S is -106J mol-1K-1 the reaction will",
+"options": {
+"A": "Proceed spontaneously at lower temperatures",
+"B": "Not proceed spontaneously at the given temperature",
+"C": "Proceed spontaneously at the given temperature",
+"D": "[proceed in the reverse direction at the given temperature"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1113,
+"subject": "chemistry",
+"question": "Na2CO3(aq)  +  2HCI(aq)  → 2NaCI(aq)  +  H2O(l)  +  CO2(g)    How many moles of sodium trioxocarbonate (IV) are there in a 25cm3 solution which required 10cm3 of 0.05 mol dm-3 hydrochloric acid solution to neutralize it?",
+"options": {
+"A": "0.100mloe",
+"B": "0.001mole",
+"C": "1.000mole",
+"D": "0.010mole"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1114,
+"subject": "chemistry",
+"question": "The ion that can be used as an oxidizing agent is",
+"options": {
+"A": "Fe3+",
+"B": "F-",
+"C": "Ca2+",
+"D": "Au3+"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1115,
+"subject": "chemistry",
+"question": "Zinc and carbon rods are used as anode and cathode respectively in a",
+"options": {
+"A": "Voltaic cell",
+"B": "Lead accumulator",
+"C": "Leclanche cell",
+"D": "Daniel cell"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1116,
+"subject": "chemistry",
+"question": "Trioxonitrate(V) acid is not used for preparing hydrogen gas from metals because it",
+"options": {
+"A": "Renders the metal passive",
+"B": "Is strongly oxidizing",
+"C": "Is volatile",
+"D": ""
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1117,
+"subject": "chemistry",
+"question": "Forms a layer of oxide on the metal   If the heat of combustion of hydrogen is -285.8kJ. what is the heat of formation of water",
+"options": {
+"A": "-285.8Kj",
+"B": "-571.6kJ",
+"C": "+571kJ",
+"D": "+285.8kJ"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1118,
+"subject": "chemistry",
+"question": "In the electrolysis of CuSO4(aq) using platinum electrodes, the reaction at the anode is",
+"options": {
+"A": "4H+  +  4e-  → 2H2",
+"B": "2OH  +  2OH-  →  2H2O + O2",
+"C": "2OH-  - 2e-    → 2OH",
+"D": "4OH-  -  4e- →  2H2O + O2"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1119,
+"subject": "chemistry",
+"question": "IN which of the following is the oxidation number of sulphur equal to -2",
+"options": {
+"A": "H2S",
+"B": "SO3",
+"C": "S8",
+"D": "SO2"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1120,
+"subject": "chemistry",
+"question": "5SO2(g)  +  2KMnO4(aq)  +  2H2O(l)  ⇌   K2SO4(aq)  +  2MnSO4(aq)  +   2H2HSO4(aq)   In the reaction above, the products give a",
+"options": {
+"A": "Colourless solution",
+"B": "Purple precipitate",
+"C": "Purple solution",
+"D": "Colourless precipitate"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1121,
+"subject": "chemistry",
+"question": "The solution that will conduct the highest amount of electricity is",
+"options": {
+"A": "2.0 moldm-3 of ethanoic acid",
+"B": "0.5 mol dm-3 of ethanoic acid",
+"C": "2.0 mol dm-3 of hydrochloric acid",
+"D": "0.5 moldm-3 of hydrochloric acid"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1122,
+"subject": "chemistry",
+"question": "What is the mola. Mass of a substance, if 0.4 mole of the substance has a mass of 25.0g",
+"options": {
+"A": "6.3g",
+"B": "40.0g",
+"C": "62.5g",
+"D": "2.5g"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1123,
+"subject": "chemistry",
+"question": "The order in which a mixture of sand ammonium chloride and sodium chloride can be separated is",
+"options": {
+"A": "Sublimation   dissolution  filtration  evaporation",
+"B": "Dissolution  dryness  filtration  evaporation",
+"C": "Filtration  sublimation  evaporation  dryness",
+"D": "Dissolution  filtration  sublimation  evaporation"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1124,
+"subject": "chemistry",
+"question": "The volume of 2.5 moles of oxygen at s.t.p is",
+"options": {
+"A": "56.0dm3",
+"B": "84.0dm3",
+"C": "50.0dm3",
+"D": "20.0dm3"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1125,
+"subject": "chemistry",
+"question": "[Molar volume of a gas at s.t.p + 22.4dm3} Nuclear fission involves the splitting of a heavy element into two nuclei of",
+"options": {
+"A": "Equal masses with a release of energy",
+"B": "Nearly equal masses with a release of energy and radiation",
+"C": "Equal masses with a release of energy and radiation",
+"D": "Unequal masses without any release of energy"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1126,
+"subject": "chemistry",
+"question": "2C2H2(g)  +  5O2(g)     4CO2(g)  +  2H2O(g) In the reaction, the mass of carbon (IV) oxide produced on burning 78g of ethyne is [C = 12, O = 16, H = 1]",
+"options": {
+"A": "39",
+"B": "352g",
+"C": "264g",
+"D": "156g"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1127,
+"subject": "chemistry",
+"question": "A particle that contain s 11protons, 12 neutrons and 10 electrons is probably a",
+"options": {
+"A": "Metallic ion",
+"B": "Non-metallic ion",
+"C": "Neutral metal",
+"D": "Neutral non-metal"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1128,
+"subject": "chemistry",
+"question": "The element with the electron configuration 1s22s22p3 is",
+"options": {
+"A": "Oxygen",
+"B": "Chlorine",
+"C": "Nitrogen",
+"D": "Calcium"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1129,
+"subject": "chemistry",
+"question": "A difference between chemical and physical change is that in a chemical change",
+"options": {
+"A": "Heat is supplied",
+"B": " A new substance is formed",
+"C": "Oxygen is consumed",
+"D": "A reversible process occurs"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1130,
+"subject": "chemistry",
+"question": "A degree in atomic size and an increase in knuckler charge across a period lead to",
+"options": {
+"A": "A decrease in covalency in bond formation",
+"B": "An increase in chemical reactivity",
+"C": "An increase in the tendency to loss electrons",
+"D": "A decrease in electro positivity"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1131,
+"subject": "chemistry",
+"question": "The idea of planetary electrons was that of",
+"options": {
+"A": "Bohr",
+"B": "Thompson",
+"C": "Rutherford",
+"D": "Dalton"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1132,
+"subject": "chemistry",
+"question": "If 30cm3 of a gas at 500C is warmed to 800C at a fixed pressure. The fractional increase in volume is",
+"options": {
+"A": "0.91",
+"B": "0.009",
+"C": "1.09",
+"D": "0.093"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1133,
+"subject": "chemistry",
+"question": "Which of the following has an isomer",
+"options": {
+"A": "C4H10",
+"B": "C6H6",
+"C": "C2H4",
+"D": "C2H6"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1134,
+"subject": "chemistry",
+"question": "An example of aliphatic unsaturated hydrocarbon is",
+"options": {
+"A": "Butanol",
+"B": "Propene",
+"C": "Pentane",
+"D": "Benzene"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1135,
+"subject": "chemistry",
+"question": "One mole of a hydrocarbon contains 36g of carbon and its vapour density is 20. The structure of the hydrocarbon is",
+"options": {
+"A": "CH3CH2CH3",
+"B": "CH3CH = CH2",
+"C": "CH3CH2C = CH",
+"D": "CH3C = CH"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1136,
+"subject": "chemistry",
+"question": "CH3-CH2-C = CH  The hybridization in the compound above is",
+"options": {
+"A": "Sp3 and sp",
+"B": "Sp3 and sp2",
+"C": "Sp",
+"D": "Sp2"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1137,
+"subject": "chemistry",
+"question": "Nigerian crude oil is described as light crude because of its",
+"options": {
+"A": "Low aliphatic hydrocarbon content",
+"B": "Low sulphur content",
+"C": "High natural gas content",
+"D": "High octane number"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1138,
+"subject": "chemistry",
+"question": "The gas obtained as a product of anaerobic action ob organic matter buried in the earth is",
+"options": {
+"A": "Nitrogen(IV) oxide",
+"B": "Carbon(IV) oxide",
+"C": "Methane",
+"D": "Ethene"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1139,
+"subject": "chemistry",
+"question": "When a crystal was added to the clear solution of its salt, the crystal did not dissolve and the solution remained unchanged. This showed that the solution was",
+"options": {
+"A": "Supersaturated",
+"B": "Unsaturated",
+"C": "Saturated",
+"D": "Concentrated"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1140,
+"subject": "chemistry",
+"question": "The produce of the combustion of candle wax are",
+"options": {
+"A": "Carbon(IV) oxide and water",
+"B": "Oxygen and water",
+"C": "Hydrogen and water",
+"D": "Carbon(II)oxide an d water"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1141,
+"subject": "chemistry",
+"question": "When 5.0cm3 of a saturated solution of sugar of molar mass 342g at 400C was evaporated to dryness, 34.2g of dry solid was obtained. The solubility of sugar at 400C is",
+"options": {
+"A": "7.0 mol dm-3",
+"B": "3.5 mol dm-3",
+"C": "2.0 mol dm-3",
+"D": "10.0mol dm-3"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1142,
+"subject": "chemistry",
+"question": "Which of the following results in the fall of acid rain",
+"options": {
+"A": "Gaseous hydrocarbons",
+"B": "Oxide of lead",
+"C": "Particulate matter",
+"D": "Oxides of sulphur"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1143,
+"subject": "chemistry",
+"question": "Water has the ability to dissolve almost all substances because its molecule has a structure with",
+"options": {
+"A": "One positive end and one neutral end",
+"B": "Two positive ends",
+"C": "One positive end and one negative end",
+"D": "Two negative ends"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1144,
+"subject": "chemistry",
+"question": "An emulsion may be produced by shaking a detergent solution with",
+"options": {
+"A": "Palm wine",
+"B": "Palm oil",
+"C": "Ethanoic acid",
+"D": "Water"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1145,
+"subject": "chemistry",
+"question": "One heating may be produced by shaking a detergent solution with",
+"options": {
+"A": "Cu(NO3)2",
+"B": "AgNO3",
+"C": "Ca(NO3)2",
+"D": "NaNO3"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1146,
+"subject": "chemistry",
+"question": "Dynamic equilibrium describes a situation where",
+"options": {
+"A": "A reaction gives back the reactants",
+"B": "Reactants are converted to products",
+"C": "The concentration of reactants and products is equal",
+"D": "Both forward and reverse reaction proceed at the same rate"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1147,
+"subject": "chemistry",
+"question": "The raw material used for the smelting of iron ore in a furnace is",
+"options": {
+"A": "Zn(NO3)2",
+"B": "CaSO4",
+"C": "CuSO4",
+"D": "CaCO3"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1148,
+"subject": "chemistry",
+"question": "Carbon exists naturally in the combined state as",
+"options": {
+"A": "Diamond",
+"B": "Coal",
+"C": "Wood",
+"D": "Graphite"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1149,
+"subject": "chemistry",
+"question": "The sulphide which is insoluble in dilute hydrochloric acid is",
+"options": {
+"A": "CuS",
+"B": "Na2S",
+"C": "FeS",
+"D": "ZnS"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1150,
+"subject": "chemistry",
+"question": "The efficiency of a solid catalyst to increase reaction rates depends on its",
+"options": {
+"A": "Concentration",
+"B": "Solubility",
+"C": "Quantity",
+"D": "Surface area"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1151,
+"subject": "chemistry",
+"question": "In the industrial production of H2 from natural gas, the CO2 produced along with the H2 is removed by",
+"options": {
+"A": "Passing the mixture into lime water",
+"B": "Washing under pressure",
+"C": "Drying over phosphorous(V)oxide",
+"D": "Using ammoniac copper(l) chloride"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1152,
+"subject": "chemistry",
+"question": "Which of the following typically represents a photochemical reaction",
+"options": {
+"A": "Conversion of dinitrogen (IV) oxide to nitrogen(IV) oxide",
+"B": "Conversion of silver halides to grey metallic silver",
+"C": "Decomposition of calcium hydroxide to its oxide",
+"D": "Formation of water from hydrogen and oxygen molecules"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1153,
+"subject": "chemistry",
+"question": "Group IA metals are not found free in nature because they",
+"options": {
+"A": "Have high melting and boiling points",
+"B": "Conduct heat and electricity",
+"C": "Are very reactive and unstable",
+"D": "Are malleable and ductile"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1154,
+"subject": "chemistry",
+"question": "The characteristic colour of the flame shown when a copper salt moistened with concentrated hydrochloric acid on platinum is put on a bunzen burner is",
+"options": {
+"A": "Green",
+"B": "Lilac",
+"C": "Yellow",
+"D": "Brick-red"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1155,
+"subject": "chemistry",
+"question": "The ion that will give a white precipitate with aqueous NaOH and soluble in excess of the base is",
+"options": {
+"A": "Zn2+",
+"B": "Mg2+",
+"C": "Ca2+",
+"D": "Cu2+"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1156,
+"subject": "chemistry",
+"question": "Which of he following pairs of substances will react further with oxygen to form a higher oxide",
+"options": {
+"A": "SO2 and NO",
+"B": "CO2 and H2O",
+"C": "CO and CO2",
+"D": "NO and H2O"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 1157,
+"subject": "chemistry",
+"question": "Which of the following is an example of a mixture",
+"options": {
+"A": "Blood",
+"B": "Sand",
+"C": "Washing soda",
+"D": "Common salt"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1158,
+"subject": "chemistry",
+"question": "Calculate the percentage by mass of nitrogen in calcium trioxonitrate (V)   {Ca = 40, N = 14, O = 16}",
+"options": {
+"A": "13.10%",
+"B": "17.10%",
+"C": "27.60%",
+"D": "8.5"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1159,
+"subject": "chemistry",
+"question": "The droplets of water observed around a bottle of milk taken out of though refrigerator is due to the fact that the",
+"options": {
+"A": "Temperature of the milk drops as it loses heat into the surroundings",
+"B": "Saturated vapour pressure of the milk is equal to the atmospheric pressure",
+"C": "Water vapour in the air around loses some of its energy to the bottle",
+"D": "Water vapour in the air around the bottle gains some energy from the bottle"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1160,
+"subject": "chemistry",
+"question": "The volume of a gas is Vcm3 at P mm Hg. What is the new volume of the gas if the pressure is reduced to half at constant temperature",
+"options": {
+"A": "2 V cm3",
+"B": "V  2cm3",
+"C": "V cm3",
+"D": "4 V cm3"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1161,
+"subject": "chemistry",
+"question": "Moving from left to right across a period, the general rise in the first ionization energy can be attributed to the",
+"options": {
+"A": "Increase in nuclear charge",
+"B": "Decrease in screening effect",
+"C": "Increase in screening effect",
+"D": "Decrease in nuclear charge"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1162,
+"subject": "chemistry",
+"question": "How many unpaired electron(s) are there in the nitrogen  sub - levels",
+"options": {
+"A": "2",
+"B": "1",
+"C": "0",
+"D": "3"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1163,
+"subject": "chemistry",
+"question": "The stability of the noble gases is due to the fact that they",
+"options": {
+"A": "Have duplet or octet electron configurations",
+"B": "Belong to group zero of the periodic table",
+"C": "Are volatile in nature",
+"D": "Have no electron in their outermost shells"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1164,
+"subject": "chemistry",
+"question": "The maximum number of electrons in the L shell of an atom is",
+"options": {
+"A": "8",
+"B": "18",
+"C": "32",
+"D": "2"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1165,
+"subject": "chemistry",
+"question": "Elements in the same periodic table have the same",
+"options": {
+"A": "Atomic number",
+"B": "Chemical properties",
+"C": "Physical properties",
+"D": "Number of shells"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1166,
+"subject": "chemistry",
+"question": "A noble gas with a high power of fog penetration used in aerodrome beacons is",
+"options": {
+"A": "Argon",
+"B": "Helium",
+"C": "Neon",
+"D": "Krypton"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1167,
+"subject": "chemistry",
+"question": "Permanent hardness of water can be removed by",
+"options": {
+"A": "Adding slaked lime",
+"B": "Adding caustic soda",
+"C": "Boiling",
+"D": "Filtration"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1168,
+"subject": "chemistry",
+"question": "Substances employed as drying agents are usually",
+"options": {
+"A": "Hygroscopic",
+"B": "Efflorescent",
+"C": "Acidic",
+"D": "Amphoteric"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1169,
+"subject": "chemistry",
+"question": "Calculate the solubility in mol dm -3 of 40g of Cu So4 dissolved in 100g of water at 1200C  {Cu = 64, S = 32, 0 = 16}",
+"options": {
+"A": "2.5",
+"B": "0.4",
+"C": "0.25",
+"D": "4"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1170,
+"subject": "chemistry",
+"question": "Coffee stains can best be removed by",
+"options": {
+"A": "Turpentine",
+"B": "A solution of borax in water",
+"C": "Ammonia solution",
+"D": "Kerosene"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1171,
+"subject": "chemistry",
+"question": "Carbon (II) oxide is considered dangerous if inhaled mainly because it",
+"options": {
+"A": "Competes with oxygen in the blood",
+"B": "Competes with carbon (IV) oxide in the blood",
+"C": "Can cause lung cancer",
+"D": "Can cause injury to the nervous system"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1172,
+"subject": "chemistry",
+"question": "The acid that is used to remove rust is",
+"options": {
+"A": "Hydrochloric",
+"B": "Trioxonitrate (V)",
+"C": "Tetraoxosulphate (VI)",
+"D": "Boric"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1173,
+"subject": "chemistry",
+"question": "Calculate the volume of 0.5 mol dm-3 H2SO4 that is neutralized by 25cm3 of 0.1 mol dm-3 NaOH",
+"options": {
+"A": "2.5cm3",
+"B": "0.4cm3",
+"C": "0.1cm3",
+"D": "5.0cm3"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1174,
+"subject": "chemistry",
+"question": "The colour of methyl orange in alkaline medium is",
+"options": {
+"A": "Pink",
+"B": "Orange",
+"C": "Red",
+"D": "Yellow"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1175,
+"subject": "chemistry",
+"question": "Which of the following salts is slightly soluble in water",
+"options": {
+"A": "CaSO4",
+"B": "Na2CO3",
+"C": "PbCl2",
+"D": "AgCl"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1176,
+"subject": "chemistry",
+"question": "6AgNO3(aq)  +  PH3(g) +    3H2O(l)      →    6Ag(s)+   H3PO3(aq)   +    6HNO3(aq)  In the reaction above, the reducing agent is",
+"options": {
+"A": "H2O(l)",
+"B": "PH3(g)",
+"C": "AgNO3(aq)",
+"D": "HNO3(AQ)"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1177,
+"subject": "chemistry",
+"question": "The IUPAC nomencalatyre of the compound LiAIH4 is",
+"options": {
+"A": "Aluminium tetrahydrido lithium",
+"B": "Tetrahydrido lithium aluminate (III)",
+"C": "Lithium aluminium hydride",
+"D": "Lithium tetrahydridoaluminate (III)"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1178,
+"subject": "chemistry",
+"question": "Iron can be protected from corrosion by coating the surface with",
+"options": {
+"A": "Silver",
+"B": "Copper",
+"C": "Zinc",
+"D": "Gold"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1179,
+"subject": "chemistry",
+"question": "What quantity of aluminum is deposited when a current of 10A is passed through a solution of an aluminum salt for 1930s  {AI = 27, F = 96500 C mol-}",
+"options": {
+"A": "1.8g",
+"B": "5.4g",
+"C": "14.2g",
+"D": "0.2g"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1180,
+"subject": "chemistry",
+"question": "In which of the following is the entropy change positive",
+"options": {
+"A": "Reaction between an acid and a base",
+"B": "Addition of concentrated acid to water",
+"C": "Dissolution of sodium metal in water",
+"D": "Thermal dissociation of ammonium chloride"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1181,
+"subject": "chemistry",
+"question": "If a reaction is exothermic and thee is a great disorder, it means that",
+"options": {
+"A": "The reaction is in a state of equilibrium",
+"B": "There will be a large increase in free energy",
+"C": "There will be a large decrease in free energy",
+"D": "The reaction is static"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1182,
+"subject": "chemistry",
+"question": "In the preparation of oxygen by heating KCIO3 in the presence of MnC2, only moderate hear is needed because the catalyst acts by",
+"options": {
+"A": "Increasing the surface area of the reactant",
+"B": "Increasing the rate of the reaction",
+"C": "Lowering the energy barrier of the reaction",
+"D": "Lowering the pressure of the reaction"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1183,
+"subject": "chemistry",
+"question": "2H2(g) +    O2(g)  ⇌ 2H2O(g)    ΔH   =  - ve  What happens to the equilibrium constant of the reaction above if the temperature is increased?",
+"options": {
+"A": "It becomes zero",
+"B": "It decreases",
+"C": "It increases",
+"D": "It is unaffected"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1184,
+"subject": "chemistry",
+"question": "To a solution of an unknown compound, a little dilute Tetraoxosulphate (IV) acid was added with some freshly prepared (II) Tetraoxosulphate (VI) Solution. The brown ring observed after the addition of a stream of concentrated  Tetraoxosulphate (VI) acid confirmed the presence of",
+"options": {
+"A": "CI",
+"B": "SO",
+"C": "NO",
+"D": "CO"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1185,
+"subject": "chemistry",
+"question": "Which of the following is used as a rocket fuel",
+"options": {
+"A": "CH3COOH",
+"B": "H2SO4",
+"C": "HCL",
+"D": "HNO3"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1186,
+"subject": "chemistry",
+"question": "A constituent common to moist air, it gradually rusts. This is due to the formation of",
+"options": {
+"A": "Silver",
+"B": "Copper",
+"C": "Tin",
+"D": "Lead"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1187,
+"subject": "chemistry",
+"question": "When iron is exposed to moist air, it gradually rusts. This is due to the formation of",
+"options": {
+"A": "Anahydrous  iron (III) oxide",
+"B": "Anhydrous iron (II) oxide",
+"C": "Hydrated iron (II) oxide",
+"D": "Hydrated iron  (III) oxide"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1188,
+"subject": "chemistry",
+"question": "A compound gives an orange red colour to a non luminous flame. This compound is likely to contain",
+"options": {
+"A": "Ca2+",
+"B": "Fe3+",
+"C": "Fe2+",
+"D": "Na+"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1189,
+"subject": "chemistry",
+"question": "Stainless steel is used for making",
+"options": {
+"A": "Tools",
+"B": "Coins and medals",
+"C": "Moving parts of clocks",
+"D": "Magnets"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1190,
+"subject": "chemistry",
+"question": "The residual solids from the fractional distillation of petroleum are used as",
+"options": {
+"A": "Raw materials for the cracking process",
+"B": "Fuel for driving tractors",
+"C": "Fuel for jet engines",
+"D": "Coatings for pipes"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1191,
+"subject": "chemistry",
+"question": "Which of the following is used as fuel in miners’ lamp",
+"options": {
+"A": "Ethyne",
+"B": "Ethane",
+"C": "Ethane",
+"D": "Ethanol"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1192,
+"subject": "chemistry",
+"question": "Which of the following organic compounds is very soluble in water",
+"options": {
+"A": "C2H2",
+"B": "C2H4",
+"C": "CH3COOC2H5",
+"D": "CH3COOH"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1193,
+"subject": "chemistry",
+"question": "Benzene reacts with hydrogen in the presence of nickel catalyst at 1800C to give",
+"options": {
+"A": "Toluene",
+"B": "Cyclopentane",
+"C": "Cyclohexane",
+"D": "Xylene"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1194,
+"subject": "chemistry",
+"question": "Which of the following is used to hasten the ripening of fruit",
+"options": {
+"A": "Ethanol",
+"B": "Ethyne",
+"C": "Ethane",
+"D": "Ethane"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1195,
+"subject": "chemistry",
+"question": "The final products of the reaction between methane and chloride in the presence of ultraviolet light are hydrogen chloride and",
+"options": {
+"A": "Dichloromethane",
+"B": "Tetrachloromethane",
+"C": "Chloromethane",
+"D": "Trichloromethane"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1196,
+"subject": "chemistry",
+"question": "The correct order of increasing boiling points of the following  compounds C3H7OH, C7H16 and C4H10 is",
+"options": {
+"A": "C4H10  →  C7H16 → C3H7OH",
+"B": "C7H16 → C3H7OH → C4H16",
+"C": "C4H10  → C3H7OH  → C4H10",
+"D": "C3H7OH →  C4H10  → C7H16"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1197,
+"subject": "chemistry",
+"question": "One of the major uses of Alkanes is",
+"options": {
+"A": "In the hydrogenation of oils",
+"B": "In the textile industries",
+"C": "In the production of plastics",
+"D": "As domestic and industrial fuels"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1198,
+"subject": "chemistry",
+"question": "The haloalkanes used in the dry cleaning industries are",
+"options": {
+"A": "Chloroethane and dichloroethene",
+"B": "trichloroethene and tetrachloroethene",
+"C": "chloromethane and dichloroethene",
+"D": "Trichloromethane and tetrachloromethane"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1199,
+"subject": "chemistry",
+"question": " Two hydrocarbons X and Y were treated with bromine water. Decolorized the solution and Y did not. Which class of compound does Y belong",
+"options": {
+"A": "Alkynes",
+"B": "Alkenes",
+"C": "Alkanes",
+"D": "Benzene"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 1200,
+"subject": "chemistry",
+"question": "The compound that is used as an anaesthetic is",
+"options": {
+"A": "CHCI3",
+"B": "CH2C2",
+"C": "CH3CI",
+"D": "CCI4"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2010",
+"image": ""
+}
+]

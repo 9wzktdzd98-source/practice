@@ -1,0 +1,7 @@
+node_modules/
+.env
+backend/data/app.db
+backend/data/app.db-journal
+backend/data/app.db-wal
+backend/data/app.db-shm
+.DS_Store

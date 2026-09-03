@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Quiz - WAEC Practice</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <a href="index.html" class="back">← Subjects</a>
+    <h1 id="subjectTitle">Loading…</h1>
+    <div id="quizArea"></div>
+    <button id="submitBtn" class="submit-btn" style="display:none">Submit answers</button>
+    <div id="resultArea"></div>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const subject = params.get('subject');
+    const ltiToken = params.get('token'); // present if launched from an LMS
+
+    let userId = null; // filled in below if we have an LTI session
+
+    // If we arrived via an LTI launch, decode enough of the token client-side
+    // to know we're in a session (the backend re-verifies it on submit).
+    // For a standalone (non-LMS) user we just track attempts anonymously.
+    async function init() {
+      document.getElementById('subjectTitle').textContent = subject
+        ? `${subject[0].toUpperCase()}${subject.slice(1)} — Practice Quiz`
+        : 'Practice Quiz';
+
+      const res = await fetch(`/api/questions?subject=${encodeURIComponent(subject)}&limit=20`);
+      const data = await res.json();
+      renderQuiz(data.questions);
+    }
+
+    let currentQuestions = [];
+
+    function renderQuiz(questions) {
+      currentQuestions = questions;
+      const area = document.getElementById('quizArea');
+      area.innerHTML = '';
+      questions.forEach((q, idx) => {
+        const block = document.createElement('div');
+        block.className = 'question-block';
+        block.innerHTML = `
+          <p class="qtext"><strong>${idx + 1}.</strong> ${q.question}</p>
+          ${q.image ? `<img src="${q.image}" class="qimg" />` : ''}
+          <div class="options" data-qid="${q.id}">
+            ${['A', 'B', 'C', 'D']
+              .map(
+                (opt) => `
+              <label>
+                <input type="radio" name="q_${q.id}" value="${opt}" />
+                <span>${opt}. ${q.options[opt]}</span>
+              </label>`
+              )
+              .join('')}
+          </div>
+        `;
+        area.appendChild(block);
+      });
+      document.getElementById('submitBtn').style.display = questions.length ? 'block' : 'none';
+    }
+
+    async function submitQuiz() {
+      const answers = {};
+      currentQuestions.forEach((q) => {
+        const checked = document.querySelector(`input[name="q_${q.id}"]:checked`);
+        if (checked) answers[q.id] = checked.value;
+      });
+
+      const res = await fetch('/api/attempts', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          userId,
+          subject,
+          questionIds: currentQuestions.map((q) => q.id),
+          answers,
+          ltiContextId: null, // wire up once /lti/launch issues real session data
+        }),
+      });
+      const result = await res.json();
+      showResult(result);
+    }
+
+    function showResult(result) {
+      document.getElementById('submitBtn').style.display = 'none';
+      const el = document.getElementById('resultArea');
+      el.innerHTML = `
+        <div class="result-card">
+          <h2>${result.score} / ${result.total} (${result.percentage}%)</h2>
+          <ol>
+            ${result.breakdown
+              .map(
+                (b) => `
+              <li class="${b.isCorrect ? 'correct' : 'incorrect'}">
+                Q${b.questionId}: your answer ${b.given || '—'}, correct answer ${b.correctAnswer}
+                ${b.solution ? `<br><em>${b.solution}</em>` : ''}
+              </li>`
+              )
+              .join('')}
+          </ol>
+        </div>
+      `;
+    }
+
+    document.getElementById('submitBtn').addEventListener('click', submitQuiz);
+    init();
+  </script>
+</body>
+</html>

@@ -1,0 +1,8226 @@
+[
+{
+"id": 1,
+"subject": "accounting",
+"question": "The bad debt account is closed by transferring the balance to ",
+"options": {
+"A": "credit of capital account  ",
+"B": "debit of profit  and loss  ",
+"C": "debit of the debtors personal account ",
+"D": "credit of profit and loss account "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 2,
+"subject": "accounting",
+"question": "A credit note from a supplier would first be entered in the ",
+"options": {
+"A": "purchase book  ",
+"B": "sales book  ",
+"C": "returns inward book  ",
+"D": "returns outward"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 3,
+"subject": "accounting",
+"question": "Where a proprietor withdraws cash from the business for his private use, the entries would be ",
+"options": {
+"A": "credit cash account, debit proprietor's account ",
+"B": "credit proprietor's account, debit cash account ",
+"C": "credit proprietor's account, debit   drawings   account    ",
+"D": "credit   cash account,  debit drawings account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 4,
+"subject": "accounting",
+"question": "Which   of the   following   is   a  long  term liability ",
+"options": {
+"A": "bank overdraft ",
+"B": "bank deposit ",
+"C": "good will ",
+"D": "debentures"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 5,
+"subject": "accounting",
+"question": "Which of the following is a function of the sales journal ",
+"options": {
+"A": "it records both cash and credit sales ",
+"B": "it shows the balance in the sales account ",
+"C": "it record credit sales only ",
+"D": "it shows the aggregate balances in the debtors lodger"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 6,
+"subject": "accounting",
+"question": "Which of the following is the most liquid ",
+"options": {
+"A": "stock ",
+"B": "debtors ",
+"C": "machinery ",
+"D": "loose tools"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 7,
+"subject": "accounting",
+"question": "A debit balance on a bank statement indicates that ",
+"options": {
+"A": "bank is a debtor to the customer ",
+"B": "customer is a debtor to the bank ",
+"C": "bank is not a creditor to the customer ",
+"D": "customer is not a debtor to the bank"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 8,
+"subject": "accounting",
+"question": "At the end of a trading period, wages will be  ",
+"options": {
+"A": "debited to trading account and shown as a current liability ",
+"B": "credited to profit and loss Account and shown as a current liability ",
+"C": "credited to trading account and shown as a current asset ",
+"D": "debited to profit and loss account and shown as a current liability"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 9,
+"subject": "accounting",
+"question": "Which of the following is not an asset ",
+"options": {
+"A": "Goodwill ",
+"B": "General reserves ",
+"C": "Debtors ",
+"D": "Prepayments"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 10,
+"subject": "accounting",
+"question": "A company's profit and loss account for a period  is  prepared by ",
+"options": {
+"A": "deducting total expenses from total revenues ",
+"B": "deducting total cash payments from total revenue ",
+"C": "deducting  all  outflows  of funds  from  all inwards of funds ",
+"D": "balancing its receipts and payments"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 11,
+"subject": "accounting",
+"question": "The journal is a book ",
+"options": {
+"A": "of primary entry into which all transactions are entered before posting ",
+"B": "kept by journalist for reporting events ",
+"C": "of prime entry into which postings are made from the ledger  ",
+"D": "of analyzing major accounts"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 12,
+"subject": "accounting",
+"question": "The receipts and payments of a club is the same  as ",
+"options": {
+"A": "  Profit and   loss  account  ",
+"B": "Trading Account ",
+"C": "Cash book ",
+"D": "control Account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 13,
+"subject": "accounting",
+"question": "In a balance sheet, bank overdraft is ",
+"options": {
+"A": "Current Asset ",
+"B": "Fixed asset ",
+"C": "long term liability ",
+"D": "Current Liability"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 14,
+"subject": "accounting",
+"question": "Money set aside for the saving of business overheads    is    referred    to   ",
+"options": {
+"A": "Capital Expenditure  ",
+"B": "Revenue  Expenditure ",
+"C": "Revenue receipts",
+"D": ""
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 15,
+"subject": "accounting",
+"question": "Money spent on buying of plots of land by a firm is ",
+"options": {
+"A": "Capital Expenditure ",
+"B": "capital receipts ",
+"C": "Revenue Expenditure",
+"D": " Revenue Receipts"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 16,
+"subject": "accounting",
+"question": "Prepaid expenses  is an  item  in ",
+"options": {
+"A": "Fixed Asset  ",
+"B": "  Current    Asset   ",
+"C": "Liabilities ",
+"D": "Long term liabilities "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 17,
+"subject": "accounting",
+"question": "Final accounts of (i) Cash book (ii) trading account  (iii) Profit and  loss account  (iv)Balance sheet  ",
+"options": {
+"A": "i only ",
+"B": "i and ii only",
+"C": "iii and iv only ",
+"D": "ii and iii  only"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 18,
+"subject": "accounting",
+"question": "Trading account is prepared to ascertain ",
+"options": {
+"A": "Gross profit ",
+"B": "Net profit ",
+"C": "Gross profit or Gross loss ",
+"D": " Net profit or net loss"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 19,
+"subject": "accounting",
+"question": "A statement that shows the financial position of a business is ",
+"options": {
+"A": "profit and loss account  ",
+"B": "Trading Account ",
+"C": "Statement of income  ",
+"D": " Balance sheet"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 20,
+"subject": "accounting",
+"question": "  Prepaid wages is an item in the (i)Balance Sheet (ii) Profit and loss account (iii)Trading  account (iv) Cash account ",
+"options": {
+"A": "i, ii, iii only ",
+"B": "ii, iii  ",
+"C": "i, ii ",
+"D": "iii, iv"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 21,
+"subject": "accounting",
+"question": "Partnership    is    a    business    owned and controlled by ",
+"options": {
+"A": "Two members ",
+"B": "two to ten members ",
+"C": "Two to twenty person  ",
+"D": "Two to five persons"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 22,
+"subject": "accounting",
+"question": "If a   machine   cost   2000   naira   and its estimated   life   span   is   10   years   and its residual is 500 naira. The yearly value of depreciation  in  naira is ",
+"options": {
+"A": "250",
+"B": "180",
+"C": "150",
+"D": "130"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 23,
+"subject": "accounting",
+"question": "Bad debt is also known as ",
+"options": {
+"A": "Unpaid debt",
+"B": "irrecoverable debt  ",
+"C": "Payment debt  ",
+"D": "current    debt"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 24,
+"subject": "accounting",
+"question": "Bad debt is an item in ",
+"options": {
+"A": "Trading, profit and loss account  ",
+"B": "consignment account  ",
+"C": "Balance sheet ",
+"D": "Receipt and expenditure AC"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2010",
+"image": ""
+},
+{
+"id": 25,
+"subject": "accounting",
+"question": "The diary or events in which all financial transactions    are    recorded    for    easy reference and to assist in the double entry system is ",
+"options": {
+"A": "Ledger",
+"B": "Journal   ",
+"C": "Purchases and sales day books ",
+"D": "Debit and credit documents"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 26,
+"subject": "accounting",
+"question": "Which of the following is not a book of original entry? ",
+"options": {
+"A": "Cash book  ",
+"B": "Purchases journal  ",
+"C": "Sales journal ",
+"D": "Ledger"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 27,
+"subject": "accounting",
+"question": "The test of arithmetical accuracy of all postings in the ledger is provided in the: ",
+"options": {
+"A": "Journal  ",
+"B": "Day book  ",
+"C": "Cash book  ",
+"D": "Trial balance"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 28,
+"subject": "accounting",
+"question": "Errors   revealed   by   the   trial   balance include error of:  ",
+"options": {
+"A": "Principle  ",
+"B": "Single entry ",
+"C": "Omission  ",
+"D": "commission "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 29,
+"subject": "accounting",
+"question": "Accounting equation is given by  ",
+"options": {
+"A": "Assets - Liabilities + Owner's Equity ",
+"B": "Assets = Liabilities - Owner's Equity ",
+"C": "Assets + Owner's Equity = Liabilities ",
+"D": "Assets = Liabilities + Owner's Equity"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 30,
+"subject": "accounting",
+"question": "Which of the following is not a current asset?  ",
+"options": {
+"A": "Stock  ",
+"B": "Debtors  ",
+"C": "Creditors ",
+"D": "Cash"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 31,
+"subject": "accounting",
+"question": "Final accounts of a company refers to: ",
+"options": {
+"A": "Trading and profit and loss account  ",
+"B": "Profit and loss account and balance sheet  ",
+"C": "Trading account and balance sheet  ",
+"D": "Trading , profit and loss account and balance sheet"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 32,
+"subject": "accounting",
+"question": "A cheque which has been sent but has yet gone through the bank account of the receiver of it is known as:",
+"options": {
+"A": "Dishonoured cheque",
+"B": "Unpresented cheque ",
+"C": "Uncredited cheque",
+"D": "Unhonoured cheque"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 33,
+"subject": "accounting",
+"question": "Which of the following does not appear in a bank statement?   ",
+"options": {
+"A": "Uncredited cheque ",
+"B": "Bank charges ",
+"C": "Dishonoured cheque ",
+"D": " Dividend   received   on    behalf   of customer"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 34,
+"subject": "accounting",
+"question": "Where a correct amount is entered, but in the wrong person's account, is an error of  ",
+"options": {
+"A": "Principle  ",
+"B": " Omission",
+"C": "Commission",
+"D": "Compensation"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 35,
+"subject": "accounting",
+"question": "A credit balance of N350,000 in a cash account shows that  ",
+"options": {
+"A": "N350.000 was the total cash received  ",
+"B": "N350,000 was the total cash paid out  ",
+"C": "Cash at hand equals N350,000 ",
+"D": "N350,000 was the cash overspent"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 36,
+"subject": "accounting",
+"question": "Which   accounting  concept  states; that revenues and expenses are recognized as they are earned or incurred and not when  money is received?",
+"options": {
+"A": "Entity   ",
+"B": "Realization",
+"C": "Accrual  ",
+"D": "Periodicity"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 37,
+"subject": "accounting",
+"question": "Which of the following is not a business asset?",
+"options": {
+"A": "Deposit account in bank",
+"B": "Interest due on loan",
+"C": "Five acres of land",
+"D": "Library books owned by a lawyer "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 38,
+"subject": "accounting",
+"question": "Prime cost is",
+"options": {
+"A": "Direct cost of production",
+"B": "Cost of raw materials consume:",
+"C": "Cost of raw materials purchase-:",
+"D": "Indirect cost of production"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 39,
+"subject": "accounting",
+"question": "Subscription   received   in   respect of a future period is",
+"options": {
+"A": "Subscription deposit",
+"B": "Subscription in advance",
+"C": "Accrued subscription",
+"D": "Subscription in arrears"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 40,
+"subject": "accounting",
+"question": "The petty cash book kept on imprest system should have",
+"options": {
+"A": "A credit balance only",
+"B": "A debit or nil balance",
+"C": "A debit balance only",
+"D": "Both debit and credit balance;"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2011",
+"image": ""
+},
+{
+"id": 41,
+"subject": "accounting",
+"question": "Wilson Company owns land which cost 14100, 000. If a \"quick sate\" of the land was necessary to generate cash, the company feels it would receive only N80, 000.    The company continues to report the asset on the balance sheet at N100, 000   This is justified under which of the following concepts?  ",
+"options": {
+"A": "The historical-cost principle.",
+"B": "The value is tied to objective and verifiable past transactions.",
+"C": "Neither of the above.",
+"D": " Both \"a\" and \"b\""
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 42,
+"subject": "accounting",
+"question": "Retained earnings will change over time because of several factors.  Which of the following factors would explain an increase in retained earning?",
+"options": {
+"A": "Net loss ",
+"B": "Net income,",
+"C": "Dividends ",
+"D": "investment by stakeholders."
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 43,
+"subject": "accounting",
+"question": "Which of the following would not be included in a balance sheet?",
+"options": {
+"A": "Accounts receivable",
+"B": "Accounts payable  ",
+"C": "Sales",
+"D": "Cash"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 44,
+"subject": "accounting",
+"question": "A company provided the following information about its balance sheet: Cash N100 Accounts receivable N500 Stockholders' equity 14700 Account payable N200 Bank loans Nl000 Based on the information provided, how much are Remington's liabilities?",
+"options": {
+"A": "N200   ",
+"B": "N900   ",
+"C": "N 1,200   ",
+"D": "N 1,700"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 45,
+"subject": "accounting",
+"question": "A complete set of financial statements for Hartman Company, at December 31, 1999, would include each of the following except:",
+"options": {
+"A": "Balance sheet as of December 31,1999 ",
+"B": "Income   statement   for   the   year   ended December 31, 1999.",
+"C": "Statement of projected cash flows for 2000  ",
+"D": "Notes containing additional information that is useful interpreting the financial statements."
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 46,
+"subject": "accounting",
+"question": "If the equipment account has a balance of N22.500 and its accumulated account has a balance of N14,000 the book value of the equipment is:  ",
+"options": {
+"A": "N22.500   ",
+"B": "N8.500 ",
+"C": "N 14,000  ",
+"D": "N36.500"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 47,
+"subject": "accounting",
+"question": "The balance unearned rent account for Jones Co. as at 31st Dec. is 1,200. If Jones Co tailed to record the adjusting entry for 600 of rent earned during December, the effect on the balance sheet and income statement",
+"options": {
+"A": "for December is:",
+"B": " Liabilities   overstated—N60Q:   c:et income overstate d 44600",
+"C": " Liabilities   understated   £4500:   net income  understated N600",
+"D": "Asset    understated—N600:     net    income  overstated N600"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 48,
+"subject": "accounting",
+"question": "If goods purchased on account is returned, the buyer may inform the seller of the details by issuing:",
+"options": {
+"A": "An invoice  ",
+"B": "A debt memorandum",
+"C": "A credit memorandum  ",
+"D": " A bill"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 49,
+"subject": "accounting",
+"question": "Which of the following entries classes the  owner's drawing account at the end of the period?",
+"options": {
+"A": "Debit the drawing account, credit the owner's capital account",
+"B": "Debit the income summary account credit the drawing account",
+"C": "Debit   the   drawing account credit income summary accounting",
+"D": "Debit the owner's capital account, credit the drawing account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 50,
+"subject": "accounting",
+"question": "At the end the fiscal year, account receivable has a balance of 100,000 and allowance for doubtful account has a balance of 7,000. The expected that realized value of the  receivable is: account",
+"options": {
+"A": "N 107,000",
+"B": "N100,000",
+"C": "c. N93,000",
+"D": "N 147,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 51,
+"subject": "accounting",
+"question": "Which of the following accounts would be classified as a current on the balance sheet?",
+"options": {
+"A": "Office Equipment",
+"B": "Accumulated Depreciation",
+"C": "Land",
+"D": "Accounts receivable"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 52,
+"subject": "accounting",
+"question": "A petty cash fund is:",
+"options": {
+"A": "Used to pay relatively small amount",
+"B": "reimbursed when the amount of money in the fund is reduced to a predetermined minimum amount",
+"C": "Established by estimating the amount of cash needed for disbursement of  relatively small amount during a specified period  ",
+"D": "All of the above"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 53,
+"subject": "accounting",
+"question": "A debit may signify: ",
+"options": {
+"A": "an increase in the owner's capital amount",
+"B": "an increase in a liability account",
+"C": "a decrease in an asset account",
+"D": "an increase in an asset account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 54,
+"subject": "accounting",
+"question": "The receipt of cash from customers in a payment of their account would recorded by a",
+"options": {
+"A": "Debit to account receivable; credit to cash ",
+"B": "b  Debit to cash credit to accounts receivable  ",
+"C": "Debit to cash, credit to accounts payable  ",
+"D": "Debit to account payable credit to cash"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 55,
+"subject": "accounting",
+"question": "The essential amount of depreciation or equipment for a period is 2,000 the adjusting end to record depreciation would be",
+"options": {
+"A": "Debit depreciation expense, 2000, credit expense, 2,000",
+"B": "Debit equipment, 2,000; credit depreciation expense, 2,000",
+"C": "Debit accumulated depreciation, 2,000. credit depreciation expense 2,000    ",
+"D": "Debit depreciation expense, 2,000; credit accumulated depreciation 2,000."
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 56,
+"subject": "accounting",
+"question": "Which of the following assets could be described as a current asset?",
+"options": {
+"A": "Stock of goods for resale",
+"B": "Machinery to manufacture goods for resale ",
+"C": " Buildings to house the machinery",
+"D": "Land on which the buildings stand."
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 57,
+"subject": "accounting",
+"question": "The purchase journal records:",
+"options": {
+"A": "invoices from creditors",
+"B": "Debtors' invoices",
+"C": "Cash payments to suppliers",
+"D": "Amounts owing to employees for wage;"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 58,
+"subject": "accounting",
+"question": "If a business shows a debit balance in its own record of its bank balance, this indicates.",
+"options": {
+"A": "The business has a bank overdraft",
+"B": "The business is a debtor of the bank",
+"C": "The business has money in the bank",
+"D": "The ledger entry must be wrong."
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 59,
+"subject": "accounting",
+"question": "If a business pays for only 11 months rent during a financial year, what accounting term is given to the outstanding term is given to the outstanding one month's rent? Which of the following equations properly represents a derivation of the fundamental accounting equation?",
+"options": {
+"A": "Assets + liabilities = owner's equity ",
+"B": "Assets = owner's equity",
+"C": "Cash = assets.  ",
+"D": "Assets - liabilities = owner's equity"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 60,
+"subject": "accounting",
+"question": "A business shows total debtors' balances of N400,000 in its ledger at the end of its financial year. A customer owing N40,000 is bankrupt, and there is no possibility of getting the debt paid. A further 2% of the debt is considered doubtful. What debtor's total will be included as a current asset in the balance sheet?",
+"options": {
+"A": "N400,000,   ",
+"B": "N352,800    ",
+"C": "N352,000.  ",
+"D": "N436,200 "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 61,
+"subject": "accounting",
+"question": "To arrive at the gross profit of a trading  business, which one of the following formulate is applied?",
+"options": {
+"A": "Sales - (Opening Stock-Purchases-Closing Stock)",
+"B": "Sales - (Opening stock + Purchases + Closing Stock)",
+"C": "Sales - (Opening stock + Purchases - Closing Stock)",
+"D": "Sales - (Opening stock - purchases + closing stock)"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 62,
+"subject": "accounting",
+"question": " Which one of the following is not part of a company's equity capital?",
+"options": {
+"A": "Ordinary shares",
+"B": "Preference shares",
+"C": "Voting Shares",
+"D": "Equity shares"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 63,
+"subject": "accounting",
+"question": " An expenditure whose benefit is finished or enjoyed immediately is called: ",
+"options": {
+"A": "Expense   ",
+"B": "Liability ",
+"C": "Cost ",
+"D": "Income"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 64,
+"subject": "accounting",
+"question": "Where no partnership agreements exist, a partner who puts a sum of money into a firm in excess of the capital he has agreed to subscribe is entitled to interest rate per annum on such money ",
+"options": {
+"A": "15%",
+"B": "10%",
+"C": "5%",
+"D": "2%"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 65,
+"subject": "accounting",
+"question": "MORADE had total assets of N760,000, capital stock of N150,000 and retained earnings of N215,000. What was Morade's debt-to-equity ratio? ",
+"options": {
+"A": "2.63",
+"B": "1.08",
+"C": "0.52",
+"D": "0.48"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 66,
+"subject": "accounting",
+"question": "9.   Which   of   the   following   is   a   correct expression of the accounting equation? ",
+"options": {
+"A": "Assets = Liabilities + Owner's Equity ",
+"B": "Assets = Liabilities - Owner's Equity ",
+"C": "Assets + Owners' Equity = Liabilities ",
+"D": "Assets = Liabilities - Owner's Equity"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 67,
+"subject": "accounting",
+"question": "Which of these items would be accounted for as an expense? ",
+"options": {
+"A": "repayment of a bank loan ",
+"B": "dividends to stockholders ",
+"C": "the purchase of land ",
+"D": "payment of the current period's rent"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 68,
+"subject": "accounting",
+"question": "At the end the fiscal year, account receivable has a balance of Nl00,000 and allowance for  doubtful   account  has a balance   of N7,000. The expected net realized value of the account receivable is: ",
+"options": {
+"A": "Nl07,000 ",
+"B": "N100,000 ",
+"C": "N93,000 ",
+"D": "N7,000 "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 69,
+"subject": "accounting",
+"question": "A debit balance of Nl50,000 in a cash account   shows   that   ",
+"options": {
+"A": "  cash  has   been overspent   by   N150,000   ",
+"B": "  there   was N150,000 cash in hand ",
+"C": " the total of cash received   was   less   than   N150,000   ",
+"D": "N150,000 was the total of cash paid out. "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 70,
+"subject": "accounting",
+"question": "Posting  the  transactions   in bookkeeping means ",
+"options": {
+"A": "making the first entry of a double entry transaction ",
+"B": "entering items in a cash book ",
+"C": "making the second  entry of a double entry transaction ",
+"D": "something other than the above."
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 71,
+"subject": "accounting",
+"question": " On December 31, 2012, Infinite Grace had a note payable due on August 1, 2013. On January 20, 2013, Infinite Grace signed a financing agreement to borrow the balance of the note payable from a lending institution to refinance the note. The agreement does not expire within one year, and no violation of any provision in the financing agreement exists. On  February 1, 2013. Infinite Grace was informed by its financial advisor that the lender is not expected to be financially capable of honouring the agreement. Infinite Grace's financial statements were issued on March 31, 2013. How should Infinite Grace classify the note on its balance sheet at December 31,2012? ",
+"options": {
+"A": "as a current liability because the financing agreement was signed after the balance sheet datecapable of honouring the agreement   ",
+"B": "as a current liability because the leader is not expected to be financially ",
+"C": " as   a   long-term   liability because  the agreement  does   not  expire within one year ",
+"D": " as a long-term liability because no violation of any provision in the financing agreement exists."
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 72,
+"subject": "accounting",
+"question": "A business shows total debtors' balance of N400,000 in its ledger at the end of its financial customer owing N40,00 are bankrupt, and there is no  possibility of getting the debt paid. A further 2% of the debt is considered doubtful. What debtor’ total will be included as a current asset in the balance sheet? ",
+"options": {
+"A": "N400,000  ",
+"B": "N352,800  ",
+"C": "N352, 000  ",
+"D": "N36, 200"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 73,
+"subject": "accounting",
+"question": "Companies and  Allied  Matters  Act. 1990 requires  every  company   to  keep  certain statutory books. Which of the following is not part of the statutory books to be kept by the company? ",
+"options": {
+"A": "register of directors and secretaries ",
+"B": "a register of charges (fixed and floating) ",
+"C": "minutes books of meetings of the company and meetings of its directors ",
+"D": "a register of companies in the same line of business"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 74,
+"subject": "accounting",
+"question": "The    main    objective   of   the   financial statements is to ",
+"options": {
+"A": "provide a true and fair- view of the financial position of the business ",
+"B": "help managers take correct decisions ",
+"C": "show every transaction affects two items in the  balance sheet ",
+"D": "help owners of a business to plan for the future."
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 75,
+"subject": "accounting",
+"question": " Impersonal accounts contain ",
+"options": {
+"A": "capital and cash account ",
+"B": "nominal account and real account ",
+"C": " real and cash account ",
+"D": "capital and real act minis "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 76,
+"subject": "accounting",
+"question": "One of (he following errors will affect the agreement of the trial balance ",
+"options": {
+"A": "error of omission ",
+"B": "trial balance error ",
+"C": "principle error ",
+"D": "error of original entry"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 77,
+"subject": "accounting",
+"question": "Which of the following is a fictitious asset? ",
+"options": {
+"A": "prepayments ",
+"B": "preliminary expenses ",
+"C": "investment ",
+"D": "plant and machinery "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 78,
+"subject": "accounting",
+"question": "  Which of the following is not part of the main uses of the journal ",
+"options": {
+"A": " purchase and sale   of   fixed   assets   on  credit   ",
+"B": "the  correction of errors ",
+"C": "writing off bad debts ",
+"D": "none of the above"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 79,
+"subject": "accounting",
+"question": "…………………checks the arithmetical accuracy of double entry accounts ",
+"options": {
+"A": "trading account ",
+"B": "profit and loss account ",
+"C": "balance sheet ",
+"D": "trial lance"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 80,
+"subject": "accounting",
+"question": "The distinguishing feature between a two-column and three-columncash book is",
+"options": {
+"A": "discount column",
+"B": "cash column",
+"C": "bank column",
+"D": "ledger folio"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 81,
+"subject": "accounting",
+"question": "The lodgment of business cash into the business bank account is an example of",
+"options": {
+"A": "contra entry",
+"B": "bank reconciliation",
+"C": "self balancing ledger",
+"D": "reversal entry"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 82,
+"subject": "accounting",
+"question": "credit balance is",
+"options": {
+"A": "a liability or an expense.",
+"B": "a liability or an income.",
+"C": "an expenditure or an income.",
+"D": "an asset or an expense."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 83,
+"subject": "accounting",
+"question": "Which of the following is not a characteristic of a Trial Balance?",
+"options": {
+"A": "It has columns for debit and credit balances",
+"B": "Total of debit balance equals total of credit balance",
+"C": "It is a statement",
+"D": "It is an account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 84,
+"subject": "accounting",
+"question": "The capital of a sole trader changes as a result of",
+"options": {
+"A": "paying wages by cash.",
+"B": "equipment purchased by cheque.",
+"C": "drawings by cheque.",
+"D": "purchases on credit."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 85,
+"subject": "accounting",
+"question": "The order of financial accounting process involves: (I) recording; (II) presenting; (III) collecting; (IV) analyzing.",
+"options": {
+"A": "I, II. Ill and IV",
+"B": "II, III, I and IV",
+"C": "Ill, I, II and IV",
+"D": "IV, III, II and I"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 86,
+"subject": "accounting",
+"question": "A dishonoured cheque is",
+"options": {
+"A": "debited in the cash book.",
+"B": "credited in the cash book.",
+"C": "double entry in the cash book.",
+"D": "credited in the bank book."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 87,
+"subject": "accounting",
+"question": "A petty cashier received a float of GHc 120 and spent GHc 84. The imprest is",
+"options": {
+"A": "GHc 204.",
+"B": "GHc 120.",
+"C": "GHc 84.",
+"D": "GHc 36."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 88,
+"subject": "accounting",
+"question": "Which of the following is not a book of original entry?",
+"options": {
+"A": "Cash Book",
+"B": "Purchases Ledger",
+"C": "Returns Outwards Journal",
+"D": "General Journal"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 89,
+"subject": "accounting",
+"question": "The current ratio is",
+"options": {
+"A": "1.87 : 1.",
+"B": "1 : 1.87.",
+"C": "1 : 2.",
+"D": "2 : 1."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 90,
+"subject": "accounting",
+"question": "The capital employed is",
+"options": {
+"A": "N=740,000.",
+"B": "N=580,000.",
+"C": "N=370,000.",
+"D": "N=280,000."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 91,
+"subject": "accounting",
+"question": "The returns on capital employed is",
+"options": {
+"A": "17.2%",
+"B": "16.2%.",
+"C": "15.2%.",
+"D": "11.2%."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 92,
+"subject": "accounting",
+"question": "The double entry principle states that",
+"options": {
+"A": "every debit entry must have a corresponding credit entry",
+"B": "every credit entry must have a corresponding double entry",
+"C": "every debit entry must have a corresponding double entry",
+"D": "every asset must have a corresponding liability."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 93,
+"subject": "accounting",
+"question": "Which of the following is a nominal account?",
+"options": {
+"A": "Machinery Account",
+"B": "Drawings Account",
+"C": "Debtors Account",
+"D": "Wages Account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 94,
+"subject": "accounting",
+"question": "Reserves account is kept in the",
+"options": {
+"A": "private ledger.",
+"B": "creditors ledger.",
+"C": "nominal ledger.",
+"D": "debtors ledger."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 95,
+"subject": "accounting",
+"question": "An advantage of control account is",
+"options": {
+"A": "locating figures.",
+"B": "adding figures.",
+"C": "changing figures.",
+"D": "locating errors."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 96,
+"subject": "accounting",
+"question": "The accumulated fund of a not-for-profit making organization is",
+"options": {
+"A": "a fixed asset.",
+"B": "a current asset.",
+"C": "a liability.",
+"D": "capital."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 97,
+"subject": "accounting",
+"question": "A business is treated as being separate from the owners. This statement is emphasized by",
+"options": {
+"A": "consistency concept.",
+"B": "realization concept.",
+"C": "going concern concept.",
+"D": "business entity concept."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 98,
+"subject": "accounting",
+"question": "Which of the following is recorded on the debit side of the Trial Balance?",
+"options": {
+"A": "Bank overdraft",
+"B": "Returns outwards",
+"C": "Purchases",
+"D": "Capital"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 99,
+"subject": "accounting",
+"question": "Which of the following is determined in the Trading Account?",
+"options": {
+"A": "Factory overheads",
+"B": "Cost of goods sold",
+"C": "Prime cost",
+"D": "Net profit"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 100,
+"subject": "accounting",
+"question": "Cash receipts and payments involving discounts are entered in",
+"options": {
+"A": "three-column cash book.",
+"B": "two-column cash book.",
+"C": "analytical cash book.",
+"D": "petty cash book."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 101,
+"subject": "accounting",
+"question": "The minimum number of persons required to form a partnership business is",
+"options": {
+"A": "2.",
+"B": "3.",
+"C": "5",
+"D": "10."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 102,
+"subject": "accounting",
+"question": "Which of the following accounts has a credit balance?",
+"options": {
+"A": "Returns Inwards Account",
+"B": "Machinery Account",
+"C": "Sales Account",
+"D": "Cash Account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 103,
+"subject": "accounting",
+"question": "The accounting principle that states that, in the preparation of accounting statement, revenue are recognized as        soon as goods are passed on to the customer is the",
+"options": {
+"A": "materiality concept.",
+"B": "matching concept.",
+"C": "consistency concept.",
+"D": "realization concept."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 104,
+"subject": "accounting",
+"question": "Agreement between partners is contained in the Partnership",
+"options": {
+"A": "Act.",
+"B": "Deed.",
+"C": "Accord",
+"D": "Deal."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 105,
+"subject": "accounting",
+"question": "A low current ratio in a business indicates that the business is",
+"options": {
+"A": "faced with long term loan repayment problem.",
+"B": "efficient in the utilization of its resources.",
+"C": "unable to pay its bills on time.",
+"D": "growing its net asset effectively."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 106,
+"subject": "accounting",
+"question": "Which of the following is a recurrent expenditure in public sector accounting?",
+"options": {
+"A": "Purchase of vehicles",
+"B": "Purchase of drugs",
+"C": "Construction of boreholes",
+"D": "Construction of buildings"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 107,
+"subject": "accounting",
+"question": "In departmental accounts, administrative expenses are recorded in the",
+"options": {
+"A": "Trading Account.",
+"B": "Balance Sheet.",
+"C": "Profit and Loss Account.",
+"D": "Profit and Loss Appropriation Account."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 108,
+"subject": "accounting",
+"question": "The Public Accounts Committee is an organ of",
+"options": {
+"A": "military regime.",
+"B": "parliament.",
+"C": "presidency.",
+"D": "councilors."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 109,
+"subject": "accounting",
+"question": "The balance at the end of the period is",
+"options": {
+"A": " 270,000.",
+"B": "139,000.",
+"C": "131,000.",
+"D": "120,000."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 110,
+"subject": "accounting",
+"question": "The total expenditure for the period is",
+"options": {
+"A": "319,000.",
+"B": "270,000",
+"C": "139,000.",
+"D": "109,000."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 111,
+"subject": "accounting",
+"question": "Which of the following is not an item on the credit side of the purchases ledger control account?",
+"options": {
+"A": "Cash received",
+"B": "Cash payment",
+"C": "Contra settlement",
+"D": "Cheque payment"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 112,
+"subject": "accounting",
+"question": "When a business is purchased from a sole trader, the excess of the purchase price over the net assets is",
+"options": {
+"A": "reserve.",
+"B": "goodwill.",
+"C": "freehold.",
+"D": "valuation price."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 113,
+"subject": "accounting",
+"question": "A set of instructions or programs which controls the operation of a computer is",
+"options": {
+"A": "software.",
+"B": "hardware.",
+"C": "monitor.",
+"D": "keyboard."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 114,
+"subject": "accounting",
+"question": "The process of detecting, tracing and eliminating errors in a computer program is",
+"options": {
+"A": "reproduction.",
+"B": "debugging.",
+"C": "sorting.",
+"D": "retrieving."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 115,
+"subject": "accounting",
+"question": "In a not-for-profit making organization, the cash book is referred to as",
+"options": {
+"A": "income and expenditure account.",
+"B": "receipts and payments account.",
+"C": "two column cash book.",
+"D": "petty cash book."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 116,
+"subject": "accounting",
+"question": "When the going concern concept is no longer applicable, the fixed assets are recorded at their",
+"options": {
+"A": "net book value.",
+"B": "realizable value.",
+"C": "gross value.",
+"D": "revalued amount."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 117,
+"subject": "accounting",
+"question": "The cost of raw materials consumed is",
+"options": {
+"A": "GHc 58,000.",
+"B": "GHc 52,500.",
+"C": "GHc 52,000.",
+"D": "GHc 50,000."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 118,
+"subject": "accounting",
+"question": "The prime cost is",
+"options": {
+"A": "GHc 64,500.",
+"B": "GHc 64,000.",
+"C": "GHc 58,500.",
+"D": "GHc 52,500."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 119,
+"subject": "accounting",
+"question": "Which of the following relates to the essence of partnership? To",
+"options": {
+"A": "run a charity organization.",
+"B": "pursue a social objective.",
+"C": "form a business for profit.",
+"D": "run a religious objective."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 120,
+"subject": "accounting",
+"question": "The basic assumption which underlines the preparation of periodic financial statement is known as accounting",
+"options": {
+"A": "bases.",
+"B": "techniques.",
+"C": "concepts.",
+"D": "method."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 121,
+"subject": "accounting",
+"question": "Upon the dissolution of a partnership business, the party to be settled first out of the proceeds realized is",
+"options": {
+"A": "unsecured creditors.",
+"B": "partners’ loan and advances.",
+"C": "secured creditors.",
+"D": "partners’ capital."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 122,
+"subject": "accounting",
+"question": "Stock account is a type of",
+"options": {
+"A": "nominal account.",
+"B": "personal account.",
+"C": "real account.",
+"D": "fixed assets account."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 123,
+"subject": "accounting",
+"question": "At the end of a trading period, cost of goods sold is debited to the trading account while cost of services is        debited to the",
+"options": {
+"A": "balance sheet.",
+"B": "manufacturing account.",
+"C": "trading account.",
+"D": "profit and loss account."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 124,
+"subject": "accounting",
+"question": "Which of the following is not part of prime costof production?",
+"options": {
+"A": "Depreciation of factory equipment",
+"B": "Direct expenses",
+"C": "Direct wages",
+"D": "Carriage on raw materials"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 125,
+"subject": "accounting",
+"question": "Excess of current assets over current liabilities is",
+"options": {
+"A": "deferred capital.",
+"B": "nominal capital.",
+"C": "working capital",
+"D": "authorized capital."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 126,
+"subject": "accounting",
+"question": "A statement showing a trader’s financial position as at a particular date is a/an",
+"options": {
+"A": "trading account.",
+"B": "profit and loss account.",
+"C": "balance sheet.",
+"D": "appropriation account."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 127,
+"subject": "accounting",
+"question": "A trading account is prepared to disclose the",
+"options": {
+"A": "net profit or loss for the year.",
+"B": "gross profit or loss for the year.",
+"C": "accumulated fund for the year.",
+"D": "gross profit on manufacturing."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 128,
+"subject": "accounting",
+"question": "Balance as per cash book 2, 970  Bank Charges 220 ;Unpresented cheques 3, 950; Uncredited cheques 4,178 ; Direct debit by bank 1, 000 . Determine  the balance as per bank Statement",
+"options": {
+"A": "N1,978",
+"B": "N1,962",
+"C": "N1,522",
+"D": "N2,522"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 129,
+"subject": "accounting",
+"question": "The records of Superstores shows a loan of  N14,000 from Bala, creditor N8, 000 and assets N190, 500. What is the firm’s capital?",
+"options": {
+"A": "184, 000",
+"B": "1 96, 500",
+"C": "212 000",
+"D": "168, 500"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 130,
+"subject": "accounting",
+"question": "The major advantage of the journal proper is that it",
+"options": {
+"A": "helps in the preparation of the balance sheet",
+"B": "prevents fraud and theft of item of the business",
+"C": "serves as a book of instruction to the bookkeeper",
+"D": "helps the banking industry to be efficient."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 131,
+"subject": "accounting",
+"question": "One of the objectives of accounting is that it can be used for",
+"options": {
+"A": "business decision making",
+"B": "due process in business",
+"C": "motivating employees",
+"D": "determining the work force."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 132,
+"subject": "accounting",
+"question": "The ratio that gives the indication of the efficiency of a firm’s sales with respect to cost of goods sold is a",
+"options": {
+"A": "return on capital employed",
+"B": "gross profit margin",
+"C": "net profit margin",
+"D": "return on equity."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 133,
+"subject": "accounting",
+"question": "The instrument used in analysis and interpretation of financial statement is the",
+"options": {
+"A": "accounting ratios",
+"B": "income and expenditure extract",
+"C": "balance sheet extract",
+"D": "fund accounting."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 134,
+"subject": "accounting",
+"question": "An item in the balance sheet of a limited liability company is",
+"options": {
+"A": "accrued expenses",
+"B": "lighting and heating",
+"C": "salaries and wages",
+"D": "general expenses."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 135,
+"subject": "accounting",
+"question": "The documents that provide instant information to firms on their transactions with banks are",
+"options": {
+"A": "bank statement and debit note",
+"B": "cheque stub and deposit slip",
+"C": "cheque book and cashbook",
+"D": "payslip and credit invoice."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 136,
+"subject": "accounting",
+"question": "Which of the following is the capital reserve of a company?",
+"options": {
+"A": "Accumulated depreciation.",
+"B": "Retained profit.",
+"C": "Share premium",
+"D": "Loss on forfeited shares"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 137,
+"subject": "accounting",
+"question": "The effect of overstating-revenue expenditure in the profit and loss account is that the",
+"options": {
+"A": "opening stock will be increased",
+"B": "net profit will be understated",
+"C": "net profit will be overstated",
+"D": "opening stock will be decreased"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 138,
+"subject": "accounting",
+"question": "Which of the following conditions would attract credit and debit notes to be used?",
+"options": {
+"A": "When goods are received from supplier.",
+"B": "When a trial balance is extracted",
+"C": "When a buyer is under or over charged.",
+"D": "When goods are sold to a buyer."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 139,
+"subject": "accounting",
+"question": "Given:  Drawings [3,500]; Net loss [2, 500]; Capital 1.1.2007 [35, 000], Additional capital [10, 000]. The adjusted capital as at 31 : 12 : 2007 is",
+"options": {
+"A": "N45, 000",
+"B": "N39,000",
+"C": "N35, 000",
+"D": "N46, 000"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 140,
+"subject": "accounting",
+"question": "A receipt is an evidence of",
+"options": {
+"A": "payments",
+"B": "stocking",
+"C": "delivery",
+"D": "discounts."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 141,
+"subject": "accounting",
+"question": "An organization which has records of only personal accounts is said to be operating on the basis of",
+"options": {
+"A": "single entry",
+"B": "real accounts",
+"C": "double entry",
+"D": "nominal accounts"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 142,
+"subject": "accounting",
+"question": "A proprietor started business with N13, 000.  Assets and liabilities at the end of the year; fixed assets N8, 800, stock N2, 600, debtors  N1 , 000, cash N3, 000 and creditors N1 , 000. Determine the profit for the year?",
+"options": {
+"A": "N2, 400",
+"B": "N3, 000",
+"C": "N9, 800",
+"D": "N 1 , 400"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 143,
+"subject": "accounting",
+"question": "Badge Plc issued 450, 000 ordinary shares, of 50K each at N1 .50 per share. Application and allotment 45k, 1st call 50k, 2nd call 55k. Determine the amount received on final call.",
+"options": {
+"A": "N225, 000",
+"B": "N236, 250",
+"C": "N 247, 500",
+"D": "N 202, 500"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 144,
+"subject": "accounting",
+"question": "When goods are sent to the branch at cost plus mark­up, it means that the branch should sell at",
+"options": {
+"A": "a price above or below the stipulated price",
+"B": "any price but not below the transfer price",
+"C": "cost price",
+"D": "a price that is equal to the mark-up."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 145,
+"subject": "accounting",
+"question": "The income and expenditure account differs from receipts and payments account because it",
+"options": {
+"A": "accounts for notional charges",
+"B": "records transactions that relate to the period on cash basis",
+"C": "records transactions that relate to the period  on accrual basis",
+"D": "accounts for balance of cash at bank."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 146,
+"subject": "accounting",
+"question": "The major sources of revenue for the state and local governments is",
+"options": {
+"A": "value added tax",
+"B": "statutory allocation",
+"C": "taxes and levies",
+"D": "recurrent revenue."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 147,
+"subject": "accounting",
+"question": "Which of the following -is -correct about the imprest system?",
+"options": {
+"A": "II and IV",
+"B": "I, III and IV",
+"C": "I, II and III",
+"D": "III and IV"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 148,
+"subject": "accounting",
+"question": "When the fixed capital method is used, the partners share of profits and remunerations are credited to the",
+"options": {
+"A": "current account.",
+"B": "profit and Loss account.",
+"C": "profit and loss appropriation account.",
+"D": "capital account."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 149,
+"subject": "accounting",
+"question": "A discount that is allowed to encourage a debtor to pay off his debt within a period is the",
+"options": {
+"A": "trade discount",
+"B": "annual discount",
+"C": "periodic discount",
+"D": "cash discount."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 150,
+"subject": "accounting",
+"question": "The costs of acquiring fixed assets and bringing them into the firm is a",
+"options": {
+"A": "general expenses",
+"B": "recurrent expenditure",
+"C": "revenue expenditure",
+"D": "capital expenditure."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 151,
+"subject": "accounting",
+"question": "The impersonal account is subdivided into",
+"options": {
+"A": "realand nominal accounts",
+"B": "nominal and personal accounts",
+"C": "real and current accounts",
+"D": "personal and real accounts."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 152,
+"subject": "accounting",
+"question": "Opening balance of Diksacompany was 12, 202, closing balance N15,300, total cash received during the period N40, 000. What was the amount of cash paid during the same period?",
+"options": {
+"A": "N36. 902",
+"B": "N27,502",
+"C": "N12,498",
+"D": "N43.098"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 153,
+"subject": "accounting",
+"question": "The total cash and cheques received from customers in a control account is derived from the",
+"options": {
+"A": "income and expenditure account",
+"B": "cashbook",
+"C": "purchases day book",
+"D": "sales journal"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 154,
+"subject": "accounting",
+"question": "Which of the followings is a credit item in creditors ledger control account?",
+"options": {
+"A": "Returns outwards.",
+"B": "Discount Received.",
+"C": "Bad debts.",
+"D": "Purchases."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 155,
+"subject": "accounting",
+"question": "The trader’s capital in a single entry system is ascertained by preparing",
+"options": {
+"A": "gross profit",
+"B": "statement of affairs",
+"C": "suspense account",
+"D": "appropriation account"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 156,
+"subject": "accounting",
+"question": "From the information above, sources of income for a Not-for-profit making organization include",
+"options": {
+"A": "I, III, IV",
+"B": "I, II, III",
+"C": "I, II, IV",
+"D": "I and IV"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 157,
+"subject": "accounting",
+"question": "Clifford pays rent of  N200 per month for premises. He paid N 2,800 within the year, Compute the prepayment.",
+"options": {
+"A": "N300",
+"B": "N400",
+"C": "N660",
+"D": "N200"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 158,
+"subject": "accounting",
+"question": "Purchases can be ascertained through the preparation of a",
+"options": {
+"A": "stock account",
+"B": "sales account",
+"C": "total debtors’ control account",
+"D": "total creditors, control account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 159,
+"subject": "accounting",
+"question": "When stock is withdrawn, for personal use, the accounting entries is to debit",
+"options": {
+"A": "stock account, credit drawings",
+"B": "drawing account credit stock account",
+"C": "personal account credit cash account",
+"D": "cash account, credit personal account."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 160,
+"subject": "accounting",
+"question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled N800,000. A provision of 2% was made for discount and 5% provision for bad and doubtful debts.  Find the amount for sundry debtors after provision.",
+"options": {
+"A": "N744,800",
+"B": "N 760,000",
+"C": "N784, 000",
+"D": "N744, 000"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 161,
+"subject": "accounting",
+"question": "Which of the following is accounted for in receipts and payments account?",
+"options": {
+"A": "Accrued expenses on annual dances",
+"B": "Subscriptions due but not yet received",
+"C": "Interest on bank deposit",
+"D": "Depreciation of the club house."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 162,
+"subject": "accounting",
+"question": "When the purchase Consideration is lower than the net asset, the buyer has gained the advantage of",
+"options": {
+"A": "capital reserve",
+"B": "revenue reserve",
+"C": "net-income",
+"D": "net loss"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 163,
+"subject": "accounting",
+"question": "An increase in government expenditure within a year is taken care of by means of",
+"options": {
+"A": "virement",
+"B": "financial regulations",
+"C": "supplementary estimate",
+"D": "warrant."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 164,
+"subject": "accounting",
+"question": "A business organization prepares departmental account in order to",
+"options": {
+"A": "ascertain the contribution of each department to the organization",
+"B": "ascertain interdepartmental transfer",
+"C": "build other branches",
+"D": "know the number of departments in the organization."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 165,
+"subject": "accounting",
+"question": "The objective of departmental account is to",
+"options": {
+"A": "ascertain the amount of profits or losses for the enterprise",
+"B": "ascertain the amount of profits or losses for each department",
+"C": "ascertain the cost of running the organization.",
+"D": "offset the loss of each department."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 166,
+"subject": "accounting",
+"question": "Which of the following expenses relate to the profit and loss account of a manufacturing firm?",
+"options": {
+"A": "Administrative overhead.",
+"B": "Direct labour",
+"C": "Direct materials.",
+"D": "Work-in-progress."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 167,
+"subject": "accounting",
+"question": "The difference between book keeping and accounting is that while",
+"options": {
+"A": "book keeping interprets data accounting records it",
+"B": "book keeping is regarded as  the language of the business, accounting ascertains its .strength and weakness",
+"C": "book keeping records data accounting interprets it",
+"D": "book keeping - summaries information, accounting communicates it."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 168,
+"subject": "accounting",
+"question": "Alaka who owed Saka N15, 000, settled his deb  after- deducting cash discount of 10%. To record the discount in the book of Saka, debit",
+"options": {
+"A": "Saka’s account and credit discount received account",
+"B": "Alaka’s account and credit discount received account",
+"C": "discount received account andcredit Alaka’s account",
+"D": "discount allowed account and credit Alaka’s account."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 169,
+"subject": "accounting",
+"question": "If the scrap value is now N15, 000, what will be the yearly depreciation using straight line method?",
+"options": {
+"A": "N11 000",
+"B": "N7, 000",
+"C": "N 4, 000",
+"D": "N24. 000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 170,
+"subject": "accounting",
+"question": "The yearly depreciation using the straight line method would be",
+"options": {
+"A": "N5,200",
+"B": "N6,500",
+"C": "N8, 800",
+"D": "N4, 400"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 171,
+"subject": "accounting",
+"question": "The gross profit on manufacture is",
+"options": {
+"A": "N 6,120",
+"B": "N 6,100",
+"C": "N 5,100",
+"D": "N  5,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 172,
+"subject": "accounting",
+"question": "The market value of goods produced is",
+"options": {
+"A": "N30,500",
+"B": "N3, 600",
+"C": "N31,600",
+"D": "N31,620"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2016",
+"image": ""
+},
+{
+"id": 173,
+"subject": "accounting",
+"question": "A suspense account is used to",
+"options": {
+"A": "agree the trial balance",
+"B": "record sales",
+"C": "record purchases",
+"D": "correct errors"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 174,
+"subject": "accounting",
+"question": "To correct an error, the Purchases Account was debited while Suspense Account was credited. Which  of  the following was the cause of the error?",
+"options": {
+"A": "Under casting of purchases",
+"B": "Overcasting of purchases",
+"C": "Original entry.",
+"D": "Transportation of returns outwards"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 175,
+"subject": "accounting",
+"question": "Subscription in advance is treated in the Balance Sheet of \tnon-profit making organizations as",
+"options": {
+"A": "current asset",
+"B": "fixed asset",
+"C": "Current liability",
+"D": "accumulated fund"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 176,
+"subject": "accounting",
+"question": "A Sales Day Book is used to record",
+"options": {
+"A": "cash sales of stock",
+"B": "credit sales of stock",
+"C": "cash and credit sales of stock",
+"D": "cash sales of fixed assets"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 177,
+"subject": "accounting",
+"question": "Which of the following is not a capital expenditure to a local government?",
+"options": {
+"A": "Beds",
+"B": "Theatre equipment",
+"C": "Incubators",
+"D": "Drugs"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 178,
+"subject": "accounting",
+"question": "A Receipt and Payments Account reveals",
+"options": {
+"A": "net profit",
+"B": "surplus",
+"C": "cash in hand",
+"D": "gross profit"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 179,
+"subject": "accounting",
+"question": "An example of appropriation of profit in a company is",
+"options": {
+"A": "salaries",
+"B": "rent income",
+"C": "debenture interest",
+"D": "dividend."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 180,
+"subject": "accounting",
+"question": "In a partnership goodwill is recognized when",
+"options": {
+"A": "a new partner is admitted",
+"B": "a partner is dormant",
+"C": "the business is making huge profit",
+"D": "the business has good customer relations"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 181,
+"subject": "accounting",
+"question": "Which of the following is a normal account?",
+"options": {
+"A": "Machinery",
+"B": "Debtors",
+"C": "Creditors",
+"D": "Salaries"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 182,
+"subject": "accounting",
+"question": "The net book value at the time of sale was",
+"options": {
+"A": "N=  16,000",
+"B": "N=  14,000",
+"C": "N=  12,000",
+"D": "N= 6,000."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 183,
+"subject": "accounting",
+"question": "Accumulated depreciation at the time of sale was",
+"options": {
+"A": "N= 16,000",
+"B": "N=  14,000",
+"C": "N=  12,000",
+"D": "N=  8,000"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 184,
+"subject": "accounting",
+"question": "The prof it on sale was",
+"options": {
+"A": "N=  8,000",
+"B": "N=  7,000",
+"C": "N=  6,000",
+"D": "N=  1,000."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 185,
+"subject": "accounting",
+"question": "In Manufacturing Account, prime cost plus factory overhead is known as",
+"options": {
+"A": "conversion cost",
+"B": "cost of raw materials consumed",
+"C": "total cost",
+"D": "production cost"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 186,
+"subject": "accounting",
+"question": "Which of the following is an advantage of the imprest system?",
+"options": {
+"A": "Making high profits in the business",
+"B": "Rewarding the imprest holder",
+"C": "Easy preparation of the final accounts",
+"D": "Meeting small items of expenditure"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 187,
+"subject": "accounting",
+"question": "Where a business is purchased, the full amount of the purchase consideration is credited to",
+"options": {
+"A": "Purchase of Business Account",
+"B": "Creditor’s Account",
+"C": "Vendor’s Account",
+"D": "Purchaser’s Account."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 188,
+"subject": "accounting",
+"question": "A financial plan of action expressed in monetary terms is known as",
+"options": {
+"A": "imprest",
+"B": "consolidated fund",
+"C": "warrant",
+"D": "budget"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 189,
+"subject": "accounting",
+"question": "Which of the following is not a source document for recording sales?",
+"options": {
+"A": "Debit note",
+"B": "Credit note",
+"C": "Receipt",
+"D": "Sales journal"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 190,
+"subject": "accounting",
+"question": "The mark-up is",
+"options": {
+"A": "N  15,000",
+"B": "N 9,000",
+"C": "N  4,000",
+"D": "N  3,000"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 191,
+"subject": "accounting",
+"question": "The double entry required for the mark-up is debit Branch",
+"options": {
+"A": "Sales Account, credit Branch Adjustment Account",
+"B": "Adjustment Account, credit Branch Stock Account",
+"C": "Stock Account, credit Branch Adjustment Account",
+"D": "Profit and Loss Account, credit Branch Stock Account,"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 192,
+"subject": "accounting",
+"question": "A ledger is a",
+"options": {
+"A": "book of accounts",
+"B": "summary of entries",
+"C": "book of original entry",
+"D": "double entry posting"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 193,
+"subject": "accounting",
+"question": "A real account is the account of",
+"options": {
+"A": "expenses or losses",
+"B": "gains or income",
+"C": "physical tangible items",
+"D": "fictitious items"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 194,
+"subject": "accounting",
+"question": "An item is fictitious because it",
+"options": {
+"A": "does not exist",
+"B": "is too costly",
+"C": "is worthless",
+"D": "cannot be sold for cash"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 195,
+"subject": "accounting",
+"question": "Which of the following is not a personal account?",
+"options": {
+"A": "Bolaji Account",
+"B": "Drawings Account",
+"C": "P.Z. Plc Account",
+"D": "Cash Account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 196,
+"subject": "accounting",
+"question": "A provision is",
+"options": {
+"A": "an expense of business to be paid for in cash",
+"B": "an amount of loss from trading activities",
+"C": "a loss in value of all business assets",
+"D": "an expense the amount of which is not certain"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 197,
+"subject": "accounting",
+"question": "A cash discount is a",
+"options": {
+"A": "Trading Account item",
+"B": "Profit and Loss Account item",
+"C": "Appropriation Account item",
+"D": "Receipts and Payments Account item"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 198,
+"subject": "accounting",
+"question": "The amount of capital expenditure for 1995 was",
+"options": {
+"A": "N  260,000",
+"B": "N  230,000",
+"C": "N  220,000",
+"D": "N  160,000"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 199,
+"subject": "accounting",
+"question": "The amount of revenue expenditure for 1995 was",
+"options": {
+"A": "N  260,000",
+"B": "N  230,000",
+"C": "N  220,000",
+"D": "N  160,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 200,
+"subject": "accounting",
+"question": "An expense becomes an accrual because it",
+"options": {
+"A": "is due for payment",
+"B": "is a Profit and Loss Account item",
+"C": "is a Trading Account item",
+"D": "is to be paid within the next one year"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 201,
+"subject": "accounting",
+"question": "The amount for which a business is sold is known as",
+"options": {
+"A": "goodwill",
+"B": "capital reserve",
+"C": "purchase consideration",
+"D": "premium"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 202,
+"subject": "accounting",
+"question": "The person, who is responsible for the formation of a company is called the",
+"options": {
+"A": "promoter",
+"B": "sponsor",
+"C": "shareholder",
+"D": "director"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 203,
+"subject": "accounting",
+"question": "The amount of a company’s profit given to a shareholder is known as",
+"options": {
+"A": "premium",
+"B": "dividend",
+"C": "interest",
+"D": "allotment"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 204,
+"subject": "accounting",
+"question": "Which of the following best describes the path of a transaction?",
+"options": {
+"A": "Source documents to Journal to Ledger",
+"B": "Source documents to Ledger to Journal",
+"C": "Journal to Ledger to source documents",
+"D": "Journal to source documents to Ledger"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 205,
+"subject": "accounting",
+"question": "Where there are no proper books of account, the capital at the commencement of a period is ascertained by preparing",
+"options": {
+"A": "Total Debtors and Creditors Accounts",
+"B": "Bank Reconciliation Statement",
+"C": "Statement of Affairs",
+"D": "Trading, Profit and Loss Accounts"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 206,
+"subject": "accounting",
+"question": "Rent receivable is a",
+"options": {
+"A": "current asset",
+"B": "current liability",
+"C": "contingent liability",
+"D": "fictitious asset"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 207,
+"subject": "accounting",
+"question": "Which of the following is a factory overhead?",
+"options": {
+"A": "carriage on raw materials",
+"B": "Purchase of raw materials",
+"C": "Production wages",
+"D": "Depreciation of factory equipment."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 208,
+"subject": "accounting",
+"question": "The purchase consideration was",
+"options": {
+"A": "N  24,000",
+"B": "N 23,000",
+"C": "N  20,000",
+"D": "N 15,000"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 209,
+"subject": "accounting",
+"question": "The amount of goodwill was",
+"options": {
+"A": "N  4,000",
+"B": "N  3,000",
+"C": "N  2,000",
+"D": "N  1,000."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 210,
+"subject": "accounting",
+"question": "When a share is sold for less than its nominal value, the difference is called",
+"options": {
+"A": "discount",
+"B": "reserve",
+"C": "premium",
+"D": "loss"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 211,
+"subject": "accounting",
+"question": "Which of the following serves the same purpose as a Trading Account?",
+"options": {
+"A": "Branch Adjustment Account",
+"B": "Goods sent to Branch Account",
+"C": "Branch Stock Account",
+"D": "Branch Debtors Account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 212,
+"subject": "accounting",
+"question": "Which of the following is not a revenue receipt?",
+"options": {
+"A": "Receipt from sales of goods",
+"B": "Rent from premises sublet",
+"C": "Interest on savings account",
+"D": "cash on sale of fixed asset"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "1997",
+"image": ""
+},
+{
+"id": 213,
+"subject": "accounting",
+"question": "The art of collecting, recording, presenting and interpreting accounting data is",
+"options": {
+"A": "cost accounting",
+"B": "management accounting",
+"C": "financial accounting",
+"D": "data processing."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 214,
+"subject": "accounting",
+"question": "The depreciation method in which the number of years of the useful life of an asset is allocated in a reverse order is",
+"options": {
+"A": "straight line",
+"B": "reducing balance",
+"C": "sum of the years’ digits",
+"D": "revaluation."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 215,
+"subject": "accounting",
+"question": "A system where a separate cash book is maintained for small payments is",
+"options": {
+"A": "single entry",
+"B": "imprest",
+"C": "float",
+"D": "reimbursement."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 216,
+"subject": "accounting",
+"question": "Public sector accounting is practiced in",
+"options": {
+"A": "public limited companies",
+"B": "government organizations",
+"C": "profit making organizations",
+"D": "public trading companies."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 217,
+"subject": "accounting",
+"question": "A book that contains the accounts for the financial transactions of an organization is the",
+"options": {
+"A": "journal",
+"B": "ledger",
+"C": "folio",
+"D": "register"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 218,
+"subject": "accounting",
+"question": "A sales ledger contains",
+"options": {
+"A": "creditors’ accounts",
+"B": "nominal accounts",
+"C": "real accounts",
+"D": "debtors’ accounts."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 219,
+"subject": "accounting",
+"question": "Books of account consists of",
+"options": {
+"A": "ledgers and subsidiary books",
+"B": "ledgers and principal books",
+"C": "folios and subsidiary books",
+"D": "ledgers and cash book."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 220,
+"subject": "accounting",
+"question": "The amount set aside out of profits earned by a company which are not meant for liability or contingency are",
+"options": {
+"A": "dividends",
+"B": "provisions",
+"C": "retained profits",
+"D": "reserves"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 221,
+"subject": "accounting",
+"question": "The basis of accounting which eliminates debtors and creditors is",
+"options": {
+"A": "cash basis",
+"B": "accrual basis",
+"C": "fund basis",
+"D": "commitment basis."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 222,
+"subject": "accounting",
+"question": "Which of the following is not a revenue account?",
+"options": {
+"A": "Sales",
+"B": "Purchases",
+"C": "Discount received",
+"D": "Interest received"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 223,
+"subject": "accounting",
+"question": "If  no profit is to be retained, proposed preference shares dividend is",
+"options": {
+"A": "N  28,000",
+"B": "N  16,000",
+"C": "N  12,000.",
+"D": "N  4,000"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 224,
+"subject": "accounting",
+"question": "If  no profit is to be retained, proposed ordinary shares dividend is",
+"options": {
+"A": "N   48,000",
+"B": "N  44,000",
+"C": "N  40,000",
+"D": "N  28,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 225,
+"subject": "accounting",
+"question": "The dividend per ordinary share for the year is",
+"options": {
+"A": "N  0.88 kobo",
+"B": "N  0.40 kobo",
+"C": "N  0.20 kobo",
+"D": "N  0.17 kobo"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 226,
+"subject": "accounting",
+"question": "A customer who returns goods to the supplier because they are defective is issued a",
+"options": {
+"A": "debit note",
+"B": "credit note",
+"C": "delivery note",
+"D": "bank note."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 227,
+"subject": "accounting",
+"question": "Cross referencing among different books of accounts is achieved with the use of",
+"options": {
+"A": "columns",
+"B": "reference numbers",
+"C": "folio",
+"D": "margin."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 228,
+"subject": "accounting",
+"question": "In company accounts, profit after tax is shared in the",
+"options": {
+"A": "appropriation account",
+"B": "revaluation account",
+"C": "current account",
+"D": "realization account."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 229,
+"subject": "accounting",
+"question": "Which of the following is not a source of revenue to a government?",
+"options": {
+"A": "Taxation",
+"B": "Sale of goods",
+"C": "Imposition of fines",
+"D": "Grants"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 230,
+"subject": "accounting",
+"question": "Whatever is fed into the computer is exactly what would be processed and produced as output. This is the concept of",
+"options": {
+"A": "sorting out",
+"B": "last in, first out",
+"C": "first in, first out",
+"D": "garbage in, garbage out."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 231,
+"subject": "accounting",
+"question": "Bank reconciliation statement reconciles",
+"options": {
+"A": "bank and cash balances in the cash book",
+"B": "bank balance in the cash book and bank statement balance",
+"C": "cash balance in the cash book and bank statement balance",
+"D": "bank balance brought down and bank balance carried down in the cash bcok."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 232,
+"subject": "accounting",
+"question": "The unit which keeps government’s books of accounts is the",
+"options": {
+"A": "Central Bank",
+"B": "Internal Audit Department",
+"C": "Treasury Department",
+"D": "Accountant General’s Department."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 233,
+"subject": "accounting",
+"question": "Which of the following is not a debit item in a partnership \tappropriation account?",
+"options": {
+"A": "Interest on drawings",
+"B": "Partner’s salary",
+"C": "Interest on partner’s capital",
+"D": "Share of profit."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 234,
+"subject": "accounting",
+"question": "Revenue is recognized in the profit and loss account as soon as a",
+"options": {
+"A": "debtor pays what is due from him",
+"B": "sale of goods takes place and money is received",
+"C": "sale of goods takes place whether or not money is received",
+"D": "sale of a fixed asset takes place."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 235,
+"subject": "accounting",
+"question": "“A business unit is assumed to operate into foreseeable future and earn reasonable net income”. This statement is emphasized by the concept of",
+"options": {
+"A": "business entity",
+"B": "going concern",
+"C": "realization",
+"D": "accrual."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 236,
+"subject": "accounting",
+"question": "Which of the following is not used in solving problems of incomplete records?",
+"options": {
+"A": "Control Accounts",
+"B": "Statement of affairs",
+"C": "Cash book",
+"D": "Balance sheet"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 237,
+"subject": "accounting",
+"question": "In a system of incomplete records, the opening capital is determined by preparing",
+"options": {
+"A": "statement of affairs",
+"B": "balance sheet",
+"C": "cash book",
+"D": "trial balance."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 238,
+"subject": "accounting",
+"question": "Cost of raw materials consumed is",
+"options": {
+"A": "D113,000",
+"B": "D105,500",
+"C": "D98,000",
+"D": "D95,500."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 239,
+"subject": "accounting",
+"question": "Prime cost is",
+"options": {
+"A": "D120,500",
+"B": "D117,700",
+"C": "D114,900",
+"D": "D114,300."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 240,
+"subject": "accounting",
+"question": "Cost of goods manufactured is",
+"options": {
+"A": "D138,000",
+"B": "D131,800",
+"C": "D130,500",
+"D": "D123,000."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 241,
+"subject": "accounting",
+"question": "A set of instructions fed into a computer for accomplishing a given task is a/an",
+"options": {
+"A": "input",
+"B": "programme",
+"C": "output",
+"D": "data."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 242,
+"subject": "accounting",
+"question": "Control accounts are also known as",
+"options": {
+"A": "contra accounts",
+"B": "total accounts",
+"C": "ledger accounts",
+"D": "integral accounts."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 243,
+"subject": "accounting",
+"question": "Which of the following is charged to trading account?",
+"options": {
+"A": "Discounts allowed",
+"B": "Carriage outwards",
+"C": "Salaries",
+"D": "Carriage inwards."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 244,
+"subject": "accounting",
+"question": "Which of the following is not a debit item in a creditor’s control \taccount?",
+"options": {
+"A": "Cash paid",
+"B": "Returns outwards",
+"C": "Purchases",
+"D": "Discounts received"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 245,
+"subject": "accounting",
+"question": "Using the straight line method, the depreciation charged for year 2002 was",
+"options": {
+"A": "N 160,000",
+"B": "N  130.000",
+"C": "N  100,000",
+"D": "N  60,000"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 246,
+"subject": "accounting",
+"question": "Using the reducing balance method, the depreciation charged for year 2002 was",
+"options": {
+"A": "N 100,000",
+"B": "N  90,000",
+"C": "N  80,000",
+"D": "N  60,000"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 247,
+"subject": "accounting",
+"question": "Using the reducing balance method, the depreciation charged for year 2003 was",
+"options": {
+"A": "N  160,000",
+"B": "N  150,000",
+"C": "N   130,000",
+"D": "N  120,000"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 248,
+"subject": "accounting",
+"question": "Which of the following is not a revenue expenditure?",
+"options": {
+"A": "Payment: of salaries",
+"B": "Payment for advertisement",
+"C": "Purchases of motor vehicle",
+"D": "Purchases of goods."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 249,
+"subject": "accounting",
+"question": "The amount allowed off the cost price of an article to stimulate patronage is",
+"options": {
+"A": "cash discount",
+"B": "trade discount",
+"C": "discount on debt",
+"D": "discount on bills."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 250,
+"subject": "accounting",
+"question": "Which of the following is a Journal as well as an account?",
+"options": {
+"A": "Sales day book",
+"B": "Cash book",
+"C": "General journal",
+"D": "Purchases journal"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 251,
+"subject": "accounting",
+"question": "Which of the following columns of a three column cash book \tare memoranda?  I. Discount received  II. Discount allowed III. Cash IV. Bank",
+"options": {
+"A": "I and II only",
+"B": "I and III only",
+"C": "II and III only",
+"D": "ll and IV only."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 252,
+"subject": "accounting",
+"question": "The adjusted cash book balance is",
+"options": {
+"A": "D11,200",
+"B": "D8,400",
+"C": "D6,200",
+"D": "D5,600"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 253,
+"subject": "accounting",
+"question": "The balance as per bank statement is",
+"options": {
+"A": "D10,900",
+"B": "D8,400",
+"C": "D5,600",
+"D": "D2,800"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 254,
+"subject": "accounting",
+"question": "Where the head office maintains all books of account, goods sent to branch is credited to",
+"options": {
+"A": "Goods Sent to Branch Account",
+"B": "Branch Stock Account",
+"C": "Branch Stock Adjustment Account",
+"D": "Head Office Current Account"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 255,
+"subject": "accounting",
+"question": "Which of the following is not a purpose for preparing departmental accounts? To",
+"options": {
+"A": "compare the results of different departments",
+"B": "employ staff into different departments",
+"C": "reward departmental managers",
+"D": "obtain information for formulating policies."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 256,
+"subject": "accounting",
+"question": "Rent expenses for the year 2005 is",
+"options": {
+"A": "N 11,400",
+"B": "N  11,300",
+"C": "N  11,200",
+"D": "N  10,200."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 257,
+"subject": "accounting",
+"question": "Which of the following is not classified as an overhead?",
+"options": {
+"A": "Factory rates",
+"B": "Factory power",
+"C": "Factory building extension",
+"D": "Factory depreciation."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 258,
+"subject": "accounting",
+"question": "The objective of accounting information is to enable users to",
+"options": {
+"A": "prepare the financial statements.",
+"B": "value stock",
+"C": "make decisions",
+"D": "prepare budgets"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 259,
+"subject": "accounting",
+"question": "Trade discounts are given for",
+"options": {
+"A": "bulk purchases",
+"B": "prompt payment",
+"C": "quick delivery",
+"D": "cash payment"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 260,
+"subject": "accounting",
+"question": "When closing stock is overstated, it would reduce",
+"options": {
+"A": "cost of sales and increase gross profit.",
+"B": "gross profit and increase cost of sales.",
+"C": "purchases and increase sales.",
+"D": "sales and increase purchases."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 261,
+"subject": "accounting",
+"question": "Which of the following is not a source document?",
+"options": {
+"A": "Journal proper",
+"B": "Sales invoice",
+"C": "Debit note",
+"D": "Credit note"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 262,
+"subject": "accounting",
+"question": "A fixed asset fully written-down by a trader is now considered to be worth N5,000. The double entry required to effect       this is: debit",
+"options": {
+"A": "Asset Account; credit Purchases Account.",
+"B": "Asset Account; credit Capital Account.",
+"C": "Capital Account; credit Asset Account.",
+"D": "Capital Account; credit Profit and Loss Account."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 263,
+"subject": "accounting",
+"question": "Which of the following is a book of original entry?",
+"options": {
+"A": "Ledger",
+"B": "Balance sheet",
+"C": "Bank statement",
+"D": "Sales journal"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 264,
+"subject": "accounting",
+"question": "A Balance Sheet shows only",
+"options": {
+"A": "fixed assets and current assets",
+"B": "assets and long term liabilities.",
+"C": "assets and liabilities",
+"D": "assets and capital"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 265,
+"subject": "accounting",
+"question": "The process of entering transaction from one book to another is",
+"options": {
+"A": "reading.",
+"B": "posting.",
+"C": "numbering",
+"D": "listing"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 266,
+"subject": "accounting",
+"question": "which of the following is a Trading Account item?",
+"options": {
+"A": "Discounts allowed",
+"B": "Discounts received",
+"C": "Carriage outwards",
+"D": "Carriage inwards"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 267,
+"subject": "accounting",
+"question": "The addition of prime cost and factory overheads is",
+"options": {
+"A": "total factory overheads.",
+"B": "market value of goods produced.",
+"C": "cost of goods produced",
+"D": "work-in-progress."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 268,
+"subject": "accounting",
+"question": "Capital receipt is collected",
+"options": {
+"A": "on sales of motor vehicle.",
+"B": "on sales of stock in trade.",
+"C": "from trade debtor",
+"D": "from trading activities."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 269,
+"subject": "accounting",
+"question": "Which of the following is an example of factory overheads?",
+"options": {
+"A": "Salary of marketing officer",
+"B": "Salary of production officer",
+"C": "Salary of accounting officer",
+"D": "Wages of machine operator"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 270,
+"subject": "accounting",
+"question": "Osa started business with Le40,000 cash. The accounting entry is debit",
+"options": {
+"A": "Cash Account; credit Capital Account.",
+"B": "Capital Account; credit Cash Account.",
+"C": "Purchases Account; credit Cash Account.",
+"D": "Expenses Account; credit Capital Account."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 271,
+"subject": "accounting",
+"question": "Branch Stock Account is used to determine the",
+"options": {
+"A": "net value of goods sent to branch.",
+"B": "gross profit of the branch.",
+"C": "branch credit sales.",
+"D": "branch net profit or loss."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 272,
+"subject": "accounting",
+"question": "The name given to a budget in public service accounting is",
+"options": {
+"A": "vote.",
+"B": "subvention.",
+"C": "general order.",
+"D": "estimate."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 273,
+"subject": "accounting",
+"question": "Which of the following is not prepared by a partnership?",
+"options": {
+"A": "Trading Account",
+"B": "Profit and Loss Account",
+"C": "Income and Expenditure Account",
+"D": "Profit and Loss Appropriation Account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 274,
+"subject": "accounting",
+"question": "A partner who only makes capital contribution but does not take part in the management of the partnership business is a/an",
+"options": {
+"A": "ordinary partner",
+"B": "limited partner",
+"C": "dormant partner",
+"D": "nominal partner"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 275,
+"subject": "accounting",
+"question": "Which of the following is component of prime cost?",
+"options": {
+"A": "Depreciation",
+"B": "Royalty",
+"C": "Factory rent",
+"D": "Factory electricity"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 276,
+"subject": "accounting",
+"question": "The concept which establishes the rule for the periodic recognition of revenue as soon as it is capable of objective measurement is",
+"options": {
+"A": "going concern.",
+"B": "entity.",
+"C": "consistency.",
+"D": "realization."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 277,
+"subject": "accounting",
+"question": "Rent accrued in 2009 was D140. In 2010, D900 was paid while D160 was outstanding. Rent for 2010 was",
+"options": {
+"A": "D1,200.",
+"B": "D1.060.",
+"C": "D920.",
+"D": "D880."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 278,
+"subject": "accounting",
+"question": "Which of the following is not an input device?",
+"options": {
+"A": "Card reader",
+"B": "Paper top reader",
+"C": "Alpha-numeric keyboard",
+"D": "Line printer"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 279,
+"subject": "accounting",
+"question": "The equivalent of Income and Expenditure Account in a trading concern is",
+"options": {
+"A": "Trading Account.",
+"B": "Profit and Loss Account.",
+"C": "Appropriation Account.",
+"D": "Balance Sheet."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 280,
+"subject": "accounting",
+"question": "The term used to denote the capital of a not-for-profit making \torganization is",
+"options": {
+"A": "annuity fund.",
+"B": "nominal capital.",
+"C": "circulating capital.",
+"D": "cumulated fund"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 281,
+"subject": "accounting",
+"question": "The portion of authorized capital that has been allotted to subscribers is",
+"options": {
+"A": "called up capital",
+"B": "paid up capital.",
+"C": "issued capital",
+"D": "nominal capital."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 282,
+"subject": "accounting",
+"question": "Partners whose liabilities are restricted to their financial contribution to the partnership in the event of winding up are",
+"options": {
+"A": "ordinary partners",
+"B": "limited partners",
+"C": "dormant partners",
+"D": "sleeping partners"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 283,
+"subject": "accounting",
+"question": "If creditors at 1/1/10 were Le 3,000; creditors at 31/12/10 Le 5,500 and payments to creditors Le 29,000. The purchases figure for 2010 is",
+"options": {
+"A": "Le 34,500",
+"B": "Le 32,000",
+"C": "Le 31,500",
+"D": "Le 26,500"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 284,
+"subject": "accounting",
+"question": "Which of the following is not found in the personal ledger?",
+"options": {
+"A": "Debtors Account",
+"B": "Creditors Account",
+"C": "Capital Account",
+"D": "Nominal Account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 285,
+"subject": "accounting",
+"question": "The Sales Ledger Control Account is also referred to as",
+"options": {
+"A": "Bought Ledger Control Account.",
+"B": "Purchases Account.",
+"C": "Total Debtors Account.",
+"D": "Total Creditors Account."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 286,
+"subject": "accounting",
+"question": "Capital expenditure for the year was",
+"options": {
+"A": "Le 545,000",
+"B": "Le 490,000",
+"C": "Le 450,000",
+"D": "Le 300,000"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 287,
+"subject": "accounting",
+"question": "The amount of recurrent expenditure was",
+"options": {
+"A": "Le 245,000.",
+"B": "Le 175,000",
+"C": "Le 135,00.",
+"D": "Le 80,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 288,
+"subject": "accounting",
+"question": "An increase in the provision for doubtful debts results in a/an",
+"options": {
+"A": "increase in the gross profit.",
+"B": "decrease in the gross profit.",
+"C": "decrease in the net profit.",
+"D": "increase in the net profit."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 289,
+"subject": "accounting",
+"question": "Which of the following errors affects the agreement of a Trial Balance?",
+"options": {
+"A": "Wrong addition in the sales account",
+"B": "Crediting a purchase to A. Tambi’s account instead of F. Tambi’s account",
+"C": "Failure to enter sales in the books",
+"D": "Posting the purchase of a van to the debit side of the purchases account"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 290,
+"subject": "accounting",
+"question": "The excess of the value of assets over the purchase \tconsideration on acquisition of a business is credited to",
+"options": {
+"A": "share capital account.",
+"B": "goodwill account.",
+"C": "capital reserve account",
+"D": "general reserve account."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 291,
+"subject": "accounting",
+"question": "Shares of N3 nominal value were issued at a price of  N4. The difference of N1 is a",
+"options": {
+"A": "commission.",
+"B": "discount.",
+"C": "premium.",
+"D": "bonus."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 292,
+"subject": "accounting",
+"question": "Which of the following is not the purpose of control account?",
+"options": {
+"A": "Check on errors of addition",
+"B": "Locate errors",
+"C": "Locate missing figures",
+"D": "Monitor the cash book"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 293,
+"subject": "accounting",
+"question": "Which of the following is not part of the Central Processing Unit of a computer?",
+"options": {
+"A": "Arithmetical and Logical unit",
+"B": "Memory unit",
+"C": "Input unit",
+"D": "Control unit"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 294,
+"subject": "accounting",
+"question": "The double entry to record the proceeds on disposal of assets is debit",
+"options": {
+"A": "Bank Account; credit Asset Disposal Account.",
+"B": "Asset Disposal Account; credit Bank Account.",
+"C": "Provision for Depreciation Account; credit Asset Disposal Account",
+"D": "Asset Disposal Account; credit Provision for Depreciation Account."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 295,
+"subject": "accounting",
+"question": "An underwriter for a company’s share is paid",
+"options": {
+"A": "Interest.",
+"B": "commission.",
+"C": "dividend.",
+"D": "salary."
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 296,
+"subject": "accounting",
+"question": "Which of the following is found in a Memorandum of \tAssociation?",
+"options": {
+"A": "Names of directors",
+"B": "Appointment of directors",
+"C": "Object of the business",
+"D": "Payment of dividend"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 297,
+"subject": "accounting",
+"question": "Administrative, selling and distribution expenses in a \tmanufacturing firm are recorded in",
+"options": {
+"A": "Trading Account.",
+"B": "Manufacturing Account.",
+"C": "Profit and Loss Account.",
+"D": "Balance Sheet."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 298,
+"subject": "accounting",
+"question": "Which of the following is not a revenue to a local government?",
+"options": {
+"A": "Fines",
+"B": "Licenses",
+"C": "Personal income tax",
+"D": "Tenement rates"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 299,
+"subject": "accounting",
+"question": "The capital is",
+"options": {
+"A": "D7,580",
+"B": "D6,580",
+"C": "D5,380",
+"D": "D1,000"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 300,
+"subject": "accounting",
+"question": "The liability is",
+"options": {
+"A": "D7,580",
+"B": "D6,580",
+"C": "D5,380",
+"D": "D1,000"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 301,
+"subject": "accounting",
+"question": "Which of the following is not an item in the profit and loss account?",
+"options": {
+"A": "Drawings",
+"B": "Interest",
+"C": "Balances",
+"D": "Bad debts"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 302,
+"subject": "accounting",
+"question": "A loss made on the disposal of a fixed asset is debited to",
+"options": {
+"A": "Sales Account.",
+"B": "Purchases Account.",
+"C": "Profit and Loss Account.",
+"D": "Capital Account."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2012",
+"image": ""
+},
+{
+"id": 303,
+"subject": "accounting",
+"question": "Which of the following describes a trial balance?",
+"options": {
+"A": "It is a special account",
+"B": "It is a list of balances in the books",
+"C": "It reveals the financial position of a business",
+"D": "It shows all the entries in the books of a business"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 304,
+"subject": "accounting",
+"question": "Which of the following is not a feature of accounting information?",
+"options": {
+"A": "Affordability",
+"B": "Timeliness",
+"C": "Accuracy",
+"D": "Completeness"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 305,
+"subject": "accounting",
+"question": "Which of the following is the equation for determining net profit or loss from the records of a firm?",
+"options": {
+"A": "Closing Capital - Drawings - Capital Introduced",
+"B": "Opening Capital + Drawings - Closing Capital",
+"C": "Closing Capital + Opening Capital - Drawings",
+"D": "Closing Capital + Drawings - Opening Capital"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 306,
+"subject": "accounting",
+"question": "Purchase invoice is first entered in the",
+"options": {
+"A": "purchases account",
+"B": "cash book",
+"C": "sales journal",
+"D": "purchase journal"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 307,
+"subject": "accounting",
+"question": "Assets acquired is recorded by debiting",
+"options": {
+"A": "Asset Account, crediting Cash Account",
+"B": "Cash Account, crediting Asset Account",
+"C": "Purchase of Business Account, crediting Sale of Business Account",
+"D": "Asset Account, crediting Purchase of business Account"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 308,
+"subject": "accounting",
+"question": "Goods returned to a supplier is",
+"options": {
+"A": "debited to Returns outwards account",
+"B": "credited to Returns outwards account",
+"C": "debited to Returns inwards account",
+"D": "credited to Returns inwards account"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 309,
+"subject": "accounting",
+"question": "Which of the following is a real account?",
+"options": {
+"A": "Plant account",
+"B": "Salaries account",
+"C": "Creditors account",
+"D": "Trading account"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 310,
+"subject": "accounting",
+"question": "The accounting ledger for goods sold on credit are debit",
+"options": {
+"A": "Debtors Account, credit Sales Account",
+"B": "Creditors Account, credit Sales Account",
+"C": "Sales Account, credit Debtors Account",
+"D": "Sales Account, credit Creditors Account"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 311,
+"subject": "accounting",
+"question": "Which of the following is not a book of original entry?",
+"options": {
+"A": "Sales journal",
+"B": "Purchases account",
+"C": "Cash account",
+"D": "Return inwards journal"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 312,
+"subject": "accounting",
+"question": "What is the ledger entry for the sale of plant and machinery on credit to Wilson?",
+"options": {
+"A": "Credit Sales Account and debit Cash Account",
+"B": "Credit Plant and Machinery Account and debit Wilson’s Account",
+"C": "Credit Sales Account and debit Wilson’s Account",
+"D": "Credit Plant and Machinery Account and debit Cash Account"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 313,
+"subject": "accounting",
+"question": "Discount Received Account is a",
+"options": {
+"A": "real account",
+"B": "personal account",
+"C": "nominal account",
+"D": "profit and loss account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 314,
+"subject": "accounting",
+"question": "Which of the following accounts has a credit balance?",
+"options": {
+"A": "Capital",
+"B": "Cash",
+"C": "Drawings",
+"D": "Premises"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 315,
+"subject": "accounting",
+"question": "The accounting entry to correct sales day book overcast is",
+"options": {
+"A": "debit Sales Account and credit Debtors Account",
+"B": "debit Suspense Account and credit Sales Account",
+"C": "debit Debtors Account and credit Suspense Account",
+"D": "debit Sales Account and credit Suspense Account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 316,
+"subject": "accounting",
+"question": "Which of the following expresses the accounting equating?",
+"options": {
+"A": "Capital + Assets = Liabilities",
+"B": "Assets - Liabilities = Capital",
+"C": "Liabilities + Current Assets = Fixed Assets",
+"D": "Liabilities - Capital = Current Assets"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 317,
+"subject": "accounting",
+"question": "When the invoice of a customer is overcast, the supplier will send to him a",
+"options": {
+"A": "cheque",
+"B": "payment voucher",
+"C": "debit note",
+"D": "credit note"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 318,
+"subject": "accounting",
+"question": "Unpresented cheques are cheque",
+"options": {
+"A": "that have been recorded in the cash book, but not by the bank",
+"B": "that have been received by the bank, but recorded in the cash book",
+"C": "returned by the bank",
+"D": "written, but not handed over to customers"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 319,
+"subject": "accounting",
+"question": "The cost of putting goods into a saleable condition is charged to",
+"options": {
+"A": "balance sheet",
+"B": "trial balance",
+"C": "profit and loss account",
+"D": "trading account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 320,
+"subject": "accounting",
+"question": "Which of the following is not a method of depreciating fixed assets?",
+"options": {
+"A": "Revaluation",
+"B": "Straight line",
+"C": "Diminishing balance",
+"D": "Obsolescence"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 321,
+"subject": "accounting",
+"question": "In preparing a profit and loss account, a decrease in provision for doubtful debts accounts is treated as",
+"options": {
+"A": "Currentability",
+"B": "expenses",
+"C": "Income",
+"D": "Current asset"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 322,
+"subject": "accounting",
+"question": "Which of the following items is found in the sales ledger control account?",
+"options": {
+"A": "Discount received",
+"B": "Total credit purchases",
+"C": "Discount allowed",
+"D": "Returns outwards"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 323,
+"subject": "accounting",
+"question": "The process of using sales ledger balance to cancel off purchases ledger balance is",
+"options": {
+"A": "balancing",
+"B": "set off",
+"C": "reconciliation",
+"D": "cancelling"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 324,
+"subject": "accounting",
+"question": "The total of the returns outwards journal is posted to the",
+"options": {
+"A": "credit side of the returns outwards book",
+"B": "debit side of the returns outwards account",
+"C": "debit side of the purchases returns book",
+"D": "credit side of the returns outwards account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 325,
+"subject": "accounting",
+"question": "Which of the following is not revealed by a firm’s accounting records?",
+"options": {
+"A": "Profit of a period",
+"B": "Quality of labour force",
+"C": "Credit worthiness",
+"D": "Value of assets"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 326,
+"subject": "accounting",
+"question": "In the balance sheet of a social club, subscription owing is treated as a",
+"options": {
+"A": "current liability",
+"B": "current asset",
+"C": "tangible asset",
+"D": "long-term liability"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 327,
+"subject": "accounting",
+"question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it will be used for more than one year is",
+"options": {
+"A": "materiality",
+"B": "accrual",
+"C": "going concern",
+"D": "business entity"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 328,
+"subject": "accounting",
+"question": "The accounting concept that assumes that a business will continue operating for an indefinite period is",
+"options": {
+"A": "business entity",
+"B": "going concern",
+"C": "consistency",
+"D": "duality"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 329,
+"subject": "accounting",
+"question": "The accounting concept that states that a firm’s financial affairs must be separated from that of the owner’s private transactions is",
+"options": {
+"A": "business entity",
+"B": "going concern",
+"C": "consistency",
+"D": "duality"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 330,
+"subject": "accounting",
+"question": "Goodwill is recognized in partnership accounts when",
+"options": {
+"A": "the business makes a huge profit",
+"B": "the business has good customer relationship",
+"C": "a partner is dormant",
+"D": "a new partner is admitted"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 331,
+"subject": "accounting",
+"question": "In which of the following accounts is interest on partners capital found?",
+"options": {
+"A": "Profit and loss",
+"B": "Trading",
+"C": "Income surplus",
+"D": "Profit and loss appropriation."
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 332,
+"subject": "accounting",
+"question": "Which of the following is not stated in the partnership agreement?",
+"options": {
+"A": "Profit sharing ratio",
+"B": "Interest on capital",
+"C": "Interest on fixed asset",
+"D": "Purpose of partnership"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 333,
+"subject": "accounting",
+"question": "How much was paid for goodwill?",
+"options": {
+"A": "GHc/ 350,000",
+"B": "GHc/ 260,000",
+"C": "GHc/  90,000",
+"D": "GHc/ 60,000"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 334,
+"subject": "accounting",
+"question": "The double entry to record the goodwill in the books is debit",
+"options": {
+"A": "Cash Account and credit Goodwill Account",
+"B": "Goodwill Account and credit Purchase of Business Account",
+"C": "Goodwill Account and credit Cash Account",
+"D": "Purchase of Business Account and credit Cash Account"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 335,
+"subject": "accounting",
+"question": "The document which sets out the internal arrangement for the proper management of a company is the",
+"options": {
+"A": "prospectus",
+"B": "article of association",
+"C": "memorandum of association",
+"D": "certificate of incorporation"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 336,
+"subject": "accounting",
+"question": "A person who has applied to purchase shares in a company is referred to as",
+"options": {
+"A": "a promoter",
+"B": "a subscriber",
+"C": "an allottee",
+"D": "an underwriter"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 337,
+"subject": "accounting",
+"question": "Which of the following expenses is allocated according to the floor \tarea?",
+"options": {
+"A": "Wages and Salaries",
+"B": "Rent and rates",
+"C": "Canteen expenses",
+"D": "Discount allowed"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 338,
+"subject": "accounting",
+"question": "Goods stolen at the branch is debited to",
+"options": {
+"A": "Defalcations Account",
+"B": "Branch Stock Account",
+"C": "Branch Adjustment Account",
+"D": "Branch Debtors Account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 339,
+"subject": "accounting",
+"question": "Which of the following is a source of revenue for a local government?",
+"options": {
+"A": "Personal income tax",
+"B": "Company registration fees",
+"C": "Royalties",
+"D": "Market tolls"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 340,
+"subject": "accounting",
+"question": "The instrument used to release fund which the minister of finance had earlier withheld is",
+"options": {
+"A": "reserve expenditure warrant",
+"B": "supplementary general warrant",
+"C": "provisional general warrant",
+"D": "supplementary statutory warrant"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 341,
+"subject": "accounting",
+"question": "Which of the following relates to cash basis of accounting?",
+"options": {
+"A": "Accruals and prepayments are considered",
+"B": "Debtors and creditors are recorded",
+"C": "Fixed assets are written off in the year of purchase",
+"D": "Profits are maximized"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 342,
+"subject": "accounting",
+"question": "Which of the following is found on the credit side of a partnership’s appropriation of profit account?",
+"options": {
+"A": "Interest on capital",
+"B": "Interest on drawings",
+"C": "share of profit",
+"D": "Drawings"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 343,
+"subject": "accounting",
+"question": "Which of the following is a spreadsheet application?",
+"options": {
+"A": "Excel",
+"B": "Word",
+"C": "Internet",
+"D": "Windows"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 344,
+"subject": "accounting",
+"question": "The quality of output information depends on the",
+"options": {
+"A": "quality of input data",
+"B": "time of processing",
+"C": "speed of processing",
+"D": "quantity of output device"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 345,
+"subject": "accounting",
+"question": "The source document used to make entries in the purchases day book is",
+"options": {
+"A": "debit note",
+"B": "credit note",
+"C": "invoice",
+"D": "receipt"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 346,
+"subject": "accounting",
+"question": "book that contains individual accounts of suppliers is the",
+"options": {
+"A": "purchases ledger",
+"B": "general ledger",
+"C": "nominal ledger",
+"D": "sales ledger"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 347,
+"subject": "accounting",
+"question": "In the operation of an imprest system of petty cash, the",
+"options": {
+"A": "petty cashier pays all expenses",
+"B": "petty cashier pays money to the accountant",
+"C": "petty cashier regularly begins each period with the same amount of money",
+"D": "main cashier accounts to the petty cashier for some expenses made by him"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 348,
+"subject": "accounting",
+"question": "An example of a credit entry in a profit and loss account is",
+"options": {
+"A": "carriage inwards",
+"B": "carriage outwards",
+"C": "discounts allowed",
+"D": "discounts received"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 349,
+"subject": "accounting",
+"question": "Which of the following subsidiary books involves cash movement?",
+"options": {
+"A": "Sales day book",
+"B": "Purchases day book",
+"C": "Returns inwards book",
+"D": "Petty cash book"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 350,
+"subject": "accounting",
+"question": "The accounting treatment for a dishonoured cheque is; debit",
+"options": {
+"A": "Customer’s Account; Credit Bank Account",
+"B": "Bank Account; Credit Customer’s Account",
+"C": "Customer’s Account; Credit Sales Account",
+"D": "Sales Account; Credit Customer’s Account\\"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 351,
+"subject": "accounting",
+"question": "Net turnover is referred to as",
+"options": {
+"A": "purchases",
+"B": "assets",
+"C": "sales",
+"D": "profits"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 352,
+"subject": "accounting",
+"question": "Which of the following transactions will result in disagreement between the cash book and the bank statement?",
+"options": {
+"A": "Selling of goods on credit to a customer",
+"B": "Withdrawal of goods by the proprietor for his personal use",
+"C": "Cheque paid directly into the bank account by a customer",
+"D": "Omission of purchases received from a supplier on credit"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 353,
+"subject": "accounting",
+"question": "Purchases Account is overcast by N200, while Wages Account is under cast by N200. This is",
+"options": {
+"A": "an error of omission",
+"B": "a compensating error",
+"C": "an error of commission",
+"D": "an error of principle"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 354,
+"subject": "accounting",
+"question": "Which of the following is used to record the disposal of a fixed asset?",
+"options": {
+"A": "Journal  Proper",
+"B": "Petty  Cash  Book",
+"C": "Sales Day Book",
+"D": "Purchases Day Book"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 355,
+"subject": "accounting",
+"question": "The annual depreciation is",
+"options": {
+"A": "N9,000",
+"B": "N8,500",
+"C": "N8,000",
+"D": "N6,500"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 356,
+"subject": "accounting",
+"question": "The accumulated depreciation as at 31/12/2013 is",
+"options": {
+"A": "N18,500",
+"B": "N17,000",
+"C": "N16,000",
+"D": "N8,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 357,
+"subject": "accounting",
+"question": "An error of principle is made, if",
+"options": {
+"A": "an entry has been made in the wrong class of account",
+"B": "a transaction has been completely omitted",
+"C": "an entry has been made on the wrong side of the two accounts concerned",
+"D": "a transaction is entered in both accounts for the wrong amount"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 358,
+"subject": "accounting",
+"question": "Which of the following is entered in the general journal?",
+"options": {
+"A": "Purchase of goods",
+"B": "Sale of goods on credit",
+"C": "Returns inwards",
+"D": "Acquisition of fixed assets"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 359,
+"subject": "accounting",
+"question": "The cost of carriage outward is classified as",
+"options": {
+"A": "a selling and distribution expense",
+"B": "an administrative expense",
+"C": "a trading expense",
+"D": "a finance expense"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 360,
+"subject": "accounting",
+"question": "The purchase of ten ceiling fans by Akpan Electronic Enterprises will be recorded as",
+"options": {
+"A": "an acquisition of fixed asset",
+"B": "an expense in its general office expense account",
+"C": "part of capital in the capital account",
+"D": "an acquisition of stock"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 361,
+"subject": "accounting",
+"question": "Which of the following accounts would appear in the nominal ledger?  (I)  Sanison’s account (a debtor)  ( II) Motor vehicle account (III) Sales account  (IV)  Rent and rates account",
+"options": {
+"A": "I, II and III only",
+"B": "I, III and IV only",
+"C": "II, III and IV only",
+"D": "Ill and IV only"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 362,
+"subject": "accounting",
+"question": "The sum of direct cost in a manufacturing account is",
+"options": {
+"A": "production cost",
+"B": "prime cost",
+"C": "total cost",
+"D": "finance cost"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 363,
+"subject": "accounting",
+"question": "Net profit in a business is",
+"options": {
+"A": "the amount of money taken out of the business by the owner",
+"B": "the cash in the business bank account",
+"C": "the difference between sales and cost of sales",
+"D": "sale revenue less cost of sales and expenses"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 364,
+"subject": "accounting",
+"question": "An example of a self-balancing account is the",
+"options": {
+"A": "suspense account",
+"B": "creditor’s account",
+"C": "control account",
+"D": "debtor’s accoun"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 365,
+"subject": "accounting",
+"question": "The gross profit is",
+"options": {
+"A": "GHc/  2,160,000",
+"B": "GHc/ 1440,000",
+"C": "GHc/ 1,080,000",
+"D": "GHc/ 720,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 366,
+"subject": "accounting",
+"question": "The cost of sales is",
+"options": {
+"A": "GHc/  2,160,000t",
+"B": "GHc/ 1440,000",
+"C": "GHc/ 1,080,000",
+"D": "GHc/  720,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 367,
+"subject": "accounting",
+"question": "Which of the following is not an administrative expenses in a \tmanufacturing organization?",
+"options": {
+"A": "Discounts allowed",
+"B": "Office electricity",
+"C": "Stationery",
+"D": "Insurance"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 368,
+"subject": "accounting",
+"question": "When an asset is sold, the entries for the accumulated depreciation are: debit",
+"options": {
+"A": "Asset Disposal Account; credit Provision for Depreciation Account.",
+"B": "Provision for Depreciation Account; Credit Asset Disposal Account",
+"C": "Fixed Asset Account; Credit Asset Disposal Account",
+"D": "Asset Disposal Account; Credit Fixed Asset Account"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 369,
+"subject": "accounting",
+"question": "A petty cash account has an imprest of D28,000. The account has a debit balance of D5.000. How much cash is needed to restore the imprest?",
+"options": {
+"A": "D33,000",
+"B": "D28,000",
+"C": "D23,000",
+"D": "D5,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 370,
+"subject": "accounting",
+"question": "In a not - for - profit making organization, when the total income \tis less than the total expenditure, the difference is a",
+"options": {
+"A": "surplus",
+"B": "shortfall",
+"C": "loss",
+"D": "deficit"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 371,
+"subject": "accounting",
+"question": "The accounting concept underlying the treatment of personal expenses of the business owner as drawing is",
+"options": {
+"A": "periodicity",
+"B": "accrual",
+"C": "entity",
+"D": "materiality"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 372,
+"subject": "accounting",
+"question": "Which of the following items is not contained in the Receipts and Payments Account?",
+"options": {
+"A": "Subscription paid in advance",
+"B": "tock paid for in advance",
+"C": "Outstanding wages and salaries",
+"D": "Donations"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 373,
+"subject": "accounting",
+"question": "The concept that states that a business should not lay claim to any profits before it is earned with reasonable certainty is",
+"options": {
+"A": "consistency concept",
+"B": "prudence concept",
+"C": "accrual concept",
+"D": "going concern concept"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 374,
+"subject": "accounting",
+"question": "When shares are issued above their nominal value, the \texcess above the nominal value is",
+"options": {
+"A": "credited to Profit and Loss Account",
+"B": "debited to Share Premium Account",
+"C": "credited to Share Capital Account",
+"D": "credited to share Premium Account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 375,
+"subject": "accounting",
+"question": "Shares issued below nominal value are referred to as shares at",
+"options": {
+"A": "premium",
+"B": "discount",
+"C": "face value",
+"D": "cumulative value"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 376,
+"subject": "accounting",
+"question": "The accounting ratio used to measure the average number of days for which suppliers remain unpaid is",
+"options": {
+"A": "stock turnover",
+"B": "creditors’ payment period",
+"C": "debtors collection period",
+"D": "return on capital employed"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 377,
+"subject": "accounting",
+"question": "When the purchase consideration exceeds the value of business, the difference is",
+"options": {
+"A": "profit",
+"B": "discount",
+"C": "goodwill",
+"D": "reserve"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 378,
+"subject": "accounting",
+"question": "The primary classification of government expenditure is based on",
+"options": {
+"A": "Programs",
+"B": "funds",
+"C": "activity",
+"D": "project"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 379,
+"subject": "accounting",
+"question": "An example of input device of a computer is",
+"options": {
+"A": "an optical character reader",
+"B": "a graph plotter",
+"C": "a visual display unit",
+"D": "printer"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 380,
+"subject": "accounting",
+"question": "The accounting concept which states that expenditure involving insignificant amounts should be regarded as expenses and not assets is",
+"options": {
+"A": "business entity",
+"B": "materiality",
+"C": "dual aspect",
+"D": "realization"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 381,
+"subject": "accounting",
+"question": "A company made a net profit of N2,000,000 for the year and its net profit percentage is 25%. What is the total sales   for the year?",
+"options": {
+"A": "N8,000,000",
+"B": "N6,000,000",
+"C": "N800,000",
+"D": "N500,000"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 382,
+"subject": "accounting",
+"question": "Which of the following information is recorded in the returns outwards book?",
+"options": {
+"A": "Goods purchased on credit and subsequently returned to supplier",
+"B": "Fixed asset bought on credit and subsequently returned to supplier",
+"C": "Cash payment received from a customer and subsequently returned to supplier",
+"D": "Goods sold to a customer and subsequently returned to the business."
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 383,
+"subject": "accounting",
+"question": "Calculate the stock figure to be included in the balance sheet at the year end.",
+"options": {
+"A": "D408,000",
+"B": "D346,000",
+"C": "D284,000",
+"D": "D62,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 384,
+"subject": "accounting",
+"question": "The concept applied in answering question 42 above is",
+"options": {
+"A": "matching",
+"B": "consistency",
+"C": "prudence",
+"D": "entity"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 385,
+"subject": "accounting",
+"question": "Subscriptions in advance is classified in the balance sheet as",
+"options": {
+"A": "an asset",
+"B": "a liability",
+"C": "a deficit",
+"D": "a surplus"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 386,
+"subject": "accounting",
+"question": "Which of the following items is not treated in the Profit and Loss Account?",
+"options": {
+"A": "Office expenses",
+"B": "Salaries and allowances",
+"C": "Carriage inwards",
+"D": "Discounts allowed"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 387,
+"subject": "accounting",
+"question": "The document prepared by a local/district government to present its annual estimates for a planning period is",
+"options": {
+"A": "a balance sheet",
+"B": "budget",
+"C": "an income and expenditure account",
+"D": "a cash book"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 388,
+"subject": "accounting",
+"question": "A manufacturing account is drawn up by",
+"options": {
+"A": "firms providing personal services",
+"B": "firms engaged solely in buying and selling of goods",
+"C": "firms which make and sell articles",
+"D": "non - trading organization."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 389,
+"subject": "accounting",
+"question": "Which of the following is not a factory overhead cost?",
+"options": {
+"A": "Manufacturing wages",
+"B": "Factory rent",
+"C": "Depreciation of machinery",
+"D": "Salary of factory guard"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 390,
+"subject": "accounting",
+"question": "A collection of fields relating to one logically definable unit of business information is known as",
+"options": {
+"A": "data",
+"B": "character",
+"C": "byte",
+"D": "record"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 391,
+"subject": "accounting",
+"question": "The principle of double entry book - keeping states that",
+"options": {
+"A": "every debtor must have a creditor",
+"B": "every account debited must be immediately credited",
+"C": "for every debit entry, there must be a corresponding credit entry",
+"D": "for every double debit, there must be a double credit."
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 392,
+"subject": "accounting",
+"question": "The accounting principle that is applied to check arbitrary actions on the part of accountants is",
+"options": {
+"A": "consistency",
+"B": "materiality",
+"C": "objectivity",
+"D": "realization"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 393,
+"subject": "accounting",
+"question": "The loss of equipment in a fire disaster results in",
+"options": {
+"A": "a decrease in current assets",
+"B": "an increase in liabilities and assets",
+"C": "a decrease in assets and capital",
+"D": "an increase in liabilities and a decrease in  assets."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 394,
+"subject": "accounting",
+"question": "A source document is used for verifying the",
+"options": {
+"A": "amount due to creditors",
+"B": "actual cost of an asset",
+"C": "selling price of goods",
+"D": "amount due from debtors"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 395,
+"subject": "accounting",
+"question": "The rule of accounting equation requires that account payable should be placed under",
+"options": {
+"A": "liabilities",
+"B": "equities",
+"C": "assets",
+"D": "capital"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 396,
+"subject": "accounting",
+"question": "A debit in the suspense account will appear in the balance sheet as",
+"options": {
+"A": "a current asset",
+"B": "a current liability",
+"C": "capital",
+"D": "drawings"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 397,
+"subject": "accounting",
+"question": "The recipient whose name appears on a cheque is called a",
+"options": {
+"A": "payee",
+"B": "drawer",
+"C": "drawee",
+"D": "payee"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 398,
+"subject": "accounting",
+"question": "The imprest account is subsidiary to the",
+"options": {
+"A": "ledger account",
+"B": "bank account",
+"C": "cash book",
+"D": "petty cash"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 399,
+"subject": "accounting",
+"question": "The three-column cash book differs from the two-column cash book in",
+"options": {
+"A": "cash column",
+"B": "discount column",
+"C": "bank column",
+"D": "folio column"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 400,
+"subject": "accounting",
+"question": "Zakari started a business on January 2000. He bought a shop costing N 54,000 and stock worth N 7,600.  Profit for the year amounted to N 22,100. His closing capital was N 73,800. Zakari’s personal drawings amounted to",
+"options": {
+"A": "N 2,300",
+"B": "N9,900",
+"C": "N 17,100",
+"D": "N 19,500"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 401,
+"subject": "accounting",
+"question": "The balance on the provision for depreciation account is",
+"options": {
+"A": "added to fixed assets on the balance sheet",
+"B": "deducted from fixed assets on the balance sheet",
+"C": "deducted from the profit and loss account",
+"D": "added to the current liabilities of the account"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 402,
+"subject": "accounting",
+"question": "Given: Rates paid during the year amounted to N 2,250 at N125 per month and N 1,035 was paid for electricity in the same period at N 115 per month. Determine the amount of prepaid rates",
+"options": {
+"A": "N 345",
+"B": "N 750",
+"C": "N 1,380",
+"D": "N 1,500"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 403,
+"subject": "accounting",
+"question": "Where closing stock is undervalued, the effect is",
+"options": {
+"A": "an increase in gross profit",
+"B": "a decrease in gross profit",
+"C": "an increase in purchases",
+"D": "a decrease in purchases"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 404,
+"subject": "accounting",
+"question": "At the year end, the purchases ledger showed a debit balance of N 108. The total on the debit side of the purchases ledger control account will be",
+"options": {
+"A": "N 22,966",
+"B": "N 22,156",
+"C": "N 21,834",
+"D": "N 21,054"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 405,
+"subject": "accounting",
+"question": "The balancing figure in the purchases ledger control account is",
+"options": {
+"A": "N 15,828",
+"B": "N 15,720",
+"C": "N 14,940",
+"D": "N 14,694"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 406,
+"subject": "accounting",
+"question": "In a sales ledger, contra entry is found on the",
+"options": {
+"A": "debit side of the debtors’ control account",
+"B": "debit side of the creditors’ control account",
+"C": "credit side of the debtors’ control account",
+"D": "credit side of the creditors’ control account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 407,
+"subject": "accounting",
+"question": "The beginning and ending accounts receivable balances were N 20,000 and N 30,000 respectively.The collection from customers during the period was N 70.000. What was the total sale on account?",
+"options": {
+"A": "N 20,000",
+"B": "N 60,000",
+"C": "N 80,000",
+"D": "N 120,000"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 408,
+"subject": "accounting",
+"question": "Determine how much to be charged to profit and loss account.",
+"options": {
+"A": "N 606",
+"B": "N 786",
+"C": "N 791",
+"D": "N 856"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 409,
+"subject": "accounting",
+"question": "In converting single entry to final account, the balancing figures on the income and expenses accounts are transferred to the",
+"options": {
+"A": "revenue and expenditure account",
+"B": "receipts and payments account",
+"C": "profit and loss appropriation account",
+"D": "profit and loss account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 410,
+"subject": "accounting",
+"question": "Determine the amount for the beginning inventory",
+"options": {
+"A": "N 20,140",
+"B": "N10,240",
+"C": "N 8,140",
+"D": "N 7,240"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 411,
+"subject": "accounting",
+"question": "What is the figure for purchases?",
+"options": {
+"A": "N 2,400",
+"B": "N 2,500",
+"C": "N 4,200",
+"D": "N 5,200"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 412,
+"subject": "accounting",
+"question": "Cost classification in relation to charges is determined by the level of",
+"options": {
+"A": "raw materials",
+"B": "labour",
+"C": "activity",
+"D": "profitability"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 413,
+"subject": "accounting",
+"question": "The gross profit on manufacture is",
+"options": {
+"A": "N 6,120",
+"B": "N 6,100",
+"C": "N 5,100",
+"D": "N 5,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 414,
+"subject": "accounting",
+"question": "The market value of goods produced is",
+"options": {
+"A": "N 30,500",
+"B": "N 30,600",
+"C": "N 31,600",
+"D": "N 31,620"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 415,
+"subject": "accounting",
+"question": "The accumulated fund is",
+"options": {
+"A": "N 9,400",
+"B": "N 9,300",
+"C": "N 9,200",
+"D": "N 9,100"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 416,
+"subject": "accounting",
+"question": "In the balance sheet, the subscription in arrears will be",
+"options": {
+"A": "N 200",
+"B": "N 300",
+"C": "N 1,200",
+"D": "N 1,300"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 417,
+"subject": "accounting",
+"question": "Where the debit side of the income and expenditure account is higher than the credit side, the difference is",
+"options": {
+"A": "deficit",
+"B": "surplus",
+"C": "gain",
+"D": "loss"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 418,
+"subject": "accounting",
+"question": "In the balance sheet of a not-for-profit-making organization, subscription paid in advance is regarded as a",
+"options": {
+"A": "current asset",
+"B": "current liability",
+"C": "capital",
+"D": "reserve"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 419,
+"subject": "accounting",
+"question": "A rapidly growing business organization with multiple units that is interested in comparing the performances and weaknesses of each unit should adopt.",
+"options": {
+"A": "manufacturing accounts",
+"B": "consolidated accounts",
+"C": "departmental accounts",
+"D": "joint venture accounts"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 420,
+"subject": "accounting",
+"question": "How are credit sales by a department treated?",
+"options": {
+"A": "the same way as normal debtors’ transactions",
+"B": "in a different way from normal debtors’ transactions",
+"C": "as an addition to the sales manager’s account",
+"D": "as an addition to the production manager’s account"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 421,
+"subject": "accounting",
+"question": "Discounts granted to branch customers are treated as a debit to branch",
+"options": {
+"A": "stock account and a credit to branch debtors’ account",
+"B": "discount account and a credit to branch bank account",
+"C": "stock account and a credit to branch bank account",
+"D": "discount account and a credit to branch debtors’ account"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 422,
+"subject": "accounting",
+"question": "Transfers from the head office to branches are best carried out at",
+"options": {
+"A": "cost price",
+"B": "selling price",
+"C": "cost plus mark-up",
+"D": "market price"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 423,
+"subject": "accounting",
+"question": "On dissolution, the final distribution of cash to partners is based on",
+"options": {
+"A": "partnership agreement",
+"B": "Articles of Association",
+"C": "goodwill",
+"D": "capital balances."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 424,
+"subject": "accounting",
+"question": "The balance of profit and loss account will be",
+"options": {
+"A": "N 4,000",
+"B": "N 2,800",
+"C": "N 1,500",
+"D": "N 300"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 425,
+"subject": "accounting",
+"question": "What is Kunle’s share of the profit?",
+"options": {
+"A": "N 600",
+"B": "N 300",
+"C": "N180",
+"D": "N 120"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 426,
+"subject": "accounting",
+"question": "When a new partner is admitted to a partnership, there is a need to revalue the",
+"options": {
+"A": "capital of the business",
+"B": "capital and liabilities of the business",
+"C": "assets and capital of the business",
+"D": "assets and liabilities of the business"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 427,
+"subject": "accounting",
+"question": "The accounting entry to record the premium on goodwill is to debit",
+"options": {
+"A": "cash and credit old partners’ capital",
+"B": "goodwill and credit revaluation",
+"C": "assets and credit capital",
+"D": "capital and credit assets"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 428,
+"subject": "accounting",
+"question": "The expenses incurred in promoting a company are",
+"options": {
+"A": "promoters’ expenses",
+"B": "floating expenses",
+"C": "preliminary expenses",
+"D": "the Board’s expenses"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 429,
+"subject": "accounting",
+"question": "Debentures can be redeemed out of",
+"options": {
+"A": "existing share capital reserve",
+"B": "existing general reserve",
+"C": "proceeds from new issue of shares",
+"D": "withholding tax."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 430,
+"subject": "accounting",
+"question": "Share premium is an example of",
+"options": {
+"A": "revenue reserves",
+"B": "capital reserves",
+"C": "general reserves",
+"D": "loan capital"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 431,
+"subject": "accounting",
+"question": "According to the provisions of the 1999 Constitution, all revenues generated by the Federal Government must be paid into the?",
+"options": {
+"A": "Consolidated Revenue Fund",
+"B": "Federation Account",
+"C": "Revenue Mobilization Allocation and Fiscal Commission’s Account",
+"D": "Equalization Fund"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 432,
+"subject": "accounting",
+"question": "The budget statement presented to the legislature by the Chief Executive is called",
+"options": {
+"A": "an appropriation act",
+"B": "a budget bill",
+"C": "an appropriation bill",
+"D": "a budget proposal"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 433,
+"subject": "accounting",
+"question": "The statement of assets and liabilities in the public sector can be described as the",
+"options": {
+"A": "income and expenditure account of government",
+"B": "appropriation account of government",
+"C": "balance sheet of government",
+"D": "funds flow statement of government"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2004",
+"image": ""
+},
+{
+"id": 434,
+"subject": "accounting",
+"question": "A company has departments X, Y and Z. Department X occupies a space twice that of Y while Z   occupies half the space of  Y. If the company pays N 70 000 on rent, what is the amount of rent that should be allocated to Y?",
+"options": {
+"A": "N 30,000",
+"B": "N 40,000",
+"C": "N 20,000",
+"D": "N 10, 000."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 435,
+"subject": "accounting",
+"question": "Calculate the total figure for the receipts and payments account.",
+"options": {
+"A": "N 11,410",
+"B": "N  13,630",
+"C": "N  9, 310",
+"D": "N  11, 530."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 436,
+"subject": "accounting",
+"question": "Determine the opening cash balance of the club",
+"options": {
+"A": "N 3070",
+"B": "N 2220",
+"C": "N 5710",
+"D": "N 4320."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 437,
+"subject": "accounting",
+"question": "Purchases of raw materials amount to N  81 000, direct labour is N  38 000 and factory overhead N  29 000. Calculate the prime cost.",
+"options": {
+"A": "N 176,000",
+"B": "N 170,000",
+"C": "N 167,000",
+"D": "N  156,000."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 438,
+"subject": "accounting",
+"question": "I.Profits and losses will be shared unequally II.  Interest is not allowed on capital, III. Salaries are not allowed. IV. Interest is charged on drawings. Which of  the following would apply where there is no agreement during partnership formation?",
+"options": {
+"A": "I only",
+"B": "I, II and III",
+"C": "I, II and IV",
+"D": "II and III."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 439,
+"subject": "accounting",
+"question": "The value of goods sent to branch is",
+"options": {
+"A": "N 4 000",
+"B": "N 6000",
+"C": "N 8000",
+"D": "N 2000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 440,
+"subject": "accounting",
+"question": "Determine the closing stock.",
+"options": {
+"A": "N 5 500",
+"B": "N  6500",
+"C": "N 2500",
+"D": "N 4500"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 441,
+"subject": "accounting",
+"question": "Expenses paid during the conversion of a partnership to a \tcompany are",
+"options": {
+"A": "debited to the partners’ capital account",
+"B": "debited to the realization account",
+"C": "debited to the cash account.",
+"D": "credited to the realization account"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 442,
+"subject": "accounting",
+"question": "In the trading and profit and loss account of a manufacturing organization, purchases is",
+"options": {
+"A": "always the same amount as the total factory overhead cost",
+"B": "given separately",
+"C": "equivalent to the total cost of goods manufactured",
+"D": "always the same as the prime cost."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 443,
+"subject": "accounting",
+"question": "Goods worth N 50 000 were sent at different times from head office to the branch during the year. By the end of the period, only N  40 000 worth of goods had arrived at the branch. Which of the following is correct about the treatment of this transaction?",
+"options": {
+"A": "Branch should debit goods received from head office with N 50 000.",
+"B": "Head office should debit goods sent to branch account with N 10 000.",
+"C": "Head office should debit goods sent to branch account with N 50 000.",
+"D": "Branch should debit goods received from head office with N  10000."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 444,
+"subject": "accounting",
+"question": "An accounting ratio that considers only quick assets to determine the short-term safety margin of a firm is the",
+"options": {
+"A": "fixed assets ratio",
+"B": "capital gearing ratio",
+"C": "current assets ratio",
+"D": "acid test ratio."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 445,
+"subject": "accounting",
+"question": "What would be the total amount received on second call?",
+"options": {
+"A": "N 240, 000",
+"B": "N 280 ,000",
+"C": "N 40,000",
+"D": "N 56,000."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 446,
+"subject": "accounting",
+"question": "The total amount of money received on application was",
+"options": {
+"A": "N  5600,00",
+"B": "N  220,000",
+"C": "N  800, 000",
+"D": "N  1 000 000"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 447,
+"subject": "accounting",
+"question": "Determine the working capital.",
+"options": {
+"A": "N 7,38,0000",
+"B": "N 8,48,0000",
+"C": "N  5 480 000",
+"D": "N  6 480 000."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 448,
+"subject": "accounting",
+"question": "The receipts and payments account of a not-for-profit-making organization plays a similar role in a profit-making organization as",
+"options": {
+"A": "a cash account",
+"B": "a balance sheet",
+"C": "an income account",
+"D": "an expenses account"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 449,
+"subject": "accounting",
+"question": "Osei and Yabo were in partnership sharing profits and losses in the ratio of 3:2. On admitting Takwa, the profit and loss sharing ratio was changed to 1:1:1  Suppose Takwa paid N  30 000 for goodwill this amount would be",
+"options": {
+"A": "credited to Takwa’s current account",
+"B": "debited to goodwill account",
+"C": "shared to all the partners’ capital account",
+"D": "credited to the old partners’ capital account."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 450,
+"subject": "accounting",
+"question": "The amount of subscriptions accrued is reported in the balance sheet under",
+"options": {
+"A": "fixed asset",
+"B": "long-term liability",
+"C": "current asset",
+"D": "current liability."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 451,
+"subject": "accounting",
+"question": "The lighting charge to be apportioned to Zema is",
+"options": {
+"A": "N 891",
+"B": "N 819",
+"C": "N 927",
+"D": "N 975"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 452,
+"subject": "accounting",
+"question": "Find the salary charged to Zera product.",
+"options": {
+"A": "N 1 854",
+"B": "N 1 845",
+"C": "N 1 062",
+"D": "N 1 134."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 453,
+"subject": "accounting",
+"question": "The gross profit disclosed in the branch stock adjustment account represents",
+"options": {
+"A": "head office profit",
+"B": "unrealized profit",
+"C": "estimated profit",
+"D": "branch profit"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 454,
+"subject": "accounting",
+"question": "Partners’ share of profit is credited to",
+"options": {
+"A": "a partner’s current account",
+"B": "a partner’s capital account",
+"C": "the profit and loss account",
+"D": "the profit and loss appropriation account"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 455,
+"subject": "accounting",
+"question": "A pension granted to any past president or vice-president shall be charged to the",
+"options": {
+"A": "consolidated revenue fund",
+"B": "special pension fund",
+"C": "contingency fund",
+"D": "development fund."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 456,
+"subject": "accounting",
+"question": "The federal government approved  N 140 m to local governments W, X, Y and Z. The amount is to be shared on the basis of 40% equality. 35% population and 25% internal revenue generation. Calculate the share of local government W on equality.",
+"options": {
+"A": "N 35 m",
+"B": "N 14 m .",
+"C": "N 56 m",
+"D": "N 28 m."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 457,
+"subject": "accounting",
+"question": "Stock valuation is useful because it informs the sales department on the",
+"options": {
+"A": "prices of the competing goods",
+"B": "prices that will affect profitability",
+"C": "number of goods to produce",
+"D": "number of goods to sell."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 458,
+"subject": "accounting",
+"question": "Using the straight-line method, the depreciation of the asset in \tthe first year was",
+"options": {
+"A": "N  210 m",
+"B": "N 343m",
+"C": "N 105m",
+"D": "N 270m."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 459,
+"subject": "accounting",
+"question": "What was the asset value at the beginning of the third year?",
+"options": {
+"A": "N 63 m",
+"B": "N 133 m",
+"C": "N 36m",
+"D": "N 28 m."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 460,
+"subject": "accounting",
+"question": "The drawings for the period stand at",
+"options": {
+"A": "N  2 750",
+"B": "N  3 750",
+"C": "N  2 500",
+"D": "N 2 570."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 461,
+"subject": "accounting",
+"question": "I.    Facilitating the preparation of final accounts II.   Making the existence of error easy to detect III. Checking the accuracy of postings periodically. From the above, which of the following are among the uses of control accounts?",
+"options": {
+"A": "I, II and III",
+"B": "I and III",
+"C": "II and III",
+"D": "I and II."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 462,
+"subject": "accounting",
+"question": "Determine the amount provided for discount allowed on debtors.",
+"options": {
+"A": "N 1 000",
+"B": "N 3000",
+"C": "N 900",
+"D": "N1500."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 463,
+"subject": "accounting",
+"question": "The provision for bad debt is",
+"options": {
+"A": "N2 000",
+"B": "N 800",
+"C": "N3 000",
+"D": "N1 900."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 464,
+"subject": "accounting",
+"question": "The amount to be charged to the profit and loss account is",
+"options": {
+"A": "N 30,000",
+"B": "N25,000",
+"C": "N 5 ,000",
+"D": "N20,000."
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 465,
+"subject": "accounting",
+"question": "The purchases ledger control account showed a credit balance of N 525 000 on April 30, 2006. This amount shows",
+"options": {
+"A": "what the debtors of a business enterprise owed the business",
+"B": "the total amount which each debtor owed the business",
+"C": "what a business enterprise owed its creditors",
+"D": "the total amount which a business enterprise owed each creditor."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 466,
+"subject": "accounting",
+"question": "Find the value of the total assets?",
+"options": {
+"A": "N 17 700",
+"B": "N 10,500",
+"C": "N 20,000",
+"D": "N 15,400."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 467,
+"subject": "accounting",
+"question": "What will be the equity of the business?",
+"options": {
+"A": "N 12,800",
+"B": "N 4,900",
+"C": "N 8,200",
+"D": "N 9,500."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 468,
+"subject": "accounting",
+"question": "Journal proper is used in recording",
+"options": {
+"A": "transactions that are not regular",
+"B": "returns from customers",
+"C": "credit sales",
+"D": "the receipt and payment of  money"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 469,
+"subject": "accounting",
+"question": "The process whereby a cheque received by one person is given to another for payment is known as",
+"options": {
+"A": "cheque crossing",
+"B": "payment in cheque",
+"C": "cheque transfer",
+"D": "cheque endorsement."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 470,
+"subject": "accounting",
+"question": "Calculate the balance in the bank statement",
+"options": {
+"A": "N 10 740",
+"B": "N11 860",
+"C": "N 17 500",
+"D": "N16,380."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 471,
+"subject": "accounting",
+"question": "What is the adjusted cash book balance?",
+"options": {
+"A": "N 14,680",
+"B": "N 15,560",
+"C": "N 16,440",
+"D": "N17,000."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 472,
+"subject": "accounting",
+"question": "The fourth stage of the accounting information system is",
+"options": {
+"A": "recording",
+"B": "interpreting",
+"C": "summarizing",
+"D": "classifying."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 473,
+"subject": "accounting",
+"question": "How much is sundry expenses?",
+"options": {
+"A": "N 2 700",
+"B": "N 2,250",
+"C": "N1,550",
+"D": "N2000."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 474,
+"subject": "accounting",
+"question": "The total of the trial balance is",
+"options": {
+"A": "N 6 600",
+"B": "N 6 650",
+"C": "N 5 600",
+"D": "N 5 900"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 475,
+"subject": "accounting",
+"question": "If Mr. Ajasin paid his creditors N 5 000 out of N 20 000 owed, what would be the effect of this transaction on the accounting equation?",
+"options": {
+"A": "A decrease .in the total liabilities and assets by N5 000.",
+"B": "An increase in total liabilities and owners’ equity by N15 000.",
+"C": "An increase in the total assets by N15 000",
+"D": "A decrease in owners’ equity by N 5 000."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 476,
+"subject": "accounting",
+"question": "Which of the following branches of accounting was first developed?",
+"options": {
+"A": "Cost accounting",
+"B": "Financial accounting",
+"C": "Management accounting",
+"D": "Petroleum accounting"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 477,
+"subject": "accounting",
+"question": "The accounting convention which states that the performance of a business should be determined by matching all expenses against all revenues is",
+"options": {
+"A": "accruals",
+"B": "materiality",
+"C": "objectivity",
+"D": "periodicity"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 478,
+"subject": "accounting",
+"question": "The process of bookkeeping includes records produced from",
+"options": {
+"A": "ledgers",
+"B": "source documents",
+"C": "minutes of meeting",
+"D": "intuitive reasoning"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 479,
+"subject": "accounting",
+"question": "Musa, a prepaid customer of XYZ and KLM, bought  N1500 recharge card from XYZ and  N2000 recharge card from KLM for business calls. The entry to record these transaction is debit",
+"options": {
+"A": "telephone  N 3,500, credit XYZ and KLM  N 3,500",
+"B": "telephone N 3,500. credit cash  N 3,500",
+"C": "sundries N 3,500, credit KLM  N 3,500",
+"D": "sundries  N 3.500, credit telephone  N3,500"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 480,
+"subject": "accounting",
+"question": "What is the total debit for the trial balance?",
+"options": {
+"A": "N  4 690 000",
+"B": "N 2 620 000",
+"C": "N  2 520 000",
+"D": "N 1 565 000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 481,
+"subject": "accounting",
+"question": "If Odukoya takes money out of the business bank account for his own private use, the effect of the transaction is",
+"options": {
+"A": "increase in assets and increase in capital",
+"B": "increase in assets and decrease in capital",
+"C": "decrease in capital and increase in assets",
+"D": "decrease in capital and decrease in assets."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 482,
+"subject": "accounting",
+"question": "What are the current liabilities?",
+"options": {
+"A": "I and II",
+"B": "IV and V",
+"C": "Ill and V",
+"D": "II and IV"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 483,
+"subject": "accounting",
+"question": "Find the fixed assets",
+"options": {
+"A": "I, II and V",
+"B": "I, II and IV",
+"C": "I, II and III",
+"D": "Ill, IV and V"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 484,
+"subject": "accounting",
+"question": "Cash discount is often recorded on",
+"options": {
+"A": "the debit side of the cash book",
+"B": "the credit side of the cash book",
+"C": "the folio column of the cash book",
+"D": "both credit and debit side of the cash book"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 485,
+"subject": "accounting",
+"question": "The standing order is a payment instruction given by a",
+"options": {
+"A": "customer to the bank",
+"B": "bank to the customers",
+"C": "bank to an employee",
+"D": "customer to a fellow customer"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 486,
+"subject": "accounting",
+"question": "Which of the following should not be added or subtracted from the bank statement balance to determine the adjusted cash balance?",
+"options": {
+"A": "Error by the bank",
+"B": "Under casting of the cash book",
+"C": "Overcasting of the cash book",
+"D": "Bank service charges"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 487,
+"subject": "accounting",
+"question": "Calculate the balance as per bank statement at the end of the year",
+"options": {
+"A": "24,700",
+"B": "25,200",
+"C": "26,200",
+"D": "27,700"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 488,
+"subject": "accounting",
+"question": "Determine the capital of the business",
+"options": {
+"A": "N 9,400",
+"B": "N 6,000",
+"C": "N 3,400",
+"D": "N 3,000"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 489,
+"subject": "accounting",
+"question": "What is the net working capital?",
+"options": {
+"A": "N 2,600",
+"B": "N1,800",
+"C": "N 800",
+"D": "N 600"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 490,
+"subject": "accounting",
+"question": "Which of the following items are current assets?",
+"options": {
+"A": "Stock, bills receivable, cash and debtors",
+"B": "Stock, bills payable, cash and debtors",
+"C": "Stock, bad debt, bills receivable and cash",
+"D": "Stock, work-in-progress, cash and bills payable."
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 491,
+"subject": "accounting",
+"question": "Using FIFO method, what is the value of the closing stock?",
+"options": {
+"A": "N 34,000",
+"B": "N 29,000",
+"C": "N 17,000",
+"D": "N 12,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 492,
+"subject": "accounting",
+"question": "What is the value of closing stock using simple average?",
+"options": {
+"A": "N 11,500",
+"B": "N 17,000",
+"C": "N 17,500",
+"D": "N 28,500"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 493,
+"subject": "accounting",
+"question": "Which of the following methods gives a conservative closing stock value during a period of rising prices?",
+"options": {
+"A": "LIFO",
+"B": "FIFO",
+"C": "Simple average",
+"D": "Periodic simple average"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 494,
+"subject": "accounting",
+"question": "Apart from the common control accounts, a control account can also be opened for",
+"options": {
+"A": "sales account",
+"B": "purchases account",
+"C": "cash account",
+"D": "wages account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 495,
+"subject": "accounting",
+"question": "Which of the following is a debit item in the purchases ledger control account?",
+"options": {
+"A": "Balance b/d",
+"B": "Cheque dishonoured",
+"C": "Purchases",
+"D": "Balance c/d"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 496,
+"subject": "accounting",
+"question": "Which of the following is an item in the debit side of the sales ledger control account?",
+"options": {
+"A": "Interest charged by suppliers",
+"B": "Bills receivable honoured",
+"C": "Transfer of credit balances from credit control account",
+"D": "Transfer of debit balances from creditors control account"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 497,
+"subject": "accounting",
+"question": "The costs incurred by departments that support the production department with such activities as maintenance, production control and storage are called",
+"options": {
+"A": "autonomous costs",
+"B": "service costs",
+"C": "supporting costs",
+"D": "subsidiary costs"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 498,
+"subject": "accounting",
+"question": "Determine the gross profit",
+"options": {
+"A": "N 49,000",
+"B": "N 48,000",
+"C": "N 31,000",
+"D": "N30,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 499,
+"subject": "accounting",
+"question": "What is the net profit?",
+"options": {
+"A": "N  46,000",
+"B": "N 45,000",
+"C": "N  28,000",
+"D": "N  27,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 500,
+"subject": "accounting",
+"question": "Receipts and payments account is a summary of the",
+"options": {
+"A": "budget",
+"B": "trading account",
+"C": "cash book",
+"D": "profit and loss account"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 501,
+"subject": "accounting",
+"question": "What is the accumulated fund?",
+"options": {
+"A": "23,700",
+"B": "27,750",
+"C": "29,650",
+"D": "51,650"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 502,
+"subject": "accounting",
+"question": "I.  Space occupied by each department    II. Average value of stock held by each department III. \tDepartmental turnover  IV. Number of articles sold by each department. From the information given, the two most logical bases for apportioning expenses that are common to departments are",
+"options": {
+"A": "I and II",
+"B": "I and III",
+"C": "II and III",
+"D": "Ill and IV"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 503,
+"subject": "accounting",
+"question": "One of the purposes of maintaining the account of a branch at the head office is to",
+"options": {
+"A": "record charges in shareholdings",
+"B": "record charges in liabilities",
+"C": "check the excesses of customers",
+"D": "check the excesses of members of staff."
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 504,
+"subject": "accounting",
+"question": "Which of the following is a common cause of a discrepancy between head office and branch trial balance?",
+"options": {
+"A": "Debtors and cash in transit",
+"B": "Creditors and cash in transit",
+"C": "Stock and cash in transit",
+"D": "Stock and prepayments"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 505,
+"subject": "accounting",
+"question": "Sule and Ahmad are in partnership sharing profits and losses equally. If  Khadija is admitted as a new partner to take 1/5 th as her share, what is the new profit or loss sharing ratio?",
+"options": {
+"A": "Sule1/3 , Ahmad 1/3 and Khadija 1/3",
+"B": "Sule1/5, Ahmad 1/5 and Khadija 3/5",
+"C": "Sule2/5,  Ahmad2/5 and Khadija 1/5",
+"D": "Sule ,2/5, Ahmad and 1/5 Khadija 2/5"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 506,
+"subject": "accounting",
+"question": "In partnership account, conversion of non-cash assets into cash \t\tis referred to as",
+"options": {
+"A": "realization",
+"B": "disposal",
+"C": "dissolution",
+"D": "revaluation"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 507,
+"subject": "accounting",
+"question": "The share premium account would be",
+"options": {
+"A": "credited with application and allotment  N 187,500",
+"B": "debited with application and allotment  N 375,000",
+"C": "credited with application and allotment  N 375,000",
+"D": "debited with application and allotment  N 187,500"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 508,
+"subject": "accounting",
+"question": "The second and final call account was debited with",
+"options": {
+"A": "ordinary share capital account  N 187,500",
+"B": "12% preference share capital  N  375,000",
+"C": "bank account  N 187,500",
+"D": "12% preference share capital account  N 187,500"
+},
+"answer": "D",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 509,
+"subject": "accounting",
+"question": "Provision for bad and doubtful debts in companies final accounts is treated in",
+"options": {
+"A": "trading account",
+"B": "profit and loss account",
+"C": "fund flow statement",
+"D": "cash flow statement"
+},
+"answer": "B",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 510,
+"subject": "accounting",
+"question": "The book value per share is obtained by dividing",
+"options": {
+"A": "shareholders equity by outstanding shares",
+"B": "total assets by outstanding shares",
+"C": "gross profit by outstanding shares",
+"D": "net profit by outstanding shares"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 511,
+"subject": "accounting",
+"question": "Expenditure incurred on consumables and goods for resale is",
+"options": {
+"A": "revenue expenditure",
+"B": "capital expenditure",
+"C": "sunk cost",
+"D": "miscellaneous expenses"
+},
+"answer": "A",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 512,
+"subject": "accounting",
+"question": "Replacement and renewal of fixed assets are",
+"options": {
+"A": "revenue receipt",
+"B": "capital receipt",
+"C": "capital expenditure",
+"D": "revenue expenditure"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 513,
+"subject": "accounting",
+"question": "Which of the following is credited to the consolidated revenue fund?",
+"options": {
+"A": "Recurrent expenditure",
+"B": "Capital expenditure",
+"C": "Transfers to revenue fund",
+"D": "Internal revenue"
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 514,
+"subject": "accounting",
+"question": "One of the reasons for the existence of the public sector is to",
+"options": {
+"A": "take adequate care of the needy",
+"B": "supplement the commercial sector",
+"C": "provide cheap services to all citizens",
+"D": "correct perceived inequalities."
+},
+"answer": "C",
+"solution": "",
+"examtype": "utme",
+"examyear": "2009",
+"image": ""
+}
+]

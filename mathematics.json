@@ -1,0 +1,1186 @@
+[
+{
+"id": 6371,
+"subject": "mathematics",
+"question": "A regular polygon has each of it angles at 160. What is the number of sides of the polygon? ",
+"options": {
+"A": "36",
+"B": "9",
+"C": "18",
+"D": "20"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6372,
+"subject": "mathematics",
+"question": "A girl walks 30m from a point P on  a bearing of 040 to a point Q. she   then walks 30m on a bearing of 140 to a point R. the bearing of R from P is ",
+"options": {
+"A": "90",
+"B": "50 ",
+"C": "45",
+"D": "40"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6373,
+"subject": "mathematics",
+"question": "How many different three digit numbers can be formed using the integers 1 to 6 if no integer 1 to 6 if no integer occurs twice in a number? ",
+"options": {
+"A": "720",
+"B": "1260",
+"C": "2520",
+"D": "5040"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6374,
+"subject": "mathematics",
+"question": "In how many different ways can the letters of the word GEOLOGY be arranged in order? ",
+"options": {
+"A": "720",
+"B": "1260",
+"C": "2520",
+"D": "5040"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6375,
+"subject": "mathematics",
+"question": "A cyclist rode for 30minutes at xhkm/hr. if the total distance covered is less than 60km, what is the range of values for x? ",
+"options": {
+"A": "x<14   ",
+"B": "x<20  ",
+"C": "x<29  ",
+"D": "x< 28"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6376,
+"subject": "mathematics",
+"question": "A business invested a total of N200,000 in two companies which paid dividends of 5% and 7% respectively. If the received a total of N11, 600 as dividend, how much did he invest at 5% ",
+"options": {
+"A": "N160,000 ",
+"B": "N140,000 ",
+"C": "N120,000 ",
+"D": "N80,000"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6377,
+"subject": "mathematics",
+"question": "In a class, 37 students take a least one of chemistry, Economics and Government, 8 students take Chemistry, 19 take Economics and 25 take Government, 12 students take Economics and Government but nobody takes Chemistry and Economics. How many students take both chemistry and Government? ",
+"options": {
+"A": "3",
+"B": "4",
+"C": "5",
+"D": "6"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6378,
+"subject": "mathematics",
+"question": "Solve for p in the following  equation given in base two  11(p+ 110) = 1001p   ",
+"options": {
+"A": "10",
+"B": "11",
+"C": "110",
+"D": "111"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6379,
+"subject": "mathematics",
+"question": "Factorize 16(3x+2y)2-25 (a+2b)2",
+"options": {
+"A": "(12x +8y+5a+10b)(12x+8y-5a-10b)    ",
+"B": "(12x+8y-5a-10b) (12x+8y-5a-10b),    ",
+"C": "20 (3x +2y-a-2b)(3x+2y+a+2b)  ",
+"D": "20(3x+2y+a+2b) (3x+2y+a+2b)."
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6380,
+"subject": "mathematics",
+"question": "1.3logx+logy =3. Then, y is  ",
+"options": {
+"A": "(10/x)3 ",
+"B": "(x/10)3  ",
+"C": "(x/10)-3 ",
+"D": "(10/x)1-1/3 "
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6381,
+"subject": "mathematics",
+"question": "Z is partly constant and partly varies inversely as the square of d. when d = 1, z = 11 and when d = 2, z = 5. Find the value of z when d = 4.  ",
+"options": {
+"A": "2",
+"B": "3.5",
+"C": "5",
+"D": "5.5"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6382,
+"subject": "mathematics",
+"question": "Expand the expression (x2-2x-3)(x2+x+1).  ",
+"options": {
+"A": "x4-4x2-5x-3  ",
+"B": "–x3-4x2+5x-3",
+"C": "x4-x3-4x2-5x-3  ",
+"D": "x4-4x2-5x -3"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6383,
+"subject": "mathematics",
+"question": "The indefinite integral of the function f(x) = xcosx for any constant k, is ",
+"options": {
+"A": "–cos + sinx +k,  ",
+"B": "xsinx-cosx,   ",
+"C": "xsinx for any constant k,   ",
+"D": "x+sinx+cosx+k"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6384,
+"subject": "mathematics",
+"question": "The trigonometric expression cos 2A +sin 2A can be written as    ",
+"options": {
+"A": "cosA (cosA-sinA),    ",
+"B": "Cos2A +sin2A-2sinAcosA,  ",
+"C": "Cos2A + sin2A = Cos2A –sin2A+2sinAcosA",
+"D": "cos2A+sin2A"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6385,
+"subject": "mathematics",
+"question": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is with replacement: ",
+"options": {
+"A": "0.9",
+"B": "1",
+"C": "0.47",
+"D": "0.49"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6386,
+"subject": "mathematics",
+"question": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is without replacement ",
+"options": {
+"A": "0.1",
+"B": "0.47",
+"C": "0.42",
+"D": "0.21"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2006",
+"image": ""
+},
+{
+"id": 6387,
+"subject": "mathematics",
+"question": "The interior angles of a pentagon are: 180o, 118o, 78o, 84o and  x. The value of x is: ",
+"options": {
+"A": "80o ",
+"B": "108o  ",
+"C": "120o  ",
+"D": "134o"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6388,
+"subject": "mathematics",
+"question": "All the vertices of an isosceles triangle lie on a circle and each of the base angles  of the triangle is 65o. The angle subtended at the centre of the circle by the base of the triangle is: ",
+"options": {
+"A": "130o  ",
+"B": "115o  ",
+"C": "50o  ",
+"D": "65o"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6389,
+"subject": "mathematics",
+"question": "A square tile measures 20cm by 20cm. How many of such tiles will cover a floor measuring 5m by 4m? ",
+"options": {
+"A": "500",
+"B": "400",
+"C": "320",
+"D": "250"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6390,
+"subject": "mathematics",
+"question": "The volume of a certain sphere is numerically equal to twice its surface area. The diameter of the sphere is: ",
+"options": {
+"A": "6",
+"B": "9",
+"C": "12",
+"D": ""
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6391,
+"subject": "mathematics",
+"question": "A bearing of 310o, expressed as a compass bearing is: ",
+"options": {
+"A": "N50oW  ",
+"B": "N40oW  ",
+"C": "S40oW  ",
+"D": "S50oW"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6392,
+"subject": "mathematics",
+"question": "Which of the following specified sets of data is not necessarily sufficient for the construction of a triangle? ",
+"options": {
+"A": "three angles  ",
+"B": "two sides and a right angle  ",
+"C": "two sides and an included angle ",
+"D": "three sides"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6393,
+"subject": "mathematics",
+"question": "The average age of the three children in a family is 9 years. If the average age of their parent is 39 years, the average age of the whole family is: ",
+"options": {
+"A": "20 years  ",
+"B": "21years  ",
+"C": "24years  ",
+"D": "27years"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6394,
+"subject": "mathematics",
+"question": "Evaluate x in base 3 if 41x-22x=17x. ",
+"options": {
+"A": "11",
+"B": "8",
+"C": "12",
+"D": "22"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6395,
+"subject": "mathematics",
+"question": "When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ",
+"options": {
+"A": "N 6. ",
+"B": "N 7  ",
+"C": "N 8",
+"D": "N10"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6396,
+"subject": "mathematics",
+"question": "How long will take a sum of money invested at 8% simple interest to double the original sum? ",
+"options": {
+"A": "8 years  ",
+"B": "10.5years  ",
+"C": "(1years ",
+"D": "12.5years"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6397,
+"subject": "mathematics",
+"question": "The journey from Lagos to Ibadan usually takes a motorist 1 hour 30 minutes. By increasing his average speed by 20km/hr, the motorist saves 15 minutes. His usual speed, in Km/hr is ",
+"options": {
+"A": "100",
+"B": "90",
+"C": "85",
+"D": "80"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6398,
+"subject": "mathematics",
+"question": "The smallest section of a rod which can be cut 36cm in length is",
+"options": {
+"A": "90cm ",
+"B": "180cm ",
+"C": "360cm  ",
+"D": "540cm."
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6399,
+"subject": "mathematics",
+"question": "If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure? ",
+"options": {
+"A": "0.01",
+"B": "0.0051",
+"C": "0.1",
+"D": "0.005"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6400,
+"subject": "mathematics",
+"question": "In a survey of 100 students in an institution, 80 students speak Yoruba, 22 speak Igbo, while 6 speak neither Igbo nor Yoruba. How many students speak Yoruba and Igbo? ",
+"options": {
+"A": "96",
+"B": "8",
+"C": "64",
+"D": "12"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2007",
+"image": ""
+},
+{
+"id": 6401,
+"subject": "mathematics",
+"question": "The expression a 3 + b 3 is equal  to ",
+"options": {
+"A": "(a2 +b)(a-ab+b2 )",
+"B": "(a+b)(a2 –ab+b2 )  ",
+"C": "(a-b2)(a2-  ab+b)",
+"D": "(a­-b)(a2+ab+b2)"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6402,
+"subject": "mathematics",
+"question": "Factorize 16(3x +2y)2 -25(a+2b)2  ",
+"options": {
+"A": "(12x + 8y -5a-10b)(12x+8y-5a-10b)",
+"B": "20(3x +2y-a-2b)(3x+2y+a+1-2b) ",
+"C": "(12x +8y+5a+10b)(12x +8y-5a-10b)",
+"D": "20(3x +2y+ a+2b)(3x + 2y+a+2b)"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6403,
+"subject": "mathematics",
+"question": "A cone has base radius 4cm and  height 3cm. The area of its curved surface is",
+"options": {
+"A": "12pcm2     ",
+"B": "20pcm2",
+"C": "24pcm2 ",
+"D": "15cm2"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6404,
+"subject": "mathematics",
+"question": "A. cylinder has height 4cm and base radius 5cm.its volume to 3 significant figure is  ",
+"options": {
+"A": "314.2cm2 ",
+"B": "31.42 cm2 ",
+"C": "251 4cm2 ",
+"D": "251cm2"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6405,
+"subject": "mathematics",
+"question": "A cyclist rode for 30minutes at xkm/hr and due to a breakdown, he had to push the bike for 2hrs at (x – 5) km/hr. if the total distance covered is less than 60km, what is the range of values for x? ",
+"options": {
+"A": "x<14",
+"B": "x<29",
+"C": "x<28",
+"D": "x<20"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6406,
+"subject": "mathematics",
+"question": "The expression ax2 + bx takes the value 6 when x = 1 and 10 when x = 2. Find its value when  x = 5       ",
+"options": {
+"A": "10",
+"B": "12",
+"C": "6",
+"D": ".-10"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6407,
+"subject": "mathematics",
+"question": "Dividing 2x3 – x2 – 5x + 1 by x  + 3 gives the remainder ",
+"options": {
+"A": ".-3",
+"B": "47",
+"C": "61",
+"D": "-47"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6408,
+"subject": "mathematics",
+"question": "The difference of two numbers is 10, while their product is 39. Find these numbers",
+"options": {
+"A": "– 3 and 10 or 13 and 10,",
+"B": "3 and – 10 or 3 and 13,  ",
+"C": "3 and – 3 or 3 and 13,     ",
+"D": " – 3 and – 13 or   13 and  3 "
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6409,
+"subject": "mathematics",
+"question": "The average age of x pupils in a class is 14 years 2 months. A pupils of 15years 2 months joins the class and  the average age is increased  by one month. Find x.      ",
+"options": {
+"A": "12, ",
+"B": " 6, ",
+"C": "11,",
+"D": "14,"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6410,
+"subject": "mathematics",
+"question": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. 13. How many learn both languages? ",
+"options": {
+"A": "60",
+"B": "45",
+"C": "15",
+"D": "120"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6411,
+"subject": "mathematics",
+"question": "All the 120 pupils in a school learn Yoruba or Igbo or both. Given that 75 learn Yoruba and 60 learn Igbo. How many learn Igbo only?   ",
+"options": {
+"A": "45",
+"B": "30",
+"C": "15",
+"D": "60"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6412,
+"subject": "mathematics",
+"question": "If the distance covered by a body in time t seconds is s = t2 - 6t2  - 5t, what is its initial velocity?  ",
+"options": {
+"A": "0ms-1    ",
+"B": "-4 ms-1 ",
+"C": "(13t2  - 12t + 5) ms-1   ",
+"D": "5ms-1 "
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6413,
+"subject": "mathematics",
+"question": "The trigonometric expression cos2A + sin 2A can be written as:  ",
+"options": {
+"A": "cosA(cosA + sinA)  ",
+"B": "B.cos2A + sin2A – 2sinAcosA,  ",
+"C": "2sinAcosA + cos2A + sin2A,  ",
+"D": "D.cos2A +sinA  – 2sinAcosA"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6414,
+"subject": "mathematics",
+"question": "With replacement ",
+"options": {
+"A": "0.9,",
+"B": "1, ",
+"C": "0.4,",
+"D": "0.49"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6415,
+"subject": "mathematics",
+"question": "Without replacement ",
+"options": {
+"A": "0.1, ",
+"B": "0.47, ",
+"C": "0.42,   ",
+"D": "0.21"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6416,
+"subject": "mathematics",
+"question": "The fair coins are tossed simultaneously. What is the probability of obtaining at least 1 tail turns up? ",
+"options": {
+"A": "1/4",
+"B": "3/4",
+"C": "1/2",
+"D": "1"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6417,
+"subject": "mathematics",
+"question": "A regular polygon has each of it angles as 1600. What is the number of sides of the polygon?  ",
+"options": {
+"A": "18,    ",
+"B": "36,       ",
+"C": "9,     ",
+"D": "20"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6418,
+"subject": "mathematics",
+"question": "One angle of an octagon is 1000 while the other sides are equal. Find each of these exterior angles. ",
+"options": {
+"A": "800,",
+"B": "600,",
+"C": "1400,           ",
+"D": "400,   "
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2008",
+"image": ""
+},
+{
+"id": 6419,
+"subject": "mathematics",
+"question": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?. ",
+"options": {
+"A": "6cm ",
+"B": "7cm ",
+"C": "8cm    ",
+"D": "9cm      "
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6420,
+"subject": "mathematics",
+"question": "If 32y – 6(3y) = 27, find y ",
+"options": {
+"A": "3",
+"B": "-1",
+"C": "2",
+"D": "-3"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6421,
+"subject": "mathematics",
+"question": "An (n-2)2 sided figure has n diagonal, find the number n of diagonal for a 25 sided Figure   ",
+"options": {
+"A": "8",
+"B": "7",
+"C": "6",
+"D": "10"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6422,
+"subject": "mathematics",
+"question": "A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ",
+"options": {
+"A": "N180 ",
+"B": "N 165 ",
+"C": "N15   ",
+"D": "N 200"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6423,
+"subject": "mathematics",
+"question": "Two fair dice are rolled. What is the probability that both show up the same number of point?",
+"options": {
+"A": "1/36 ",
+"B": "7/36 ",
+"C": "½ ",
+"D": "1/6"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6424,
+"subject": "mathematics",
+"question": "Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium  ",
+"options": {
+"A": "3/5 ",
+"B": "2/5 ",
+"C": "1/5 ",
+"D": "1/5 "
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6425,
+"subject": "mathematics",
+"question": "A man kept 6 black, 5 brown and 7 purple shirts in a drawer. What is the probability of his picking a purple shirt with his eyes close ",
+"options": {
+"A": "1/7",
+"B": "7/18 ",
+"C": "11/18 ",
+"D": "7/11"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6426,
+"subject": "mathematics",
+"question": "If P varies inversely as V and V varies directly as R2, find the relationship between P and R given that R = 7 when P = 2 ",
+"options": {
+"A": "P = 98R2 ",
+"B": "PR2 = 98 ",
+"C": "P2R = 89 ",
+"D": "P = 1/98R "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6427,
+"subject": "mathematics",
+"question": "If 7 and 189 are the first and fourth terms of a geometric progression respectively find the sum of the first three terms of the progression ",
+"options": {
+"A": "182",
+"B": "180",
+"C": "91",
+"D": "63"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6428,
+"subject": "mathematics",
+"question": "Find the positive number n such that thrice its square is equal to twelve time the number ",
+"options": {
+"A": "1",
+"B": "4",
+"C": "2",
+"D": "5"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6429,
+"subject": "mathematics",
+"question": "Given a regular hexagon, calculate each interior angle of the hexagon ",
+"options": {
+"A": "60",
+"B": "30",
+"C": "120",
+"D": "15"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6430,
+"subject": "mathematics",
+"question": "Factorize 6x2 – 14x – 12 ",
+"options": {
+"A": "2(x + 3)(3x – 2) ",
+"B": "6(x – 2)(x + 1) ",
+"C": "2(x – 3)(3x + 2) ",
+"D": "6(x + 2)(x – 1) "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6431,
+"subject": "mathematics",
+"question": "The value of (0.303)3 – (0.02)3 is ",
+"options": {
+"A": "0.019",
+"B": "0.0019",
+"C": "0.0268",
+"D": "0.000019"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6432,
+"subject": "mathematics",
+"question": "What is the product of 27/5 ¸(3)3 and (1/5) ",
+"options": {
+"A": "5",
+"B": "3",
+"C": "2",
+"D": "1"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6433,
+"subject": "mathematics",
+"question": "Find the probability that a number selected at random 40 to 50 is a prime number   ",
+"options": {
+"A": "3/11",
+"B": "5/11",
+"C": "5/10",
+"D": "4/10"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6434,
+"subject": "mathematics",
+"question": "If the length of the sides of a right angled triangle are (3x + 1)cm, (3x – 1)cm and xcm, what is x ? ",
+"options": {
+"A": "2",
+"B": "6",
+"C": "18",
+"D": "12"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6435,
+"subject": "mathematics",
+"question": "A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared? ",
+"options": {
+"A": "15",
+"B": "25",
+"C": "30",
+"D": "50"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2009",
+"image": ""
+},
+{
+"id": 6436,
+"subject": "mathematics",
+"question": "Solve 4x2 +20x -24 =0",
+"options": {
+"A": " 1, 6",
+"B": " -1, -6",
+"C": "6, -1",
+"D": "-6, 1"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 6437,
+"subject": "mathematics",
+"question": "What is the 15th term of the sequence -3, 2,7,…? ",
+"options": {
+"A": "65",
+"B": "66",
+"C": "68",
+"D": "67"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 6438,
+"subject": "mathematics",
+"question": "What is the remainder when x3 +5x2-6x+1 is divided by x-1? ",
+"options": {
+"A": "-1",
+"B": "2",
+"C": "-2",
+"D": "1"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 6439,
+"subject": "mathematics",
+"question": "If  are the roots of equation 6 +5x –x2 =0, find  x",
+"options": {
+"A": "11",
+"B": "-11",
+"C": "1",
+"D": "-1"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 6440,
+"subject": "mathematics",
+"question": "Solve the equation  = 25x+4 ",
+"options": {
+"A": "-4, 2 ",
+"B": " -4,-2 ",
+"C": "4, -2",
+"D": "4, 2"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 6441,
+"subject": "mathematics",
+"question": "What is the coordinate of centre of the circle X2+y2+2x-4y =10?  ",
+"options": {
+"A": "(-1,-2)",
+"B": "( 1, 2)",
+"C": " (-1, 2) ",
+"D": " (1, -2)"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 6442,
+"subject": "mathematics",
+"question": "Solve the equation 3x+1 = 271-x  ",
+"options": {
+"A": "1/2",
+"B": "-1/2",
+"C": "3/4",
+"D": "-3/4"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 6443,
+"subject": "mathematics",
+"question": "Given f(x) =3+x and g(x) =3-x, find g (f(x))",
+"options": {
+"A": "6",
+"B": "x",
+"C": "-x",
+"D": "0"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 6444,
+"subject": "mathematics",
+"question": "Differentiate sin (2x-5) with respect to x. ",
+"options": {
+"A": "cos (2x-5)",
+"B": "–cos (2x-5)   ",
+"C": " 2cos (2x-5)",
+"D": "-2cos (2x-5)"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme",
+"examyear": "2013",
+"image": ""
+}
+]

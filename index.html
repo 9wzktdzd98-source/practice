@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>WAEC Practice</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <h1>WAEC / UTME Practice</h1>
+    <p class="sub">Pick a subject to start a 20-question practice quiz.</p>
+    <div id="subjects" class="grid">Loading subjects…</div>
+  </div>
+
+  <script>
+    async function loadSubjects() {
+      const res = await fetch('/api/questions/subjects');
+      const data = await res.json();
+      const el = document.getElementById('subjects');
+      el.innerHTML = '';
+      data.subjects.forEach((s) => {
+        const card = document.createElement('a');
+        card.className = 'card';
+        card.href = `quiz.html?subject=${encodeURIComponent(s.subject)}`;
+        card.innerHTML = `<strong>${s.subject}</strong><span>${s.count} questions</span>`;
+        el.appendChild(card);
+      });
+    }
+    loadSubjects();
+  </script>
+</body>
+</html>
