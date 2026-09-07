@@ -1,0 +1,562 @@
+[
+{
+"id": 6445,
+"subject": "naijafb",
+"question": "What year was Nigeria amalgamated?",
+"options": {
+"A": "1960",
+"B": "1914",
+"C": "1901",
+"D": "1965"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6446,
+"subject": "naijafb",
+"question": "Who became the first president of Nigeria?",
+"options": {
+"A": "Chief Obafemi Awolowo",
+"B": "Alhaji  Abubaka Tafawa Belewa",
+"C": "Dr. Nnamdi Azikiwe",
+"D": "Gen. Olusegun Obasanjo"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6447,
+"subject": "naijafb",
+"question": "Who became the first Prime minister of Nigeria?",
+"options": {
+"A": "Chief Obafemi Awolowo",
+"B": "Alhaji Abubaka Tafawa Belewa",
+"C": "Dr. Nnamdi Azikiwe",
+"D": "Gen Olusegun Obasanjo"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6448,
+"subject": "naijafb",
+"question": "Which river is the longest in Africa?",
+"options": {
+"A": "Niger",
+"B": "Congo",
+"C": "Nile",
+"D": "Amazone"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6449,
+"subject": "naijafb",
+"question": "Pick put the odd Nigeria currency",
+"options": {
+"A": "25 kobo",
+"B": "1 kobo",
+"C": "50 kobo",
+"D": "100 kobo"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6450,
+"subject": "naijafb",
+"question": "What is the full meaning of APC",
+"options": {
+"A": "All progress Congress",
+"B": "Alliance progress Congress",
+"C": "All progressive Congress",
+"D": "Alliance progressive Congress"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6451,
+"subject": "naijafb",
+"question": "What is the full meaning of PDP",
+"options": {
+"A": "Power for the People",
+"B": "People Democracy Party",
+"C": "People Democratic Party",
+"D": "Share the money sharp sharp"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6452,
+"subject": "naijafb",
+"question": "How old was President Buhari when he won 2015 presidential general election",
+"options": {
+"A": "70",
+"B": "72",
+"C": "73",
+"D": "74"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6453,
+"subject": "naijafb",
+"question": "About how many million votes did General Buhari use to deaf President Goodluck Jonathan?",
+"options": {
+"A": "10.1 Million",
+"B": "5.1 Million",
+"C": "2.1 million",
+"D": "1.1 million"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6454,
+"subject": "naijafb",
+"question": "Who was the spoken man of APC during the presidential elections?",
+"options": {
+"A": "Liel Mohammed",
+"B": "Lia Mohammed",
+"C": "Bello Mohammed",
+"D": "Adams Mohammed"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6455,
+"subject": "naijafb",
+"question": "Who was the spoken man of PDP during the presidential elections?",
+"options": {
+"A": "Olisa Metuh",
+"B": "Ruben Abati",
+"C": "Fani Kayode",
+"D": "Lia Mohammed"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6456,
+"subject": "naijafb",
+"question": "President Buhari is from what state?",
+"options": {
+"A": "Kano",
+"B": "Kaduna",
+"C": "Katsina",
+"D": "Jigawa"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6457,
+"subject": "naijafb",
+"question": "How many presidential elections did General Buhari contested in before wining in2015?",
+"options": {
+"A": "3",
+"B": "5",
+"C": "4",
+"D": "2"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6458,
+"subject": "naijafb",
+"question": "The only woman that contested in 2015 presidential election was from which party",
+"options": {
+"A": "ANPP",
+"B": "CPC",
+"C": "AA",
+"D": "KOWA"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6459,
+"subject": "naijafb",
+"question": "What is the name of first female Nigerian to run for office as a democratic president?",
+"options": {
+"A": "Funmilayo Ransome Kuti",
+"B": "Remi Sonaiya",
+"C": "Oby Ezekweslli",
+"D": "Bola Ara"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6460,
+"subject": "naijafb",
+"question": "2015 general election INEC chairman was",
+"options": {
+"A": "Attahiru Hammed Jega",
+"B": "Attahiru Mohammed Jega",
+"C": "Attahiru Muhammadu Jega",
+"D": "Atta Muhammadu Jega"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6461,
+"subject": "naijafb",
+"question": "The official release of 2015 presidential general election results was on",
+"options": {
+"A": "March 30th",
+"B": "March 31th",
+"C": "March 29th",
+"D": "April 4th"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6462,
+"subject": "naijafb",
+"question": "2015 general presidential election took place on",
+"options": {
+"A": "14-Mar",
+"B": "28-Mar",
+"C": "1-Apr",
+"D": "14-Feb"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6463,
+"subject": "naijafb",
+"question": " The spokesperson for President Goodluck Jonathan?s during 2015 election was",
+"options": {
+"A": "Olisa Metuh",
+"B": "Ruben Abati",
+"C": "Fani Kayode",
+"D": "Lia Mohammed"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6464,
+"subject": "naijafb",
+"question": " Which country won 2015 FIFA U-17 world cup",
+"options": {
+"A": "Mali",
+"B": "Nigeria",
+"C": "Brazi",
+"D": "Spain"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6465,
+"subject": "naijafb",
+"question": " Nigeria became a republic in",
+"options": {
+"A": "1960",
+"B": "1962",
+"C": "1963",
+"D": "1965"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6466,
+"subject": "naijafb",
+"question": " What day is regarded as democracy day?",
+"options": {
+"A": "27-May",
+"B": "1-May",
+"C": "29-May",
+"D": "25-May"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6467,
+"subject": "naijafb",
+"question": " What day is regarded as workers? day?",
+"options": {
+"A": "27-May",
+"B": "1-May",
+"C": "29-May",
+"D": "25-May"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6468,
+"subject": "naijafb",
+"question": " What day is regarded as children?s day?",
+"options": {
+"A": "27-May",
+"B": "1-May",
+"C": "29-May",
+"D": "25-May"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6469,
+"subject": "naijafb",
+"question": " In year 2015, Nigeria as an independent state will be how old",
+"options": {
+"A": "50",
+"B": "53",
+"C": "54",
+"D": "55"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6470,
+"subject": "naijafb",
+"question": " What are the colors of Nigeria Flag?",
+"options": {
+"A": "Green white green",
+"B": "Green and white",
+"C": "Green , green white",
+"D": "Green brown green"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6471,
+"subject": "naijafb",
+"question": " Nigeria commercial capital is",
+"options": {
+"A": "Abuja",
+"B": "Port Harcourt",
+"C": "Lagos",
+"D": "Kano"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6472,
+"subject": "naijafb",
+"question": " How many states are in Nigeria?",
+"options": {
+"A": "37",
+"B": "36",
+"C": "35",
+"D": "34"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6473,
+"subject": "naijafb",
+"question": " Which of the following is not a minister of President Buhari administration 2015",
+"options": {
+"A": "Babatunde fashola",
+"B": "Chris Ngige",
+"C": "Kayode Fayemi",
+"D": "Solomon David"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6474,
+"subject": "naijafb",
+"question": " How many ministers were appointed by President Buhari Administration?",
+"options": {
+"A": "30",
+"B": "37",
+"C": "32",
+"D": "36"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6475,
+"subject": "naijafb",
+"question": " Which Nigeria army office allegedly looted 32 billion naira?",
+"options": {
+"A": "Gen. Sambo Dasuki",
+"B": "Col. Sambo Dasuki",
+"C": "Major. Sambo Dasuki",
+"D": "Officer Sambo Dasuki"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6476,
+"subject": "naijafb",
+"question": " The full meaning of EFCC is",
+"options": {
+"A": "Economic and Financial Crimes Conduct",
+"B": "Economic and Finances Crimes Commission",
+"C": "Economic and Financial Crimes Commotion",
+"D": "Economic and Financial Crimes Commission"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6477,
+"subject": "naijafb",
+"question": " What is the Capital of Jigawa State?",
+"options": {
+"A": "Bornu",
+"B": "Maiduguri",
+"C": "Dutse",
+"D": "Makurdi"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6478,
+"subject": "naijafb",
+"question": " What is the Capital of Benue State?",
+"options": {
+"A": "Bornu",
+"B": "Maiduguri",
+"C": "Dutse",
+"D": "Makurdi"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6479,
+"subject": "naijafb",
+"question": " What is the Capital of Zamfara State?",
+"options": {
+"A": "Bornu",
+"B": "Maiduguri",
+"C": "Gusau",
+"D": "Makudi"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+}
+]

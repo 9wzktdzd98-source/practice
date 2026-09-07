@@ -1,0 +1,5602 @@
+[
+{
+"id": 5991,
+"subject": "insurance",
+"question": "Which of the following policies will prevent loss of home if the wage earner dies?",
+"options": {
+"A": "Term assurance",
+"B": "Endowment assurance",
+"C": "Mortgage insurance",
+"D": "Whole life assurance"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 5992,
+"subject": "insurance",
+"question": "One of the objectives of buying a term assurance policy is to",
+"options": {
+"A": "protect  dependants  in  case  of  death  of  the  life assured",
+"B": "reduce financial burden of the life assured",
+"C": "supplement retirement income  of  the  life  assured",
+"D": "maximize savings from the life assured"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 5993,
+"subject": "insurance",
+"question": "An assurance policy taken by experts to cover possible negligence arising from their duties is",
+"options": {
+"A": "consequential loss",
+"B": "professional indemnity",
+"C": "cargo",
+"D": "freight"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 5994,
+"subject": "insurance",
+"question": "The class of insurance that  covers  legal  liability to a third party for bodily injury and property damage caused by goods supplied is",
+"options": {
+"A": "employer’s liability",
+"B": "public liability",
+"C": "professional indemnity",
+"D": "products liability"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 5995,
+"subject": "insurance",
+"question": "The  type  of  cover  that  is  designed  against  loss  of earnings following loss caused by fire and special perils is",
+"options": {
+"A": "product guarantee insurance",
+"B": "materials damage cover",
+"C": "fire damage policy",
+"D": "consequential loss cover"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 5996,
+"subject": "insurance",
+"question": "Which  of  the  following  risks  is  covered  by  insurance policy?",
+"options": {
+"A": "An investment loss on the stock market",
+"B": "Dishonesty of an employee leading to fraud",
+"C": "Failure of a business venture",
+"D": "Rise and fall of prices of goods in the market"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 5997,
+"subject": "insurance",
+"question": "In  classification  of  risks, what is the name given to a risk  where  the  causes  of  events are linked to factors \tthat are due to the society we live in?",
+"options": {
+"A": "Dynamic risk",
+"B": "Particular risk",
+"C": "Speculative risk",
+"D": "Fundamental risk"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 5998,
+"subject": "insurance",
+"question": "The evidence of the insurance contract is",
+"options": {
+"A": "proposal form",
+"B": "policy",
+"C": "schedule",
+"D": "endorsement"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 5999,
+"subject": "insurance",
+"question": "The right of the insurer to step in place of the insured for the purpose of recovering damages is called",
+"options": {
+"A": "representation",
+"B": "indemnity",
+"C": "subrogation",
+"D": "contribution"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6000,
+"subject": "insurance",
+"question": "Which of the following is a contract of benefit?",
+"options": {
+"A": "Personal accident insurance",
+"B": "Business interruption insurance",
+"C": "Fire insurance",
+"D": "Money insurance"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6001,
+"subject": "insurance",
+"question": "Which of the following is not a feature of insurable interest?",
+"options": {
+"A": "Loss suffered",
+"B": "subject matter",
+"C": "Legal relationship",
+"D": "Financial value"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6002,
+"subject": "insurance",
+"question": "A prospective insured in an engineering insurance may be advised to purchase one of the following classes of insurance",
+"options": {
+"A": "fire cover",
+"B": "boiler cover",
+"C": "tempest cover",
+"D": "equipment cover"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6003,
+"subject": "insurance",
+"question": "The class of non-life insurance policy where cover note is issued is",
+"options": {
+"A": "fire insurance",
+"B": "burglary insurance",
+"C": "motor insurance",
+"D": "fidelity guarantee"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6004,
+"subject": "insurance",
+"question": "Abandonment is mostly applicable to",
+"options": {
+"A": "marine insurance",
+"B": "motor insurance",
+"C": "fire insurance",
+"D": "engineering insurance"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6005,
+"subject": "insurance",
+"question": "Which of the following is not a benefit covered under a personal accident policy?",
+"options": {
+"A": "Death",
+"B": "Temporary disablement",
+"C": "Loss of baggage",
+"D": "Medical expenses"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6006,
+"subject": "insurance",
+"question": "In the preparation of food for eat - in - customers, the cooks made a mistake in using excess quantity of an \tingredient. A customer ate and  suffered  poisoning. \tWhich policy of the operator would pick this liability?",
+"options": {
+"A": "Public liability",
+"B": "Personal liability",
+"C": "All risks insurance",
+"D": "Loss of profit insurance"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6007,
+"subject": "insurance",
+"question": "How much premium will the insurer charge?",
+"options": {
+"A": "N= 3,750",
+"B": "N= 13,750",
+"C": "N= 17,500",
+"D": "N= 31,250"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6008,
+"subject": "insurance",
+"question": "How  much  premium  will  the  insurer  return  to  the insured?",
+"options": {
+"A": "N= 3,750",
+"B": "N= 13,750",
+"C": "N= 17,500",
+"D": "N= 31,250"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6009,
+"subject": "insurance",
+"question": "A policy that combines cover for many perils as a single policy  to  suit  the  insurance  needs of  an insured is",
+"options": {
+"A": "accident policy",
+"B": "protection policy",
+"C": "paternal policy",
+"D": "packaged policy"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6010,
+"subject": "insurance",
+"question": "A residential building built beside a petrol filling station is described as a",
+"options": {
+"A": "risk",
+"B": "hazard",
+"C": "peril",
+"D": "liability"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6011,
+"subject": "insurance",
+"question": "The document that sets out the list of items covered in insurance is a",
+"options": {
+"A": "manifest",
+"B": "bill of lading",
+"C": "policy list",
+"D": "policy specification or form"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6012,
+"subject": "insurance",
+"question": "One of the information contained in a motor insurance cover note is the",
+"options": {
+"A": "behaviour of the insured",
+"B": "occupation of the insured",
+"C": "commencement date",
+"D": "previous and present insurance history"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6013,
+"subject": "insurance",
+"question": "In property insurance, which of the following is not a direct loss?",
+"options": {
+"A": "Reinstating the property destroyed",
+"B": "Replacing the property destroyed",
+"C": "Repairing the property damaged",
+"D": "Replacing third party property damaged"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6014,
+"subject": "insurance",
+"question": "Ade insured his property for N= 350,000.00. The property is subject to average condition. He suffered a loss amounting to N= 30,000.00 with the value of the property at the time of loss to be N= 370,000.00. How much will the insurer pay?",
+"options": {
+"A": "N= 14,583.33",
+"B": "N= 28,378.38",
+"C": "N= 30,000.00",
+"D": "N= 31,714.29"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6015,
+"subject": "insurance",
+"question": "A method of providing indemnity in the event of loss is",
+"options": {
+"A": "cash payment",
+"B": "professional advice",
+"C": "resolution of dispute",
+"D": "resolution of policy"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6016,
+"subject": "insurance",
+"question": "An insurer who buys reinsurance cover is insured as",
+"options": {
+"A": "retrocession",
+"B": "retrocedant",
+"C": "cession",
+"D": "cadent"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6017,
+"subject": "insurance",
+"question": "One of the information contained in a renewal notice is the",
+"options": {
+"A": "previous losses",
+"B": "location of the risk",
+"C": "occupation of the insured",
+"D": "sum insured"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6018,
+"subject": "insurance",
+"question": "Family income option in a life policy provides that",
+"options": {
+"A": "the beneficiary will be paid for life",
+"B": "the beneficiary receives the policy sum",
+"C": "interest will be added monthly",
+"D": "salary will be paid to the insured until death"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6019,
+"subject": "insurance",
+"question": "A provision in a policy that exempts an insurer from liability if the loss is less than a certain amount is",
+"options": {
+"A": "excess",
+"B": "transfer",
+"C": "lay days",
+"D": "franchise"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6020,
+"subject": "insurance",
+"question": "Which of the following policies is a peril covered under a standard fire policy?",
+"options": {
+"A": "Lightning",
+"B": "Storm",
+"C": "Civil commotion",
+"D": "Escape of oil"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6021,
+"subject": "insurance",
+"question": "A type of reinsurance where cession and acceptance is obligatory is",
+"options": {
+"A": "treaty",
+"B": "captive",
+"C": "facultative",
+"D": "retrocession"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6022,
+"subject": "insurance",
+"question": "A contract sold  by  insurance companies that  pay  a monthly or  quarterly income  benefit for the  life  of a person is",
+"options": {
+"A": "endowment",
+"B": "annuity",
+"C": "income",
+"D": "freight"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6023,
+"subject": "insurance",
+"question": "George effected two personal accident policies. The first policy provides N= 25,000.00 cover for loss of limb. The second policy provides N= 30,000.00 cover for loss of limb. What is the total amount that  George  will receive in the event of a valid loss of limb claim?",
+"options": {
+"A": "N= 5,000.00",
+"B": "N= 25,000.00",
+"C": "N= 30,000.00",
+"D": "N= 55,000.00"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6024,
+"subject": "insurance",
+"question": "Renewal notice is  used by  insurers  to  remind the insured of the",
+"options": {
+"A": "reduction of cover",
+"B": "continuation of cover",
+"C": "expiration of cover",
+"D": "increase of cover"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6025,
+"subject": "insurance",
+"question": "Risk Net Insurance Brokers Limited placed a business with an insurance company, in return the broker will be entitled to",
+"options": {
+"A": "fees",
+"B": "commission",
+"C": "profit",
+"D": "revenue"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6026,
+"subject": "insurance",
+"question": "The professional service required for effective claims administration by insurers would be provided by",
+"options": {
+"A": "loss assessors",
+"B": "risk managers",
+"C": "loss adjusters",
+"D": "claims consultants"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6027,
+"subject": "insurance",
+"question": "Which  of the following activities is  not a  function of the  Chartered  Insurance  Institute  of  Nigeria?",
+"options": {
+"A": "Setting a standard for members",
+"B": "Promoting Professional growth",
+"C": "Promoting the interest of insurers",
+"D": "Specifying professional qualification"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6028,
+"subject": "insurance",
+"question": "Effective supervision and licensing of insurance firms in Nigeria is the function of",
+"options": {
+"A": "National Insurance Commission",
+"B": "Institute of Loss Adjusters of Nigeria",
+"C": "Chartered Insurance Institute of Nigeria",
+"D": "Nigerian Corporation of Registered Insurance Brokers"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6029,
+"subject": "insurance",
+"question": "The payment made when the insured is  not  entitled to claim under a policy is",
+"options": {
+"A": "voluntary excess",
+"B": "ex-gratia",
+"C": "return premium",
+"D": "premium"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6030,
+"subject": "insurance",
+"question": "The owner of a life assurance policy who enters into an agreement to sell the ownership of the policy and beneficiary rights upon the death of the insured is called",
+"options": {
+"A": "an underwriter",
+"B": "a aviator",
+"C": "a factor",
+"D": "an assessor"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6031,
+"subject": "insurance",
+"question": "A small fixed sum retained by the insured in the form of a claim is",
+"options": {
+"A": "slip",
+"B": "severity",
+"C": "excess",
+"D": "frequency"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6032,
+"subject": "insurance",
+"question": "A voucher signed by the insured before collecting his claim is",
+"options": {
+"A": "money collect receipt",
+"B": "discharge voucher",
+"C": "payment receipt",
+"D": "pay - in - slip"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6033,
+"subject": "insurance",
+"question": "To which of the following parties does the principle of utmost good faith apply in a contract of insurance?",
+"options": {
+"A": "The proposer only",
+"B": "The insurer only",
+"C": "The insurer and proposer",
+"D": "The third party and insured"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6034,
+"subject": "insurance",
+"question": "Insurers A and B cover a risk at the ratio of 2:5 for the sum insured of N= 1,800. How much would insurer  A get from the risk?",
+"options": {
+"A": "N= 1,285.00",
+"B": "N= 771.00",
+"C": "N= 514.00",
+"D": "N= 180.00"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6035,
+"subject": "insurance",
+"question": "The consideration paid for insurance contract is",
+"options": {
+"A": "money",
+"B": "commission",
+"C": "premium",
+"D": "fee"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6036,
+"subject": "insurance",
+"question": "The alternative to seeking for surrender value in a life assurance contract is",
+"options": {
+"A": "automatic non - forfeiture",
+"B": "revival condition",
+"C": "paid-up policy",
+"D": "standing order"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6037,
+"subject": "insurance",
+"question": "Which of the following is a risk covered in endowment assurance?",
+"options": {
+"A": "Permanent disability",
+"B": "Bodily injury",
+"C": "Temporary disability",
+"D": "Death cover"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6038,
+"subject": "insurance",
+"question": "A <em>revival clause</em> in a life policy will allow an insured to revive a policy that lapsed on account of nonpayment of premium, provided the insured",
+"options": {
+"A": "can prove he is sick at the time",
+"B": "cannot fall sick after the policy",
+"C": "can prove he is in good health",
+"D": "can recover from the ill health"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6039,
+"subject": "insurance",
+"question": "Which of  the  following  risks  are  covered  under engineering insurance?",
+"options": {
+"A": "Material damage and liability cover",
+"B": "Boiler and special perils cover",
+"C": "Computer and explosion cover",
+"D": "Property damage and business interruption cover"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6040,
+"subject": "insurance",
+"question": "Which of the following is not a function of an insurance broker?",
+"options": {
+"A": "Assisting clients in paying premium",
+"B": "Maintaining proper records of claims",
+"C": "Assisting clients in connecting to insurers",
+"D": "Assisting clients in effecting uninsured loss"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2014",
+"image": ""
+},
+{
+"id": 6041,
+"subject": "insurance",
+"question": "The primary function of insurance is",
+"options": {
+"A": "making profit",
+"B": "managing of risk",
+"C": "spreading of risk",
+"D": "prevention of accident"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6042,
+"subject": "insurance",
+"question": "An  insurance  feature  that  requires  the  parties  to disclose  all  material  facts  about  the  agreement is known as",
+"options": {
+"A": "Adhesion",
+"B": "Disclosure",
+"C": "Material fact",
+"D": "Utmost good faith"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6043,
+"subject": "insurance",
+"question": "An insurance principle that requires the insured to be honest and disclose all relevant facts is called",
+"options": {
+"A": "subrogation",
+"B": "utmost good faith",
+"C": "proximate cause",
+"D": "insurable interest"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6044,
+"subject": "insurance",
+"question": "The facts which might influence any party’s willingness to enter the contract or reject it is called",
+"options": {
+"A": "insurable fact",
+"B": "insurance fact",
+"C": "insured fact",
+"D": "material fact"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6045,
+"subject": "insurance",
+"question": "A  statement  of  fact  that  the insured must have an interest in the object of the contract is called",
+"options": {
+"A": "warranty",
+"B": "insurable interest",
+"C": "subrogation",
+"D": "object interest"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6046,
+"subject": "insurance",
+"question": "A fundamental condition which must be filled  by the  insured for compensation is",
+"options": {
+"A": "warranty",
+"B": "obligation",
+"C": "interest",
+"D": "premium"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6047,
+"subject": "insurance",
+"question": "The object of an insurance policy is equally known as",
+"options": {
+"A": "insurance title",
+"B": "insurance premium",
+"C": "subject matter",
+"D": "risk object"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6048,
+"subject": "insurance",
+"question": "In insurance contract the insured is the",
+"options": {
+"A": "offeror",
+"B": "offeree",
+"C": "Actuary",
+"D": "Ofree"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6049,
+"subject": "insurance",
+"question": "In insurance contract offeree is the",
+"options": {
+"A": "insured",
+"B": "insurance company",
+"C": "client",
+"D": "Third party"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6050,
+"subject": "insurance",
+"question": "An individual who is interested in taking an insurance policy must fill a form of application called:",
+"options": {
+"A": "premium slip",
+"B": "policy document",
+"C": "proposal form",
+"D": "claim form"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6051,
+"subject": "insurance",
+"question": "The payment made by the insured to the insurer upon which the validity of insurance is based is called",
+"options": {
+"A": "Exgratia payment",
+"B": "Loss payment",
+"C": "Compensation",
+"D": "Premium"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6052,
+"subject": "insurance",
+"question": "The temporary document issued by the insurer to the insured while the policy is being prepared is",
+"options": {
+"A": "insurance certificate",
+"B": "promissory note",
+"C": "exchange slip",
+"D": "cover note"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6053,
+"subject": "insurance",
+"question": "The evidence of the contractual agreement between the insured and insurer is",
+"options": {
+"A": "policy",
+"B": "proposal form",
+"C": "insurance certificate",
+"D": "cover note"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6054,
+"subject": "insurance",
+"question": "Which of these is an aid to trade?",
+"options": {
+"A": "cover note",
+"B": "insurance",
+"C": "premium",
+"D": "policy"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6055,
+"subject": "insurance",
+"question": "The following are exempted from a contract because they do not have the contractual capacity except",
+"options": {
+"A": "Drunkard",
+"B": "Alien",
+"C": "Mental patient",
+"D": "Adult"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6056,
+"subject": "insurance",
+"question": "Insured is likewise known as",
+"options": {
+"A": "insuree",
+"B": "Insurer",
+"C": "policy holder",
+"D": "contractor"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6057,
+"subject": "insurance",
+"question": "Insurance contract is between",
+"options": {
+"A": "Broker and Agent",
+"B": "Insured and Insurer",
+"C": "Insurer  and Agent",
+"D": "Insured and Agent"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6058,
+"subject": "insurance",
+"question": "The buyer of insurance product is",
+"options": {
+"A": "Agent",
+"B": "Broker",
+"C": "Insured",
+"D": "Insurer"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6059,
+"subject": "insurance",
+"question": "The seller of insurance product is",
+"options": {
+"A": "Insurer",
+"B": "Insured",
+"C": "Broker",
+"D": "Agent"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6060,
+"subject": "insurance",
+"question": "Which of this is an odd one out?",
+"options": {
+"A": "offer and acceptance",
+"B": "contractual capacity",
+"C": "legality of object",
+"D": "Adhesion"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6061,
+"subject": "insurance",
+"question": "The uncertainty as to the occurrence of a loos is",
+"options": {
+"A": "Hazard",
+"B": "Loss",
+"C": "Risk",
+"D": "insurance"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6062,
+"subject": "insurance",
+"question": "The risks which affect the society and whose causes are beyond human control is",
+"options": {
+"A": "particular risk",
+"B": "static",
+"C": "fundamental",
+"D": "speculative"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6063,
+"subject": "insurance",
+"question": "Risks that are peculiar to an individual actions and decision is known as",
+"options": {
+"A": "fundamental risk",
+"B": "particular risk",
+"C": "pure risk",
+"D": "speculative risk"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6064,
+"subject": "insurance",
+"question": "Risk of loss resulting from change in culture and taste is called",
+"options": {
+"A": "static risk",
+"B": "pure risk",
+"C": "dynamic risk",
+"D": "speculative risk"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6065,
+"subject": "insurance",
+"question": "The following risks are insurable except",
+"options": {
+"A": "particular",
+"B": "pure",
+"C": "static",
+"D": "dynamic risk"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6066,
+"subject": "insurance",
+"question": "The following are insurable except",
+"options": {
+"A": "Marine",
+"B": "Goods",
+"C": "Gambling",
+"D": "Accident"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6067,
+"subject": "insurance",
+"question": "The following are non-insurable except",
+"options": {
+"A": "Lose of profit as a result of change in fashion",
+"B": "Speculation",
+"C": "Lose of profit as a result of maladministration",
+"D": "Fire"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6068,
+"subject": "insurance",
+"question": "Factors which may influence the occurrence of a loss is",
+"options": {
+"A": "Risk",
+"B": "Loss",
+"C": "Peril",
+"D": "Hazard"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6069,
+"subject": "insurance",
+"question": "Hazard that relates to the attitude of the insured is known as",
+"options": {
+"A": "Physical hazard",
+"B": "Good physical hazard",
+"C": "Moral hazard",
+"D": "Good moral hazard"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6070,
+"subject": "insurance",
+"question": "Hazard that relates to the subject matter of insurance is called",
+"options": {
+"A": "moral",
+"B": "physical",
+"C": "peril",
+"D": "Good peril"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6071,
+"subject": "insurance",
+"question": "The following are examples of bad moral hazard except",
+"options": {
+"A": "Fraudulent activities",
+"B": "Carelessness",
+"C": "Honesty",
+"D": "Unreasonableness"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6072,
+"subject": "insurance",
+"question": "The cause of a loss is known as",
+"options": {
+"A": "Risk",
+"B": "Peril",
+"C": "Hazard",
+"D": "Moral"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6073,
+"subject": "insurance",
+"question": "The  principle  of  insurance  which  states  that a person must be in a legally recognized relationship to what is  insured  such  that  he  will  benefit  from its existence or suffer by its loss is",
+"options": {
+"A": "utmost good faith",
+"B": "insurable interest",
+"C": "proximate cause",
+"D": "subrogation"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6074,
+"subject": "insurance",
+"question": "A person who has lawful possession of goods belonging to another is known as",
+"options": {
+"A": "Owner",
+"B": "Bailee",
+"C": "Agent",
+"D": "Trustee"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6075,
+"subject": "insurance",
+"question": "Transfer of rights and liabilities under a contract with the consent of the other party is known as",
+"options": {
+"A": "Assignment",
+"B": "liability",
+"C": "Interest",
+"D": "Legality"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6076,
+"subject": "insurance",
+"question": "Another name for utmost good faith is",
+"options": {
+"A": "cadent",
+"B": "cede",
+"C": "ex gratia",
+"D": "uberrimae fidei"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6077,
+"subject": "insurance",
+"question": "The principle of insurance which states that the insure should be truthful and disclose all material fact is",
+"options": {
+"A": "subrogation",
+"B": "utmost good faith",
+"C": "indemnity",
+"D": "insurable interest"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6078,
+"subject": "insurance",
+"question": "A miss statement of fact that is made by the insured or his broker to an underwriter during negotiation is called",
+"options": {
+"A": "annuity",
+"B": "misrepresentation",
+"C": "endorsement",
+"D": "disclosure"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6079,
+"subject": "insurance",
+"question": "Indemnity is provided through the following media except",
+"options": {
+"A": "cash",
+"B": "commission",
+"C": "reinstatement",
+"D": "repair"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6080,
+"subject": "insurance",
+"question": "Any circumstance that promotes the probability of a loss is called",
+"options": {
+"A": "accident",
+"B": "hazard",
+"C": "loss",
+"D": "risk"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6081,
+"subject": "insurance",
+"question": "A financial compensation sufficient to return the insured back to the original position after loss is known as",
+"options": {
+"A": "deposit",
+"B": "loan",
+"C": "indemnity",
+"D": "profit"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6082,
+"subject": "insurance",
+"question": "Another name for business interruption insurance is",
+"options": {
+"A": "property insurance",
+"B": "consequential loss",
+"C": "credit insurance",
+"D": "excess loss"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6083,
+"subject": "insurance",
+"question": "Subrogation principle can be applied in the following insurance policies except in",
+"options": {
+"A": "aviation policy",
+"B": "engineering policy",
+"C": "life policy",
+"D": "marine policy"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6084,
+"subject": "insurance",
+"question": "Payment of claims  in  liability  insurance are usually made in favour of",
+"options": {
+"A": "insurance agent",
+"B": "a third party",
+"C": "employees",
+"D": "employers"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6085,
+"subject": "insurance",
+"question": "The person  that  brings  an insurance  contract  into existence between  the principal and third party  is a/an",
+"options": {
+"A": "agent",
+"B": "bailee",
+"C": "contractor",
+"D": "insurer"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6086,
+"subject": "insurance",
+"question": "“Hull” in marine policy refers to the",
+"options": {
+"A": "boiler",
+"B": "cost of transporting the goods",
+"C": "goods on board",
+"D": "ship"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6087,
+"subject": "insurance",
+"question": "A formal document containing the condition of the insurance contract is called",
+"options": {
+"A": "agreement",
+"B": "contract form",
+"C": "contract slip",
+"D": "policy document"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6088,
+"subject": "insurance",
+"question": "Engineering insurance covers the following except",
+"options": {
+"A": "boiler explosion",
+"B": "building and civil",
+"C": "business interruption",
+"D": "machinery breakdown"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6089,
+"subject": "insurance",
+"question": "A policy designed to protect individuals against negligence while carrying out their daily activities is called",
+"options": {
+"A": "business interruption",
+"B": "employers liability",
+"C": "engineering",
+"D": "professional indemnity"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6090,
+"subject": "insurance",
+"question": "Unlawful breaking and entering into any premises or place of safe keeping is covered under which of these policies?",
+"options": {
+"A": "burglary",
+"B": "business interruption",
+"C": "employers liability",
+"D": "public liability"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "1",
+"image": ""
+},
+{
+"id": 6091,
+"subject": "insurance",
+"question": "When someone is placed back in the same financial position that he was in just prior to a loss, that is ----",
+"options": {
+"A": "Actual cash value",
+"B": "Consideration",
+"C": "Contribution",
+"D": "Indemnity"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6092,
+"subject": "insurance",
+"question": "Insurable interest means",
+"options": {
+"A": "Interest gained on money in a bank",
+"B": "Interest payable on a loan",
+"C": "Financial interest a person has in something he expects to inherit",
+"D": "The financial interest a person has in something of value"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6093,
+"subject": "insurance",
+"question": "Below are insurable policies except",
+"options": {
+"A": "Earthquake",
+"B": "Fire",
+"C": "Life",
+"D": "Marine"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6094,
+"subject": "insurance",
+"question": "The term pooling of risks in insurance means that",
+"options": {
+"A": "Many who face risks pay premium so that those who suffer loss may be reimbursed",
+"B": "Insurance companies share heavy losses",
+"C": "Insurance company re-assures with another",
+"D": "Insurance companies operates pool betting business"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6095,
+"subject": "insurance",
+"question": "Which of the following is not a principle of insurance?",
+"options": {
+"A": "Indemnity",
+"B": "Compensation",
+"C": "Proximate cause",
+"D": "Insurable interest"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6096,
+"subject": "insurance",
+"question": "The amount of money paid periodically by an insured to the insurance company to cover risk is called",
+"options": {
+"A": "Commission",
+"B": "Premium",
+"C": "Cover note",
+"D": "Dividend"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6097,
+"subject": "insurance",
+"question": "Insurance was developed as a result of the existence of",
+"options": {
+"A": "Hazards",
+"B": "Loss",
+"C": "Risk",
+"D": "Indemnity"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6098,
+"subject": "insurance",
+"question": "Which of the following is not a function of insurance?",
+"options": {
+"A": "Serves as collateral",
+"B": "Encouraging saving",
+"C": "Provides insecurity",
+"D": "Reduces risks"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6099,
+"subject": "insurance",
+"question": "In the utmost good faith principle, the value of the subject matter should",
+"options": {
+"A": "Be over stated",
+"B": "Understated",
+"C": "Not be stated",
+"D": "Not be overstated nor understated"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6100,
+"subject": "insurance",
+"question": "Which of the following is non- insurable risk?",
+"options": {
+"A": "Gambling",
+"B": "Accident",
+"C": "Fire",
+"D": "Theft"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6101,
+"subject": "insurance",
+"question": "Which of the following is a temporary document given to the insured in an insurance contract?",
+"options": {
+"A": "Cover note",
+"B": "Subrogation",
+"C": "Policy document",
+"D": "Reinsurance"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6102,
+"subject": "insurance",
+"question": "Hazard that deals with the human habits and character that arises from human attitude and the conduct of people is called",
+"options": {
+"A": "physical",
+"B": "Moral",
+"C": "Static",
+"D": "Dynamic"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6103,
+"subject": "insurance",
+"question": "A peril is best defined as",
+"options": {
+"A": "Chance of a loss",
+"B": "The occurrence of a loan",
+"C": "The cause of a loss",
+"D": "The result of a loss"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6104,
+"subject": "insurance",
+"question": "One of the essential features of insurance contract is",
+"options": {
+"A": "Premium",
+"B": "Subrogation",
+"C": "Interest",
+"D": "Disclosure"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6105,
+"subject": "insurance",
+"question": "Insurance  feature  that  emphasized   the  fact  that insurance contract is a contract between the insurer and  the  insured  and  which states  that  the insured must  adhere to  the  agreement  is  called",
+"options": {
+"A": "Disclosure",
+"B": "Warranty",
+"C": "Adhesion",
+"D": "Material facts"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6106,
+"subject": "insurance",
+"question": "The principle that requires the insured to disclose to the insurer all matters relating to the object of insurance is called",
+"options": {
+"A": "Uberrimae fidei",
+"B": "Proximate cause",
+"C": "Abandonment",
+"D": "Subrogation"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6107,
+"subject": "insurance",
+"question": "There must  be  a  close  connection  between  the loss actually suffered and the risk is relating to the principle  of",
+"options": {
+"A": "Abandonment",
+"B": "Proximate cause",
+"C": "Utmost good faith",
+"D": "Adhesion"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6108,
+"subject": "insurance",
+"question": "The principle of subrogation imposed an obligation on the insured to",
+"options": {
+"A": "Disclose all material information",
+"B": "Have financial risks in the object",
+"C": "Press for compensation",
+"D": "Surrender legal right after compensation"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6109,
+"subject": "insurance",
+"question": "Which of the following is not a principle of insurance",
+"options": {
+"A": "Indemnity",
+"B": "Insurable risk",
+"C": "Subrogation",
+"D": "Insurable interest"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6110,
+"subject": "insurance",
+"question": "An application form which is filled by anyone taking out an insurance policy is called",
+"options": {
+"A": "A policy form",
+"B": "A claim form",
+"C": "A proposal form",
+"D": "Proximate cause form"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6111,
+"subject": "insurance",
+"question": "Insurance is necessary because of the need to",
+"options": {
+"A": "Pool resources together",
+"B": "Meet uncertainties in future",
+"C": "Make profit",
+"D": "Lend money to individual"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6112,
+"subject": "insurance",
+"question": "The policy that covers debt that cannot be recovered is called",
+"options": {
+"A": "Life assurance",
+"B": "Motor vehicle policy",
+"C": "Comprehensive policy",
+"D": "Bad debt insurance policy"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6113,
+"subject": "insurance",
+"question": "Risk whose cause is beyond human control is",
+"options": {
+"A": "Fundamental",
+"B": "Speculative",
+"C": "Particular",
+"D": "Static"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6114,
+"subject": "insurance",
+"question": "Cover note usually run for about",
+"options": {
+"A": "One month",
+"B": "Two days",
+"C": "5 years",
+"D": "3 days"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6115,
+"subject": "insurance",
+"question": "A card used by motorist in the West African sub-region is called",
+"options": {
+"A": "Brown card",
+"B": "Certificate",
+"C": "Insurance card",
+"D": "visa card"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6116,
+"subject": "insurance",
+"question": "Uncertainty of loss is known as",
+"options": {
+"A": "Risk",
+"B": "Certainty",
+"C": "Insurance",
+"D": "Hazard"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6117,
+"subject": "insurance",
+"question": "Re-insurance contract is between",
+"options": {
+"A": "Re-insurer and insurer",
+"B": "Re- insurance and insurance",
+"C": "Co-insurer and insurer",
+"D": "Insurance broker and re-insurer"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6118,
+"subject": "insurance",
+"question": "The continuation of insurance contract after expiration is",
+"options": {
+"A": "Renewal",
+"B": "Revival",
+"C": "Resuscitation",
+"D": "Rejuvenation"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6119,
+"subject": "insurance",
+"question": "The  payment  made  by  underwriter  as  a  form  of  \tkindness  without  admission  of  liability  so  as  to maintain goodwill is known as ------------",
+"options": {
+"A": "Kindness payment",
+"B": "Ex-gratia payment",
+"C": "Favour payment",
+"D": "Claim"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6120,
+"subject": "insurance",
+"question": "One of the following is the duty of the insured in insurance claim process",
+"options": {
+"A": "Late report of the loss",
+"B": "Little idea of the loss size",
+"C": "Quick report of the loss",
+"D": "Hiding fact"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6121,
+"subject": "insurance",
+"question": "The prices set by the insurer for the insurance cover is known as",
+"options": {
+"A": "Due",
+"B": "Levy",
+"C": "Premium",
+"D": "Charge"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6122,
+"subject": "insurance",
+"question": "The transfer of risk already undertaken from one insurance company to another is",
+"options": {
+"A": "Over insurance",
+"B": "Re insurance",
+"C": "Under insurance",
+"D": "Group insurance"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6123,
+"subject": "insurance",
+"question": "When an insured person admits that he has indemnified, he means that",
+"options": {
+"A": "The damage proper by has been recovered",
+"B": "He was paid premium fully",
+"C": "The insurance company has restored him to his former position",
+"D": "He was paid his premium fully"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6124,
+"subject": "insurance",
+"question": "A house worth N=60,000 insured against fire for N=40,000.  Fire destroyed and cause damage worth N=30,000. On the house under which insurance principle will the owner be entitled to compensation of N=30,000.",
+"options": {
+"A": "Contribution",
+"B": "Subrogation",
+"C": "indemnity",
+"D": "Uberrimae fidei"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6125,
+"subject": "insurance",
+"question": "The person who calculate the amount given to the insured if he does not want to continue with the contract of insurance is called",
+"options": {
+"A": "Actuary",
+"B": "Insurance agent",
+"C": "Insurance broker",
+"D": "Assessor loss adjuster"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6126,
+"subject": "insurance",
+"question": "The amount given to the insured if he does not want the contract to continue is called",
+"options": {
+"A": "Insurance broker",
+"B": "Premium",
+"C": "Surrender value",
+"D": "Assessor loss adjuster"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6127,
+"subject": "insurance",
+"question": "The sum paid for transporting the goods or for the hire of a ship is called",
+"options": {
+"A": "Marine cargo",
+"B": "Freight insurance",
+"C": "Hull insurance",
+"D": "Risk insurance"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6128,
+"subject": "insurance",
+"question": "The duty of the loss adjuster in insurance claims is to",
+"options": {
+"A": "Make loss",
+"B": "Prevent loss",
+"C": "Safeguard loss",
+"D": "Recommend appropriate payment"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6129,
+"subject": "insurance",
+"question": "Consequential loss is also known as",
+"options": {
+"A": "Business interruption insurance",
+"B": "Credit insurance",
+"C": "Excess loss",
+"D": "Property insurance"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6130,
+"subject": "insurance",
+"question": "Subrogation principle can be applied in the following insurance policies except in",
+"options": {
+"A": "motor",
+"B": "Life",
+"C": "Marine",
+"D": "Aviation"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6131,
+"subject": "insurance",
+"question": "The acronym “CllN” refers to",
+"options": {
+"A": "Certified insurance institute",
+"B": "Certified insured institute",
+"C": "Certified international institute",
+"D": "Chartered insurance institute"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6132,
+"subject": "insurance",
+"question": "Amount paid to the beneficiary upon the death of the insured is",
+"options": {
+"A": "Premium",
+"B": "Compensation",
+"C": "Declaration",
+"D": "Death benefit"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6133,
+"subject": "insurance",
+"question": "The clauses in the policy which make alterations or additions to the information stated in the policy is known as",
+"options": {
+"A": "correction",
+"B": "Modification",
+"C": "Change",
+"D": "Endorsement"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6134,
+"subject": "insurance",
+"question": "The date on which an insurance or reinsurance contract comes into force is known as",
+"options": {
+"A": "Starting point date",
+"B": "Inception date",
+"C": "Beginning date",
+"D": "Commencement date"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6135,
+"subject": "insurance",
+"question": "Factor that causes an exposure to injury, loss or damage is",
+"options": {
+"A": "Risk",
+"B": "Hazard",
+"C": "Peril",
+"D": "Accident"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6136,
+"subject": "insurance",
+"question": "Workman compensation is also referred to as",
+"options": {
+"A": "Fidelity insurance",
+"B": "Employment liability",
+"C": "Public liability",
+"D": "Product liability"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6137,
+"subject": "insurance",
+"question": "An insurance cover for lawyers, accountants and brokers is",
+"options": {
+"A": "Employment",
+"B": "Professional",
+"C": "Public",
+"D": "Product"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6138,
+"subject": "insurance",
+"question": "The deliberate or intentional throwing over board of part of a cargo to lighten the ship in the interest of the reminder of the cargo is",
+"options": {
+"A": "Barratry",
+"B": "Jettison",
+"C": "Breach",
+"D": "Caveat emptor"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6139,
+"subject": "insurance",
+"question": "The wrongful act willfully committed by either the master or the prejudice of either the owner or crew to the chatterer of the ship is",
+"options": {
+"A": "Barratry",
+"B": "Caveat emptor",
+"C": "Bailee",
+"D": "Jettison"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6140,
+"subject": "insurance",
+"question": "The legal right to insure a subject matter is",
+"options": {
+"A": "Indemnity",
+"B": "Subject Matter",
+"C": "Subrogation",
+"D": "Insurable interest"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "2",
+"image": ""
+},
+{
+"id": 6141,
+"subject": "insurance",
+"question": "--------- shows what the insured should do or not do to maintain the existence of the policy",
+"options": {
+"A": "Cover note",
+"B": "Policy",
+"C": "Warranty",
+"D": "Certificate"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6142,
+"subject": "insurance",
+"question": "The uncertainty of an event occurring is known as",
+"options": {
+"A": "Hazard",
+"B": "Risk",
+"C": "Loss",
+"D": "Accident"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6143,
+"subject": "insurance",
+"question": "The provider of protection to an insurance  company against the excess risk it has given insurance covers is called",
+"options": {
+"A": "Assurer",
+"B": "Insuring",
+"C": "Reinsurer",
+"D": "Insurer"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6144,
+"subject": "insurance",
+"question": "---------- is the evidence cover of the risk given to the insured by the insurer",
+"options": {
+"A": "Cover",
+"B": "Policy",
+"C": "Claim",
+"D": "Compensation"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6145,
+"subject": "insurance",
+"question": "------------ is the protection which the insured buys for his risk",
+"options": {
+"A": "Indemnity",
+"B": "Compensation",
+"C": "Cover",
+"D": "Subrogation"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6146,
+"subject": "insurance",
+"question": "A temporary certificate to show that a cover is in existence is called",
+"options": {
+"A": "Policy",
+"B": "Certificate",
+"C": "Cover note",
+"D": "Claim slip"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6147,
+"subject": "insurance",
+"question": "------------ is used to bring amendment in a policy that is either to add in a new thing or removal of an existing thing in the policy",
+"options": {
+"A": "Excess",
+"B": "Endorsement",
+"C": "Claim form",
+"D": "Policy"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6148,
+"subject": "insurance",
+"question": "The cause of a loss is known as",
+"options": {
+"A": "Peril",
+"B": "Hazard",
+"C": "Loss",
+"D": "Risk"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6149,
+"subject": "insurance",
+"question": "The price of insurance is known as",
+"options": {
+"A": "Rate",
+"B": "Interest",
+"C": "Premium",
+"D": "Profit"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6150,
+"subject": "insurance",
+"question": "The monetary consideration paid by the insured to the insurers for the insurance granted by the policy is called",
+"options": {
+"A": "Premium",
+"B": "Money",
+"C": "Price",
+"D": "Benefit"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6151,
+"subject": "insurance",
+"question": "------------- is a policy designed to place the insured in the same financial position as he was immediately before the happening of the event insured against",
+"options": {
+"A": "Indemnity",
+"B": "Subrogation",
+"C": "Surrender value",
+"D": "Actuary"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6152,
+"subject": "insurance",
+"question": "The essential value of valid contract that states that the parties to a contract must be in perfect agreement and have a common mind is",
+"options": {
+"A": "Consideration",
+"B": "Perpetual existence",
+"C": "Excess",
+"D": "Consensus ad-idem"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6153,
+"subject": "insurance",
+"question": "A  Statement signed by the insured, certifying the Statement",
+"options": {
+"A": "Certificate",
+"B": "Declaration",
+"C": "Confirmation slip",
+"D": "Accuracy statement"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6154,
+"subject": "insurance",
+"question": "Change for the transportation of goods by water is called",
+"options": {
+"A": "Bill",
+"B": "Ticket",
+"C": "Freight",
+"D": "Consideration"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6155,
+"subject": "insurance",
+"question": "Life assurance provides dual benefits of savings and ------------ to a policy holder",
+"options": {
+"A": "Acceptance",
+"B": "Consideration",
+"C": "Contribution",
+"D": "Security"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6156,
+"subject": "insurance",
+"question": "Another name for consequential loss is",
+"options": {
+"A": "Stop loss",
+"B": "Credit insurance",
+"C": "Business interruption insurance",
+"D": "Excess loss"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6157,
+"subject": "insurance",
+"question": "Subrogation principle can be applied in the following insurance policies except in -------- policy",
+"options": {
+"A": "Life",
+"B": "Motor",
+"C": "Theft",
+"D": "Burglary"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6158,
+"subject": "insurance",
+"question": "A place where the business of insurance is transacted is called a/an",
+"options": {
+"A": "Insurance market",
+"B": "Brokerage firm",
+"C": "Insurance house",
+"D": "Insurance conference room"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6159,
+"subject": "insurance",
+"question": "A customer that suffers loss or sustain injury while using a business outfit that belongs to another perosn, can sue the property owner under -------------- insurance",
+"options": {
+"A": "Professional indemnity",
+"B": "Public liability",
+"C": "Employers’ liability",
+"D": "Personal accident"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6160,
+"subject": "insurance",
+"question": "The type of questionnaire drawn up by   insurers, requesting certain information to assess risk is --------- form",
+"options": {
+"A": "Acceptance",
+"B": "Compensation",
+"C": "Credit",
+"D": "Proposal"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6161,
+"subject": "insurance",
+"question": "The shifting of responsibility of one’s own losses to another is known as ---------- transfer",
+"options": {
+"A": "Fund",
+"B": "Risk",
+"C": "Business",
+"D": "Policy"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6162,
+"subject": "insurance",
+"question": "A financial compensation sufficient to return the insured back to his original position after loss is known as",
+"options": {
+"A": "Deposit",
+"B": "Loan",
+"C": "Indemnity",
+"D": "Overdraft"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6163,
+"subject": "insurance",
+"question": "The following are types of life assurances,  except",
+"options": {
+"A": "annuity",
+"B": "Endowment",
+"C": "Hire purchase",
+"D": "Whole life"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6164,
+"subject": "insurance",
+"question": "A marine policy that provider cover for the construction of sea vessels is called --------- policy",
+"options": {
+"A": "Building",
+"B": "Mixed",
+"C": "Port",
+"D": "Valued"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6165,
+"subject": "insurance",
+"question": "Spreading of risk to ensure that no insurer is liquidated by the occurrence of a large loss is the concept of",
+"options": {
+"A": "Insurance",
+"B": "Re insurance",
+"C": "Renewal",
+"D": "Treaty"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6166,
+"subject": "insurance",
+"question": "The person  that  brings  an  insurance  contract into existence  between  the principal  and  third  party is a/an",
+"options": {
+"A": "Agent",
+"B": "Bailee",
+"C": "Contractor",
+"D": "Insurer"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6167,
+"subject": "insurance",
+"question": "Any circumstance that promotes the probability of a loss is called",
+"options": {
+"A": "Accident",
+"B": "Hazard",
+"C": "Loss",
+"D": "Risk"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6168,
+"subject": "insurance",
+"question": "Indemnity is provided through the following media except",
+"options": {
+"A": "Cash",
+"B": "Commission",
+"C": "Reinstatement",
+"D": "Repair"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6169,
+"subject": "insurance",
+"question": "The policy that covers loss of cash while in transit or at home is --------------- insurance",
+"options": {
+"A": "Burglary",
+"B": "Business interruption",
+"C": "Credit",
+"D": "Money"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6170,
+"subject": "insurance",
+"question": "A person who makes an insurance claim is called",
+"options": {
+"A": "Actuary",
+"B": "Adjustor",
+"C": "Claimant",
+"D": "Client"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6171,
+"subject": "insurance",
+"question": "To break or act contrary to a law or promise means",
+"options": {
+"A": "Breach",
+"B": "Shake",
+"C": "Confirm",
+"D": "Disagreement"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6172,
+"subject": "insurance",
+"question": "A professional officer of an insurance company whose duty among others is to calculate the premium to be \tpaid by the insured is called",
+"options": {
+"A": "Agent",
+"B": "Principal",
+"C": "Actuarist",
+"D": "Adjuster"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6173,
+"subject": "insurance",
+"question": "Which of these is insurable?",
+"options": {
+"A": "Fire",
+"B": "Inflation",
+"C": "Bad publicity",
+"D": "Riot and war"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6174,
+"subject": "insurance",
+"question": "The principle that requires all material facts to be disclosed is known as",
+"options": {
+"A": "Indemnity",
+"B": "Fidelity",
+"C": "Proximate cause",
+"D": "Utmost good faith"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6175,
+"subject": "insurance",
+"question": "In insurance contract, failure to disclose all relevant material facts will render the contract",
+"options": {
+"A": "legal",
+"B": "Voidable",
+"C": "Void",
+"D": "Implied"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6176,
+"subject": "insurance",
+"question": "Any information that will influence a prudent insurer is called",
+"options": {
+"A": "contract",
+"B": "misrepresentation",
+"C": "disclosure",
+"D": "Material facts"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6177,
+"subject": "insurance",
+"question": "The insurance principle which implies that a proof is required that the direct and immediate cause of the loss suffered was by the occurrence of the risk insured against is called",
+"options": {
+"A": "Indemnity",
+"B": "Proximate cause",
+"C": "Insurable interest",
+"D": "Utmost good faith"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6178,
+"subject": "insurance",
+"question": "Method of providing indemnity whereby subject matter is being restored to its former position is",
+"options": {
+"A": "Repairs",
+"B": "Cash",
+"C": "Reinstatement",
+"D": "Replacement"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6179,
+"subject": "insurance",
+"question": "A relief to insurer of each and every loss which does not exceed a specified amount is",
+"options": {
+"A": "Excess",
+"B": "Franchise",
+"C": "Deductible",
+"D": "Annuity"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6180,
+"subject": "insurance",
+"question": "When an   insurer agrees   to   replace   irreparably damaged or stolen goods with similar type it is called",
+"options": {
+"A": "Reinstatement",
+"B": "Cash",
+"C": "Repairs",
+"D": "Replacement"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6181,
+"subject": "insurance",
+"question": "Cover note usually run for about",
+"options": {
+"A": "21 days",
+"B": "one month",
+"C": "12 months",
+"D": "3 month"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6182,
+"subject": "insurance",
+"question": "The process of changing anything wrong with the policy to make it current is",
+"options": {
+"A": "Endorsement",
+"B": "Specification",
+"C": "Rectification",
+"D": "Correction"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6183,
+"subject": "insurance",
+"question": "A syndicate or an insurance company that transfer risk under re-insurance is",
+"options": {
+"A": "Cede",
+"B": "Cession",
+"C": "Commutation",
+"D": "Cedant"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6184,
+"subject": "insurance",
+"question": "A particular risk which is transferred to another re-insurance under a re-insurance treaty is",
+"options": {
+"A": "Cedant",
+"B": "Cession",
+"C": "Facultative",
+"D": "Cede"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6185,
+"subject": "insurance",
+"question": "Application by the insured to the insurer for the payment of money due under his contract of insurance is",
+"options": {
+"A": "Proof",
+"B": "Evidence",
+"C": "Claim",
+"D": "Compensation"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6186,
+"subject": "insurance",
+"question": "The following are the methods of claim settlement except",
+"options": {
+"A": "Cash",
+"B": "Repair",
+"C": "Reinstatement",
+"D": "Repayment"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6187,
+"subject": "insurance",
+"question": "Person who makes claim is called",
+"options": {
+"A": "Claimant",
+"B": "Client",
+"C": "Insured",
+"D": "Insurer"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6188,
+"subject": "insurance",
+"question": "A payment made by insurer as a form of sympathy to maintain goodwill is",
+"options": {
+"A": "Compensation payment",
+"B": "Contract payment",
+"C": "Charity payment",
+"D": "Ex - gratia payment"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6189,
+"subject": "insurance",
+"question": "The policy that provides protection for goods or cargoes and ships against the perils of the sea is",
+"options": {
+"A": "Fire",
+"B": "Marine",
+"C": "Aviation",
+"D": "Credit"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6190,
+"subject": "insurance",
+"question": "Another name for an insured in a life insurance contract is",
+"options": {
+"A": "Insurer",
+"B": "Assured",
+"C": "Assurer",
+"D": "Agent"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "3",
+"image": ""
+},
+{
+"id": 6191,
+"subject": "insurance",
+"question": "Insurance is defined as",
+"options": {
+"A": "risking of loss",
+"B": "pooling of risk",
+"C": "gathering of risk",
+"D": "waiving of risk"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6192,
+"subject": "insurance",
+"question": "In a contract of insurance, a firm statement is usually made by a person known as the",
+"options": {
+"A": "offeror",
+"B": "offeree",
+"C": "insur",
+"D": "client"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6193,
+"subject": "insurance",
+"question": "The premium paid by the insured to the insurance company is",
+"options": {
+"A": "capital",
+"B": "commission",
+"C": "common fund",
+"D": "consideration"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6194,
+"subject": "insurance",
+"question": "The insured is also known as",
+"options": {
+"A": "the client",
+"B": "the consumer",
+"C": "the policy holder",
+"D": "agent"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6195,
+"subject": "insurance",
+"question": "The coming together of minds of  the two parties to the insurance contract is called",
+"options": {
+"A": "surrender value",
+"B": "acceptance",
+"C": "consensus ad-idem",
+"D": "adhesion"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6196,
+"subject": "insurance",
+"question": "Uberrimae fidei is equally known as",
+"options": {
+"A": "contract",
+"B": "agreement",
+"C": "consensus",
+"D": "utmost good faith"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6197,
+"subject": "insurance",
+"question": "The legal right that a person must have to enable him or her to insure his or her property is known as",
+"options": {
+"A": "freedom",
+"B": "franchise",
+"C": "insurable interest",
+"D": "Access right"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6198,
+"subject": "insurance",
+"question": "An undertaking by the insured that certain things shall be done or not be done or certain things shall be put in place or not in place is called",
+"options": {
+"A": "warranties and representation",
+"B": "utmost good faith and uberrimae fidei",
+"C": "insurable and non-insurable",
+"D": "subrogation and indemnity"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6199,
+"subject": "insurance",
+"question": "In insurance, uncertainty of loss means",
+"options": {
+"A": "hazard",
+"B": "risk",
+"C": "accident",
+"D": "earthquake"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6200,
+"subject": "insurance",
+"question": "Occurrence of an unplanned event is called",
+"options": {
+"A": "hazard",
+"B": "loss",
+"C": "risk",
+"D": "speculation"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6201,
+"subject": "insurance",
+"question": "An insurance contract where both parties signed the agreement which involve mutuality of agreement is known as",
+"options": {
+"A": "unilateral contract",
+"B": "multilateral contract",
+"C": "bilateral contract",
+"D": "united contract"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6202,
+"subject": "insurance",
+"question": "An insurance contract which does not involve mutuality of agreement in which only one of the parties involved in the contract makes promises that are legally binding is called",
+"options": {
+"A": "double contract",
+"B": "single contract",
+"C": "multilateral contract",
+"D": "unilateral contract"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6203,
+"subject": "insurance",
+"question": "Insurance is a contract that is based on",
+"options": {
+"A": "possibility",
+"B": "probability",
+"C": "positivity",
+"D": "negativity"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6204,
+"subject": "insurance",
+"question": "Assurance is a contract that is based on",
+"options": {
+"A": "negativity",
+"B": "possibility",
+"C": "positivity",
+"D": "probability"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6205,
+"subject": "insurance",
+"question": "With insurance contract there is",
+"options": {
+"A": "certainty of occurrence",
+"B": "uncertainty of occurrence",
+"C": "certainty of reward",
+"D": "uncertainty  of reward"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6206,
+"subject": "insurance",
+"question": "With assurance contract there is",
+"options": {
+"A": "uncertainly of reward",
+"B": "certainty of reward",
+"C": "certainty of occurrence",
+"D": "uncertainty of occurrence"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6207,
+"subject": "insurance",
+"question": "Indemnity is not applicable in",
+"options": {
+"A": "assurance contract",
+"B": "insurance contract",
+"C": "insurance terms",
+"D": "insurance content"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6208,
+"subject": "insurance",
+"question": "Non- indemnity insurance means that the assured can",
+"options": {
+"A": "be restored back to his former position",
+"B": "not be restored back to his former position",
+"C": "be brought back to contract",
+"D": "not be brought back to contract"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6209,
+"subject": "insurance",
+"question": "A seller of insurance product is",
+"options": {
+"A": "insurer",
+"B": "promisor",
+"C": "client",
+"D": "insured"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6210,
+"subject": "insurance",
+"question": "A buyer of insurance product is",
+"options": {
+"A": "insured",
+"B": "promise",
+"C": "insurer",
+"D": "insuree"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6211,
+"subject": "insurance",
+"question": "A contract which has no legal effect is called",
+"options": {
+"A": "voidable contract",
+"B": "legal contract",
+"C": "void contract",
+"D": "valid contract"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6212,
+"subject": "insurance",
+"question": "A contract that is contrary to public policy is",
+"options": {
+"A": "valid contract",
+"B": "legal contract",
+"C": "illegal contract",
+"D": "voidable contract"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6213,
+"subject": "insurance",
+"question": "Which of the following cannot enter into an insurance contract?",
+"options": {
+"A": "adult",
+"B": "insured",
+"C": "minor",
+"D": "insurer"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6214,
+"subject": "insurance",
+"question": "Risk that affect the society and whose causes are beyond human control is",
+"options": {
+"A": "particular risk",
+"B": "pure risk",
+"C": "fundamental risk",
+"D": "static risk"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6215,
+"subject": "insurance",
+"question": "The process of evaluating and minimizing risk is",
+"options": {
+"A": "risk management",
+"B": "risk certainty",
+"C": "risk insurance",
+"D": "risk re-grouping"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6216,
+"subject": "insurance",
+"question": "Another name for utmost good faith",
+"options": {
+"A": "expirit - de - corps",
+"B": "uberrimae fidei",
+"C": "caveat emptor",
+"D": "proximate cause"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6217,
+"subject": "insurance",
+"question": "Inter company agreement in which insurers agreed to waive their right against each other for loss is",
+"options": {
+"A": "knock for knock agreement",
+"B": "employers’ liability",
+"C": "tit for tat agreement",
+"D": "salvage agreement"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6218,
+"subject": "insurance",
+"question": "Contribution will only arise when",
+"options": {
+"A": "two or more parties disagree",
+"B": "two or more parties are promisor",
+"C": "two or more policies of indemnity exist",
+"D": "one policy of indemnity exist"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6219,
+"subject": "insurance",
+"question": "One of the following is a condition for contribution",
+"options": {
+"A": "bilateral interest",
+"B": "multilatual interest",
+"C": "two subject matter",
+"D": "common subject matter"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6220,
+"subject": "insurance",
+"question": "one of these is a content of a proposal form",
+"options": {
+"A": "children of the proposer",
+"B": "education of the proposer",
+"C": "occupation of the proposer",
+"D": "educational"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6221,
+"subject": "insurance",
+"question": "The statement “ I to the best of my knowledge hereby confirm that the statements contained in this prosal form are true and correct” represents",
+"options": {
+"A": "confirmation",
+"B": "declaration",
+"C": "witnessing",
+"D": "humility"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6222,
+"subject": "insurance",
+"question": "When the proposer fails to fill the proposal form truthfully, the contract will become",
+"options": {
+"A": "voidable",
+"B": "illegal",
+"C": "void",
+"D": "enforceable"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6223,
+"subject": "insurance",
+"question": "Proposal form is used in the following classes of insurance except",
+"options": {
+"A": "Accident",
+"B": "theft",
+"C": "life",
+"D": "large risk of fire"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6224,
+"subject": "insurance",
+"question": "The following classes of insurance apply the use of proposal form except",
+"options": {
+"A": "public liability",
+"B": "large risk of marine insurance",
+"C": "small risk of marine insurance",
+"D": "theft"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6225,
+"subject": "insurance",
+"question": "Proposal form is not applicable to the following except",
+"options": {
+"A": "aviation",
+"B": "engineering",
+"C": "large risk of fire",
+"D": "fidelity guarantee"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6226,
+"subject": "insurance",
+"question": "Which of the method below can be used to provide indemnity in the event of loss",
+"options": {
+"A": "moral advice",
+"B": "resolution of policy",
+"C": "cash payment",
+"D": "professional encouragement"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6227,
+"subject": "insurance",
+"question": "A card used by motorist in the West African sub-region is called",
+"options": {
+"A": "insurance certificate",
+"B": "insurance register",
+"C": "insurance green card",
+"D": "Ecowas brown card"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6228,
+"subject": "insurance",
+"question": "Situation that are not included in the policy are usually referred to as",
+"options": {
+"A": "condition",
+"B": "exception",
+"C": "preamble",
+"D": "operative clause"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6229,
+"subject": "insurance",
+"question": "The part of a policy form that shows the name and address of the company is known as",
+"options": {
+"A": "heading",
+"B": "conclusion",
+"C": "condition",
+"D": "preamble"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6230,
+"subject": "insurance",
+"question": "One of these shows the introduction to the details of the insurance policy, parties as well as the premium for the contract",
+"options": {
+"A": "preamble",
+"B": "heading",
+"C": "exception",
+"D": "condition"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6231,
+"subject": "insurance",
+"question": "Policy condition which are automatically applicable and not stated in the contract of agreement is known as",
+"options": {
+"A": "agreed condition",
+"B": "agreed negotiation",
+"C": "implied condition",
+"D": "expressed condition"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6232,
+"subject": "insurance",
+"question": "A written amendment in addition or alterations to the information stated in the policy is called",
+"options": {
+"A": "endorsement",
+"B": "specification",
+"C": "construction",
+"D": "attestation"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6233,
+"subject": "insurance",
+"question": "The process of changing what is wrong in the policy is called",
+"options": {
+"A": "specification",
+"B": "attestation clause",
+"C": "rectification",
+"D": "justification"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6234,
+"subject": "insurance",
+"question": "The process of transferring risk from one insurer to another is called",
+"options": {
+"A": "contribution",
+"B": "re-insurance",
+"C": "re-processing",
+"D": "re-activating"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6235,
+"subject": "insurance",
+"question": "A reminder to the insured that this existing contract is due to expire is",
+"options": {
+"A": "proposal form",
+"B": "slip",
+"C": "claim form",
+"D": "renewal notice"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6236,
+"subject": "insurance",
+"question": "One of these is a form of motor vehicle insurance policy",
+"options": {
+"A": "comprehensive",
+"B": "1st party only",
+"C": "2nd party only",
+"D": "accident"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6237,
+"subject": "insurance",
+"question": "Third party provides cover only for damages to",
+"options": {
+"A": "assurer",
+"B": "insurer",
+"C": "2nd party",
+"D": "another person"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6238,
+"subject": "insurance",
+"question": "The type of cover for violent and forcible entry into a premises is called",
+"options": {
+"A": "burglary and theft",
+"B": "third party fire and theft",
+"C": "third party and theft",
+"D": "stealing"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6239,
+"subject": "insurance",
+"question": "The deliberate throwing overboard of part of a cargo to lighten the ship is called",
+"options": {
+"A": "barratry",
+"B": "overthrown",
+"C": "voyaging",
+"D": "jettisoning"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6240,
+"subject": "insurance",
+"question": "The deliberate throwing overboard of part of a cargo without a good intention is called",
+"options": {
+"A": "jettison",
+"B": "barratry",
+"C": "voyaging",
+"D": "overboard"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "4",
+"image": ""
+},
+{
+"id": 6241,
+"subject": "insurance",
+"question": "Insurance premium depends on the",
+"options": {
+"A": "amount of profit to be made by the insurer",
+"B": "various insurance companies in a place",
+"C": "extent of the possible loss and the frequency of risk",
+"D": "supply and demand"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6242,
+"subject": "insurance",
+"question": "Subrogation in insurance means that",
+"options": {
+"A": "the insured could not make a profit from the insurer",
+"B": "the insured must be fully indemnified",
+"C": "the insurer must take the place of the insured",
+"D": "the insured should pool their risks"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6243,
+"subject": "insurance",
+"question": "Payment by the insurer to the insured out of sympathy is known as",
+"options": {
+"A": "utmost good faith",
+"B": "proximate cause",
+"C": "peril",
+"D": "ex-gratia payment"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6244,
+"subject": "insurance",
+"question": "If the insured does not want the contract to continue he receives",
+"options": {
+"A": "surrender value",
+"B": "consideration",
+"C": "premium",
+"D": "commission"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6245,
+"subject": "insurance",
+"question": "Re-insurance means",
+"options": {
+"A": "accumulation of risk",
+"B": "multiplication of risk",
+"C": "transfer of risk",
+"D": "adding of risk"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6246,
+"subject": "insurance",
+"question": "Another name for the assured is",
+"options": {
+"A": "insurance company’s client",
+"B": "insurance broker",
+"C": "insurance company",
+"D": "insurance agent"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6247,
+"subject": "insurance",
+"question": "One of the following is legally used by the insured while the policy is being processed",
+"options": {
+"A": "indemnity form",
+"B": "claim form",
+"C": "cover note",
+"D": "proposal form"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6248,
+"subject": "insurance",
+"question": "One of the following is necessary to meet uncertainties in future",
+"options": {
+"A": "profit",
+"B": "capital",
+"C": "borrowing",
+"D": "insurance"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6249,
+"subject": "insurance",
+"question": "When an insured person admits that he has been indemnified, he means that",
+"options": {
+"A": "the insurance company has accepted his claims",
+"B": "the damaged property has been recovered",
+"C": "He has paid his premium",
+"D": "the insurance company has restored him to his former position"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6250,
+"subject": "insurance",
+"question": "If the insured has been fully indemnified, the insurers are entitled to take any advantage due to the insured. Principle of insurance involved is",
+"options": {
+"A": "insurable interest",
+"B": "contribution",
+"C": "indemnity",
+"D": "subrogation"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6251,
+"subject": "insurance",
+"question": "The settlement of disagreement between the insured and the insurer is called",
+"options": {
+"A": "litigation",
+"B": "arbitration",
+"C": "negotiation",
+"D": "compromising"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6252,
+"subject": "insurance",
+"question": "One of this is a method of claim settlement",
+"options": {
+"A": "price",
+"B": "trade by barter",
+"C": "exchange",
+"D": "cash"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6253,
+"subject": "insurance",
+"question": "Replacement of damaged property by the insurance company is",
+"options": {
+"A": "arbitration",
+"B": "negotiation",
+"C": "Re-instatement",
+"D": "rectification"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6254,
+"subject": "insurance",
+"question": "A reminder to the insured who may have forgotten to seek for continuation after his policy expiry date is",
+"options": {
+"A": "notification message",
+"B": "renewal notice",
+"C": "registration notice",
+"D": "agreement notice"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6255,
+"subject": "insurance",
+"question": "Which of the following risks is covered by insurance policy?",
+"options": {
+"A": "an investment loss on the stock market",
+"B": "dishonesty of an employee leading to fraud",
+"C": "failure of a business venture",
+"D": "rise and fall of prices of goods in the market"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6256,
+"subject": "insurance",
+"question": "One of this is the evidence of insurance contract",
+"options": {
+"A": "schedule",
+"B": "policy",
+"C": "proposal form",
+"D": "endorsement"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6257,
+"subject": "insurance",
+"question": "One of this is the consideration paid for insurance contract",
+"options": {
+"A": "fee",
+"B": "cheque",
+"C": "commission",
+"D": "premium"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6258,
+"subject": "insurance",
+"question": "The payment made when the insured is not entitled to claim under a policy is",
+"options": {
+"A": "voluntary excess",
+"B": "ex-gratia",
+"C": "return premium",
+"D": "premium"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6259,
+"subject": "insurance",
+"question": "To which of the following does the principle of utmost good faith apply in a contract of insurance?",
+"options": {
+"A": "the insurer only",
+"B": "the proposer only",
+"C": "the third party and insured",
+"D": "insurer and proposer"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6260,
+"subject": "insurance",
+"question": "A method of providing indemnity in the event of loss is",
+"options": {
+"A": "cash payment",
+"B": "professional advice",
+"C": "resolution of policy",
+"D": "resolution of dispute"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6261,
+"subject": "insurance",
+"question": "One of the information contained in a renewal notice is the",
+"options": {
+"A": "previous losses",
+"B": "location of the risk",
+"C": "occupation of the insured",
+"D": "sum insured"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6262,
+"subject": "insurance",
+"question": "A factor which may influence the occurrence of a loss is",
+"options": {
+"A": "peril",
+"B": "loss",
+"C": "hazard",
+"D": "risk"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6263,
+"subject": "insurance",
+"question": "A residential building built beside a petrol filling station is described as a",
+"options": {
+"A": "risk",
+"B": "hazard",
+"C": "peril",
+"D": "liability"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6264,
+"subject": "insurance",
+"question": "A reinsurance contract in which the reassured agrees to offer and the reinsurer agrees to accept all risks of certain size within a defined class is",
+"options": {
+"A": "underwriting",
+"B": "treaty",
+"C": "tort",
+"D": "syndicate"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6265,
+"subject": "insurance",
+"question": "A contract which has no legal effect is called",
+"options": {
+"A": "void policy",
+"B": "voidable policy",
+"C": "legal policy",
+"D": "formal policy"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6266,
+"subject": "insurance",
+"question": "The contract aimed at providing specific payment at regular intervals for a fixed   period or for life is",
+"options": {
+"A": "accident",
+"B": "annuity",
+"C": "average",
+"D": "term"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6267,
+"subject": "insurance",
+"question": "policy designed for the insured who is incapacitated to carry out normal duty is",
+"options": {
+"A": "medical expenses",
+"B": "temporary disablement",
+"C": "permanent disablement",
+"D": "medical expenses"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6268,
+"subject": "insurance",
+"question": "Physical loss of limbs or total blindness injury is an example of",
+"options": {
+"A": "permanent disablement",
+"B": "temporary disablement",
+"C": "mid-term disablement",
+"D": "total disablement"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6269,
+"subject": "insurance",
+"question": "A policy that covers the peril of the sea is",
+"options": {
+"A": "aviation",
+"B": "marine",
+"C": "life",
+"D": "fire"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6270,
+"subject": "insurance",
+"question": "An  attempt  to  deprive  someone of his  property is",
+"options": {
+"A": "theft",
+"B": "burglary",
+"C": "robbery",
+"D": "larceny"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6271,
+"subject": "insurance",
+"question": "The process of examining, accepting or rejecting risks and classifying the ones accepted is",
+"options": {
+"A": "underwriting",
+"B": "policy",
+"C": "procedures",
+"D": "warranty"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6272,
+"subject": "insurance",
+"question": "The periodic payment made by the insured to the insurer as financial cost of obtaining insurance",
+"options": {
+"A": "annuity",
+"B": "premium",
+"C": "claim",
+"D": "dividend"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6273,
+"subject": "insurance",
+"question": "The amount added to the standard premium in respect of the larger than standard risk presented by the proposer is called",
+"options": {
+"A": "premium increase",
+"B": "premium loading",
+"C": "premium payment",
+"D": "premium commission"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6274,
+"subject": "insurance",
+"question": "Return premium is the same thing as",
+"options": {
+"A": "premium payment",
+"B": "premium refund",
+"C": "premium tax",
+"D": "premium bonus"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6275,
+"subject": "insurance",
+"question": "The principle of maritime law which makes owners of ship and cargo share in a lost incurred voluntarily is",
+"options": {
+"A": "general average",
+"B": "special average",
+"C": "specific average",
+"D": "particular average"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6276,
+"subject": "insurance",
+"question": "The amount given to the insured if he does not want the contract to continue is called",
+"options": {
+"A": "premium",
+"B": "price",
+"C": "consideration",
+"D": "surrender value"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6277,
+"subject": "insurance",
+"question": "Partial loss can be divided into",
+"options": {
+"A": "particular average and general average",
+"B": "particular average and total loss",
+"C": "actual loss and total loss",
+"D": "total loss and particular loss"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6278,
+"subject": "insurance",
+"question": "Marine  losses are divided into",
+"options": {
+"A": "actual total and total loss",
+"B": "total loss and partial loss",
+"C": "partial loss and actual loss",
+"D": "average loss and partial loss"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6279,
+"subject": "insurance",
+"question": "The division of total loss are",
+"options": {
+"A": "average loss and partial loss",
+"B": "partial loss and full loss",
+"C": "total loss and actual loss",
+"D": "actual total loss and constructive total loss"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6280,
+"subject": "insurance",
+"question": "Marine insurance policy which covers all the ship or vessels belonging to one owner is",
+"options": {
+"A": "flect policy",
+"B": "mixed policy",
+"C": "value policy",
+"D": "fixed policy"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6281,
+"subject": "insurance",
+"question": "The full meaning of NAICOM is",
+"options": {
+"A": "Nigerian insurance company",
+"B": "national insurance commission",
+"C": "national insurer commission",
+"D": "national insured commission"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6282,
+"subject": "insurance",
+"question": "Speailative risks are",
+"options": {
+"A": "insurable risk",
+"B": "non insurable risk",
+"C": "financial risk",
+"D": "non financial risk"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6283,
+"subject": "insurance",
+"question": "The form of risk that can easily be calculated and estimated is known as",
+"options": {
+"A": "non insurable risk",
+"B": "non-financial risk",
+"C": "speculative risk",
+"D": "insurable risk"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6284,
+"subject": "insurance",
+"question": "A risk that has its origin in the activities of an individual and the effects borne by this individual is called",
+"options": {
+"A": "pure risk",
+"B": "particular risk",
+"C": "speculative risk",
+"D": "fundamental risk"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6285,
+"subject": "insurance",
+"question": "Business interruption insurance can also be called",
+"options": {
+"A": "consequential loss",
+"B": "constructive loss",
+"C": "partial  loss",
+"D": "general loss"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6286,
+"subject": "insurance",
+"question": "The maximum number of days allowed for a policy holder to pay his renewal premium after it has become due is called",
+"options": {
+"A": "surrender value",
+"B": "conditions",
+"C": "days of grace",
+"D": "days of liberty"
+},
+"answer": "C",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6287,
+"subject": "insurance",
+"question": "The  factor  that has  the  tendency  to  increase  the occurrence of a risk is called",
+"options": {
+"A": "risk",
+"B": "loss",
+"C": "hazard",
+"D": "peril"
+},
+"answer": "D",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6288,
+"subject": "insurance",
+"question": "The cause of a loss is",
+"options": {
+"A": "peril",
+"B": "hazard",
+"C": "risk",
+"D": "loss"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6289,
+"subject": "insurance",
+"question": "The party who proposes to the insurance company to insure his properly is called",
+"options": {
+"A": "offeree",
+"B": "offeror",
+"C": "acceptance party",
+"D": "offer client"
+},
+"answer": "B",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6290,
+"subject": "insurance",
+"question": "One of these is a full time professional",
+"options": {
+"A": "broker",
+"B": "agent",
+"C": "factor",
+"D": "insurer"
+},
+"answer": "A",
+"solution": "",
+"examtype": "model",
+"examyear": "5",
+"image": ""
+},
+{
+"id": 6291,
+"subject": "insurance",
+"question": "Insurance against risk is possible because of the law of",
+"options": {
+"A": "large numbers",
+"B": "few numbers",
+"C": "inverse proportion",
+"D": "diminishing returns"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6292,
+"subject": "insurance",
+"question": "Which  of  the  following  is  not  a  component  of  an insurance policy?",
+"options": {
+"A": "Signature clause",
+"B": "Particular clause",
+"C": "Recital clause",
+"D": "Operative clause"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6293,
+"subject": "insurance",
+"question": "Which of the following is a component of premium in insurance?",
+"options": {
+"A": "Margin",
+"B": "Reserve",
+"C": "Funds",
+"D": "Capital"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6294,
+"subject": "insurance",
+"question": "In which of the following classes of insurance is no <em>claim discount</em> applicable?",
+"options": {
+"A": "Money insurance",
+"B": "Marine insurance",
+"C": "Motor insurance",
+"D": "Aviation insurance"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6295,
+"subject": "insurance",
+"question": "The payment by an insurer to the insured in the event of loss is",
+"options": {
+"A": "claim",
+"B": "premium",
+"C": "fee",
+"D": "interest"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6296,
+"subject": "insurance",
+"question": "Which of the following is the function of a loss adjuster?",
+"options": {
+"A": "Ensures payment of adequate compensation",
+"B": "Advises the insurer on claim",
+"C": "Operates with unlimited authority",
+"D": "Notifies insurer of the loss"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6297,
+"subject": "insurance",
+"question": "A fire insurance policy guaranteed by the insured to be in place for a stated period with a particular insurer is granted a _____________",
+"options": {
+"A": "no claim discount",
+"B": "fleet discount",
+"C": "long - term agreement discount",
+"D": "plurality discount"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6298,
+"subject": "insurance",
+"question": "A type of re - insurance  where  the re - insurer has  the option  to  accept  or  reject  any  risk  presented  for re-insurance is",
+"options": {
+"A": "stop loss",
+"B": "facultative",
+"C": "treaty",
+"D": "excess of loss"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6299,
+"subject": "insurance",
+"question": "A new Nissan car valued at N= 350,000 was used to replace a Peugeot car with a sum insured N= 250.000 in private policy. The Peugeot car enjoys a 25% no claim discount. If the rate of premium is 11% and the no claim discount is transferred to the  new vehicle, what  would be the premium for the new Nissan car?",
+"options": {
+"A": "N= 20,625",
+"B": "N= 27,500",
+"C": "N= 28,875",
+"D": "N= 38,500"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6300,
+"subject": "insurance",
+"question": "One of the features of term assurance is",
+"options": {
+"A": "investment",
+"B": "profit",
+"C": "protection",
+"D": "surrender"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6301,
+"subject": "insurance",
+"question": "Which  of  the  following  statements  is  true  about property insurance?",
+"options": {
+"A": "The probability that the event may occur",
+"B": "The probability that the event will not occur",
+"C": "The probability that the event may or may not occur",
+"D": "The probability that the event must occur"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6302,
+"subject": "insurance",
+"question": "In a life assurance contract, when does  the  principle of insurable interest arise?",
+"options": {
+"A": "At the beginning of the contract",
+"B": "At the time of claim",
+"C": "At the middle of the contract",
+"D": "At the time of payment of premium"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6303,
+"subject": "insurance",
+"question": "Which class of life assurance would a young couple who desires to start a new business in five years time purchase?",
+"options": {
+"A": "Whole life policy",
+"B": "Limited whole life policy",
+"C": "Keyman policy",
+"D": "Endowment policy"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6304,
+"subject": "insurance",
+"question": "In which of the following policies is <em>certificate of insurance</em>  used?",
+"options": {
+"A": "Burglary insurance",
+"B": "Product liability insurance",
+"C": "Employer’s liability insurance",
+"D": "Money insurance"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6305,
+"subject": "insurance",
+"question": "Which  of  the  following  would  not  give  cause  for subrogation right?",
+"options": {
+"A": "Benefit",
+"B": "Contract",
+"C": "Statute",
+"D": "Salvage"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6306,
+"subject": "insurance",
+"question": "Educational endowment policy is designed to protect the interest of",
+"options": {
+"A": "father",
+"B": "mother",
+"C": "child",
+"D": "uncle"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6307,
+"subject": "insurance",
+"question": "A clause in an insurance policy that makes a claim jointly payable to the policyholder and the third party is",
+"options": {
+"A": "claim clause",
+"B": "mortgagee clause",
+"C": "mortgage clause",
+"D": "joint liability clause"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6308,
+"subject": "insurance",
+"question": "The policy that covers  an  insured  employee  against injury  sustained  in  the  course  of  employment  is",
+"options": {
+"A": "professional indemnity",
+"B": "product liability",
+"C": "public liability",
+"D": "employer’s liability"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6309,
+"subject": "insurance",
+"question": "What is  the  maximum  liability which the insurer can pay on a particular loss?",
+"options": {
+"A": "Average",
+"B": "Sum insured",
+"C": "Franchise",
+"D": "Excess"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6310,
+"subject": "insurance",
+"question": "A policy taken to cover several shipments for a sum assured is",
+"options": {
+"A": "floating policy",
+"B": "valued policy",
+"C": "declaration policy",
+"D": "special policy"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6311,
+"subject": "insurance",
+"question": "A policy taken for full protection against fire and other risks such as flood, tempest, riot and civil commotion is",
+"options": {
+"A": "consequential loss",
+"B": "fire and all risks policy",
+"C": "combined householder’s policy",
+"D": "fire and special perils"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6312,
+"subject": "insurance",
+"question": "The  person  that   transfers  risks  to  the  insurance company is called",
+"options": {
+"A": "a broker",
+"B": "an insured",
+"C": "an underwriter",
+"D": "a loss adjuster"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6313,
+"subject": "insurance",
+"question": "A clause in marine insurance policy prohibiting the insured from giving up a damaged property is",
+"options": {
+"A": "deductible",
+"B": "abandonment",
+"C": "indemnity",
+"D": "compensation"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6314,
+"subject": "insurance",
+"question": "Insurance is described as a risk",
+"options": {
+"A": "avoidance mechanism",
+"B": "regulating mechanism",
+"C": "transfer mechanism",
+"D": "assessment mechanism"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6315,
+"subject": "insurance",
+"question": "A fire insurance policy valued at N= 250,000 is issued at the rate of 0.2%. How much would the premium be, if the policy is granted with 5% long - term agreement discount?",
+"options": {
+"A": "N= 475",
+"B": "N= 500",
+"C": "N= 12,500",
+"D": "N= 13,000"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6316,
+"subject": "insurance",
+"question": "What is the full meaning of “NCRIB” in the insurance industry?",
+"options": {
+"A": "National  Council of  Registered Insurance  Brokers",
+"B": "Nigerian  Council of  Registered Insurance  Brokers",
+"C": "Nigerian Corporation of Registered Insurance Brokers",
+"D": "National Corporation of Registered Insurance Brokers"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6317,
+"subject": "insurance",
+"question": "Which of the following is not a function of an insurance underwriter?",
+"options": {
+"A": "Determining rates and coverage for the risk",
+"B": "Deciding whether to take the risk",
+"C": "Looking for an insurer to take the risk",
+"D": "Deciding whether to reject the risk"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6318,
+"subject": "insurance",
+"question": "The cover that is taken at the option of the motor vehicle owner is",
+"options": {
+"A": "a comprehensive cover",
+"B": "an act only cover",
+"C": "a third party only cover",
+"D": "a special type cover"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6319,
+"subject": "insurance",
+"question": "The  sum  insured  for  a  risk  is  N= 150,000  and  was accepted  for  fire  insurance at a rate of  0.25%. How much will the insured pay as a premium?",
+"options": {
+"A": "N= 125",
+"B": "N= 375",
+"C": "N= 500",
+"D": "N= 875"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6320,
+"subject": "insurance",
+"question": "The amount payable to an insured in the event of fire damage of household items is the",
+"options": {
+"A": "cost of repair",
+"B": "actual cash value",
+"C": "replacement cost",
+"D": "sum insured"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6321,
+"subject": "insurance",
+"question": "A motorist travelling from Ghana to Nigeria would be required to obtain one of the following types of motor insurance cover",
+"options": {
+"A": "green card",
+"B": "brown card",
+"C": "yellow card",
+"D": "purple card"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6322,
+"subject": "insurance",
+"question": "One of the benefits payable under personal accident insurance policy is",
+"options": {
+"A": "retirement benefit",
+"B": "surrender benefit",
+"C": "death benefit",
+"D": "transfer benefit"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6323,
+"subject": "insurance",
+"question": "A  trade  group for insurance  companies in  Nigeria is called",
+"options": {
+"A": "Chartered Insurance Institute of Nigeria",
+"B": "National Insurance Commission",
+"C": "Nigerian Corporation of Registered Insurance Brokers",
+"D": "Nigerian Insurers Association"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6324,
+"subject": "insurance",
+"question": "The process of  assessing  risks  in  insurance  and classifying them according to their degree of insurability so  that  the  appropriate  rate  may  be  assigned  is",
+"options": {
+"A": "inspecting",
+"B": "underwriting",
+"C": "surveying",
+"D": "evaluating"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6325,
+"subject": "insurance",
+"question": "Who  among  the  following  is  an  employer  of  loss adjuster?",
+"options": {
+"A": "Insurer",
+"B": "Broker",
+"C": "Insured",
+"D": "Agent"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6326,
+"subject": "insurance",
+"question": "The meaning of with <em>profit policy</em>  in life assurance is that the sum assured is paid",
+"options": {
+"A": "without profit",
+"B": "with profit",
+"C": "with interest",
+"D": "without interest"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6327,
+"subject": "insurance",
+"question": "The  document issued by  the  insurer when there is a change in the particulars of a risk insured is",
+"options": {
+"A": "endorsement",
+"B": "certificate",
+"C": "voucher",
+"D": "policy"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6328,
+"subject": "insurance",
+"question": "The amount charged when a ship overstays at the port under a marine contract is",
+"options": {
+"A": "penalty",
+"B": "fine",
+"C": "overcharge",
+"D": "demurrage"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6329,
+"subject": "insurance",
+"question": "Which of the following documents forms the basis of a contract in insurance business?",
+"options": {
+"A": "Policy document",
+"B": "Proposal form",
+"C": "Claim form",
+"D": "Discharge form"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6330,
+"subject": "insurance",
+"question": "The  difference  between  theft  and burglary insurance lies in evidence of",
+"options": {
+"A": "pilfering  of insured items",
+"B": "removal of insured items by tricks",
+"C": "forceful violent entry or exit affecting insured items",
+"D": "threat leading to loss of insured items"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6331,
+"subject": "insurance",
+"question": "The right of choice of option for method of indemnity is exercised by the",
+"options": {
+"A": "insured",
+"B": "insurance broker",
+"C": "insurance consultant",
+"D": "insurer"
+},
+"answer": "D",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6332,
+"subject": "insurance",
+"question": "Cover note  in  motor  insurance is issued for a period not exceeding",
+"options": {
+"A": "30 days",
+"B": "60 days",
+"C": "90 days",
+"D": "120 days"
+},
+"answer": "A",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6333,
+"subject": "insurance",
+"question": "Which of the following activities is not involved in claims management?",
+"options": {
+"A": "Proof of loss",
+"B": "Particulars of loss",
+"C": "Premium calculation",
+"D": "Primary investigation"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6334,
+"subject": "insurance",
+"question": "Life  assurance  contract is useful to a policyholder in the area of",
+"options": {
+"A": "production",
+"B": "protection",
+"C": "industrialization",
+"D": "rehabilitation"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6335,
+"subject": "insurance",
+"question": "Which  of  the  following  functions  is  related  to  life assurance contract? Benefits are",
+"options": {
+"A": "determined  on  the  happening  of  insured  event",
+"B": "determined by the indemnity doctrine",
+"C": "determined at the inception of the policy",
+"D": "assessed by the extent of the loss"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6336,
+"subject": "insurance",
+"question": "The saving element in a permanent life assurance policy which represent the policyholder’s interest in the policy is",
+"options": {
+"A": "surrender value",
+"B": "cash value",
+"C": "sum assured",
+"D": "residual value"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6337,
+"subject": "insurance",
+"question": "Which of the following is a duty of an insured in an insurance contract?",
+"options": {
+"A": "Concealment of facts",
+"B": "Exposure of facts",
+"C": "Disclosure of facts",
+"D": "Acceptance of facts"
+},
+"answer": "C",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6338,
+"subject": "insurance",
+"question": "The principle of maritime law which makes owners of a ship and cargo share in a loss incurred voluntarily is",
+"options": {
+"A": "special average",
+"B": "general average",
+"C": "specific average",
+"D": "particular average"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6339,
+"subject": "insurance",
+"question": "Which of the following factors limits indemnity?",
+"options": {
+"A": "Cession",
+"B": "Re - insurance",
+"C": "Excess",
+"D": "Co - insurance"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+},
+{
+"id": 6340,
+"subject": "insurance",
+"question": "A  temporary  insurance  document  providing  coverage until a permanent policy is issued is",
+"options": {
+"A": "proposal form",
+"B": "cover note",
+"C": "policy document",
+"D": "insurance certificate"
+},
+"answer": "B",
+"solution": "",
+"examtype": "wassce",
+"examyear": "2015",
+"image": ""
+}
+]

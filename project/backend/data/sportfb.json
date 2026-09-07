@@ -1,0 +1,754 @@
+[
+{
+"id": 6661,
+"subject": "sportfb",
+"question": "What is the name of England club football second division?",
+"options": {
+"A": "League 1",
+"B": "League 2",
+"C": "Championship",
+"D": "Division 2"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6662,
+"subject": "sportfb",
+"question": "What is the name of club football third division in England?",
+"options": {
+"A": "League 1",
+"B": "League 2",
+"C": "Championship",
+"D": "Division 1"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6663,
+"subject": "sportfb",
+"question": "The English Premier League is also called",
+"options": {
+"A": "League 1",
+"B": "League 2",
+"C": "Top Division",
+"D": "Division 1"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6664,
+"subject": "sportfb",
+"question": "When was the English Premier League official formed?",
+"options": {
+"A": "1992",
+"B": "1990",
+"C": "1988",
+"D": "1986"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6665,
+"subject": "sportfb",
+"question": "Who was the last successful Manchester?United Coach?",
+"options": {
+"A": "?Sir Ali Ferguson.",
+"B": "?Alex Ferguson.",
+"C": "?Sir Alex Ferguson",
+"D": "?Sir Alex Fergson"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6666,
+"subject": "sportfb",
+"question": "How many times did Manchester United won the English Premier League under Sir Alex Ferguson?",
+"options": {
+"A": "10",
+"B": "12",
+"C": "11",
+"D": "8"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6667,
+"subject": "sportfb",
+"question": "Which club is the most successful in England?",
+"options": {
+"A": "Chelsea FC",
+"B": "Manchester United FC",
+"C": "Liverpool FC",
+"D": "Arsenal FC "
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6668,
+"subject": "sportfb",
+"question": "Which English club won the most title outside of England?",
+"options": {
+"A": "Chelsea FC",
+"B": "Manchester United FC",
+"C": "Liverpool FC",
+"D": "Arsenal FC "
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6669,
+"subject": "sportfb",
+"question": "What is the name of Liverpool FC stadium?",
+"options": {
+"A": "Stamford Bridge",
+"B": "Old Trafford",
+"C": "Anfield",
+"D": "Emirates"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6670,
+"subject": "sportfb",
+"question": "Which of the following is not a football club in Spain?",
+"options": {
+"A": "Real Madrid",
+"B": "Eibar",
+"C": "Brighton & Hove Albion",
+"D": "Villarreal"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6671,
+"subject": "sportfb",
+"question": "Who won the UEFA Champions League in 2012?",
+"options": {
+"A": "Real Madrid FC",
+"B": "Liverpool FC",
+"C": "Bayern Munich FC",
+"D": "Chelsea FC"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6672,
+"subject": "sportfb",
+"question": "Bayern Munich is a football club from which country?",
+"options": {
+"A": "Spain",
+"B": "Germany",
+"C": "Italy",
+"D": "Belgium"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6673,
+"subject": "sportfb",
+"question": "Which team won the UEFA Champions League the most?",
+"options": {
+"A": "Bayern Munich FC",
+"B": "Real Madrid FC",
+"C": "Milan FC",
+"D": "Liverpool FC"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6674,
+"subject": "sportfb",
+"question": "Which Nigeria football club won the Premiership title the most?",
+"options": {
+"A": "Kano Pillars FC",
+"B": "Enyimba FC",
+"C": "Shooting Star FC",
+"D": "Heart Land FC"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6675,
+"subject": "sportfb",
+"question": "Which Nigeria football club won the Premiership title back ?to-back the most?",
+"options": {
+"A": "Kano Pillars FC",
+"B": "Enyimba FC",
+"C": "Shooting Star FC",
+"D": "Heart Land FC"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6676,
+"subject": "sportfb",
+"question": "Which of the following is not a club in Nigeria Premier League?",
+"options": {
+"A": "Kano FC",
+"B": "Nasarawa United  FC",
+"C": "Akwa United FC",
+"D": "Heart Land FC"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6677,
+"subject": "sportfb",
+"question": "When was the Nigeria Premier League Founded",
+"options": {
+"A": "1975",
+"B": "1990",
+"C": "2003",
+"D": "2000"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6678,
+"subject": "sportfb",
+"question": "Which of the following is not a domestic cup in Nigeria Premier League?",
+"options": {
+"A": "Nigerian Shield Cup",
+"B": "FA Cup",
+"C": "Super 4",
+"D": "Nigerian FA Cup"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6679,
+"subject": "sportfb",
+"question": "What sport is the most physically demanding sport?",
+"options": {
+"A": "Football",
+"B": "Running",
+"C": "Boxing",
+"D": "Basket ball"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6680,
+"subject": "sportfb",
+"question": "How many rings are in the Olympic colours?",
+"options": {
+"A": "6",
+"B": "5",
+"C": "4",
+"D": "3"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6681,
+"subject": "sportfb",
+"question": "Which of the following colours is not present in the Olympic rings?",
+"options": {
+"A": "Black",
+"B": "Red",
+"C": "Blue",
+"D": "Purple "
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6682,
+"subject": "sportfb",
+"question": "Which Olympic sport is associated with first Persian invasions of Greece?",
+"options": {
+"A": "Badminton",
+"B": "Javelin ",
+"C": "Marathon",
+"D": "Discus"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6683,
+"subject": "sportfb",
+"question": "Who was the first Nigeria athletic to win gold medal in the Olympics",
+"options": {
+"A": "Mary Oyali-Omagbemi",
+"B": "Chioma Ajunwa-opara",
+"C": "Blessing Okagbare",
+"D": "Kanu Nwankwo"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6684,
+"subject": "sportfb",
+"question": "What year did Nigeria first won gold medal in the Olympics",
+"options": {
+"A": "1996",
+"B": "2000",
+"C": "1992",
+"D": "1994"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6685,
+"subject": "sportfb",
+"question": "What year did Nigeria first won gold medal in football event in Olympics",
+"options": {
+"A": "1996",
+"B": "2000",
+"C": "1992",
+"D": "1994"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6686,
+"subject": "sportfb",
+"question": "After football what sport is most popular in Nigeria?",
+"options": {
+"A": "Running",
+"B": "Dancing",
+"C": "Boxing",
+"D": "Karate"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6687,
+"subject": "sportfb",
+"question": "Pick out the odd one",
+"options": {
+"A": "100 meter race",
+"B": "200 meter race",
+"C": "300 meter race",
+"D": "400 meter race"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6688,
+"subject": "sportfb",
+"question": "What sport did Haruna Lukeman plays?",
+"options": {
+"A": "Football",
+"B": "Basketball",
+"C": "Beach soccer",
+"D": "Table tennis"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6689,
+"subject": "sportfb",
+"question": "When was Jose Mourinho sacked by Chelsea in 2015",
+"options": {
+"A": "15-Dec",
+"B": "5-Dec",
+"C": "27-Dec",
+"D": "17-Dec"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6690,
+"subject": "sportfb",
+"question": "Which coach is regarded as the Special One",
+"options": {
+"A": "Pep Guardiola",
+"B": "Raphael Benitez",
+"C": "Jose  Mourinho",
+"D": "?Sir Alex Ferguson"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6691,
+"subject": "sportfb",
+"question": "Which club in Nigeria premier league has the longest winning run in 2015",
+"options": {
+"A": "Kano Pillars FC",
+"B": "Enyimba FC",
+"C": "Shooting Star FC",
+"D": "Warri Wolves FC"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6692,
+"subject": "sportfb",
+"question": " Which club in Nigeria premier league has the longest unbeating run in",
+"options": {
+"A": "Warri Wolves FC",
+"B": "Kano Pillars FC",
+"C": "Enyimba FC",
+"D": "Shooting Star FC"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6693,
+"subject": "sportfb",
+"question": " The 2015 Nigeria Professional Football League was won by",
+"options": {
+"A": "Kano Pillars FC",
+"B": "Enyimba FC",
+"C": "Shooting Star FC",
+"D": "Heart Land FC"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6694,
+"subject": "sportfb",
+"question": "The 2015 Nigeria Professional Football League second place winner was",
+"options": {
+"A": "Kano Pillars FC",
+"B": "Enyimba FC",
+"C": "Shooting Star FC",
+"D": "Warri Wolves FC"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6695,
+"subject": "sportfb",
+"question": "What is the name of Nigeria second football division",
+"options": {
+"A": "National Division league",
+"B": "Nigeria Second division league",
+"C": "Nigeria National league",
+"D": "Second National league"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6696,
+"subject": "sportfb",
+"question": "which of the following 2015 Nigeria Professional Football League was relegated",
+"options": {
+"A": "El-Kanemi Warriors",
+"B": "Enugu Rangers",
+"C": "Kwara United?",
+"D": "Abia Warriors"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6697,
+"subject": "sportfb",
+"question": "which of the following 2015 Nigeria Professional Football League was not relegated",
+"options": {
+"A": "Kwara United?",
+"B": "Bayelsa United",
+"C": "Sharks",
+"D": "El-Kanemi Warriors"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6698,
+"subject": "sportfb",
+"question": " Kano Pillars' 12-year undefeated streak at home came to an end in a 2-1 loss to",
+"options": {
+"A": "Nasarawa United",
+"B": "Wikki Tourists",
+"C": "Kwara United?",
+"D": "Enyimba FC"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6699,
+"subject": "sportfb",
+"question": "Who is the president of Nigeria football federation?",
+"options": {
+"A": "Amaju Pinnick",
+"B": "Alhaji Ibrahim Galadim",
+"C": "Alh. Aminu Maigari",
+"D": "Alhaji Ibrahim Pinnick"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6700,
+"subject": "sportfb",
+"question": " What is the full meaning of NFF",
+"options": {
+"A": "Nigeria Football Federation",
+"B": "Nation Football Federation",
+"C": "Nigerian Football Federation",
+"D": "National Football Federation"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6701,
+"subject": "sportfb",
+"question": "Which of the following is not a bet company in Nigeria",
+"options": {
+"A": "Bea Bet",
+"B": "Naira Bet",
+"C": "Surebet247 ",
+"D": "Bet9ja"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6702,
+"subject": "sportfb",
+"question": " Which of the following is the first sport betting website in Nigeria",
+"options": {
+"A": "Surebet247",
+"B": "360bet",
+"C": "Bet365NAIJA",
+"D": "Naira Bet"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6703,
+"subject": "sportfb",
+"question": " Leicester City F.C. is also known as ",
+"options": {
+"A": "Lei City",
+"B": "The Eagle",
+"C": "The Foxes",
+"D": "Blue team"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6704,
+"subject": "sportfb",
+"question": " Leicester City F.C. is also known as the following expect",
+"options": {
+"A": "The Foxes",
+"B": "The Blues",
+"C": "The City ",
+"D": "Blue Army"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6705,
+"subject": "sportfb",
+"question": "Who is the current hit man for Leicester City",
+"options": {
+"A": "Jamie Vardy",
+"B": "Wes Morgan",
+"C": "Danny Simpson",
+"D": "Eden Hazard"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6706,
+"subject": "sportfb",
+"question": "Who is the current highest goal scorer as of December 2015 in English Premier League",
+"options": {
+"A": "Wilfried Bony",
+"B": "Robin van Persie",
+"C": "Diafra Sakho",
+"D": "Jamie Vardy"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6707,
+"subject": "sportfb",
+"question": "Who won the Ballon D?or cup 2015",
+"options": {
+"A": "Lionel Messi ",
+"B": "Neymar ",
+"C": "Cristiano Ronaldo",
+"D": "Robin van Persie"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+}
+]

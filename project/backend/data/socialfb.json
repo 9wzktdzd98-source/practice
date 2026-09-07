@@ -1,0 +1,850 @@
+[
+{
+"id": 6608,
+"subject": "socialfb",
+"question": "What year was 'Africa Queen' music track released by Tu-face Idibia?",
+"options": {
+"A": "2001",
+"B": "2002",
+"C": "2003",
+"D": "2004"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6609,
+"subject": "socialfb",
+"question": "The track 'African Queen' came with what Tu-Face Idibia album?",
+"options": {
+"A": "The Ascension",
+"B": "Face 2 Face",
+"C": "The Unstoppable",
+"D": "Unthinkable"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6610,
+"subject": "socialfb",
+"question": "Which of the following is not a member of Nigeria music group Plantation Boiz?",
+"options": {
+"A": "Black Face",
+"B": "Tu- Face",
+"C": "Face",
+"D": "Rugged Man"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6611,
+"subject": "socialfb",
+"question": "What is the full name of Wizkid?",
+"options": {
+"A": "Balogun  Ayodeji",
+"B": "Dapo Oyebanjo",
+"C": "Kunle Bamitefa",
+"D": "Ibrahim Bale"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6612,
+"subject": "socialfb",
+"question": "What age did Wizkid first release an album?",
+"options": {
+"A": "16 years",
+"B": "14 years",
+"C": "11 years",
+"D": "21 years"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6613,
+"subject": "socialfb",
+"question": "Who was Wizkid first album producer?",
+"options": {
+"A": "OJB Jezreel",
+"B": "Kenins Music",
+"C": "Chocolate City",
+"D": "Mo? hit records"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6614,
+"subject": "socialfb",
+"question": "What is the full name of D'Banj",
+"options": {
+"A": "Balogun  Ayodeji",
+"B": "Dapo Oyebanjo",
+"C": "Kunle Bamitefa",
+"D": "Daniel Oyebanji"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6615,
+"subject": "socialfb",
+"question": "What year was D'Banj  first album released?",
+"options": {
+"A": "2002",
+"B": "2005",
+"C": "2001",
+"D": "2004"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6616,
+"subject": "socialfb",
+"question": "Half of the yellow sun was release in what year?",
+"options": {
+"A": "2010",
+"B": "2011",
+"C": "2012",
+"D": "2013"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6617,
+"subject": "socialfb",
+"question": "Which of the following is not a popular Nollywood actor?",
+"options": {
+"A": "Pete Edochie",
+"B": "Richard Mofe",
+"C": "Ramsey Nouah",
+"D": "Desmond Ellia"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6618,
+"subject": "socialfb",
+"question": "What year did Michael Jackson die?",
+"options": {
+"A": "2007",
+"B": "2008",
+"C": "2009",
+"D": "2006"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6619,
+"subject": "socialfb",
+"question": "Which of the following is not a popular Nollywood actress?",
+"options": {
+"A": "Genevieve Nnaji",
+"B": "Omotola Keinde",
+"C": "Mercy Johnson",
+"D": "Mary Idoche"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6620,
+"subject": "socialfb",
+"question": "What is the full name of Nigeria comedian Basket Mouth?",
+"options": {
+"A": "Bright Okpochia",
+"B": "Bright Okpocha",
+"C": "Bright Okpoch",
+"D": "Brights Okpocha"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6621,
+"subject": "socialfb",
+"question": "What is the full name of Nigeria comedian with stage name Ali Baba?",
+"options": {
+"A": "Atunde Alleluya Akporobomerere",
+"B": "Atunyota Alleluya Akporobomere",
+"C": "Babatunde Akporobomerere",
+"D": "Atunyota Alleluya Akporobomerere"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6622,
+"subject": "socialfb",
+"question": "Ali Baba a Nigeria comedian was born in what state?",
+"options": {
+"A": "Rivers",
+"B": "Delta",
+"C": "Lagos",
+"D": "Ogun"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6623,
+"subject": "socialfb",
+"question": "What is the full meaning of NEA",
+"options": {
+"A": "National Entertainment Awards",
+"B": "Nigerian Entertainment Awards",
+"C": "Nigerian Entertainment Award",
+"D": "National Entertainment Award"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6624,
+"subject": "socialfb",
+"question": "Nigerian Entertainment Award (NEA) 2015 was held in",
+"options": {
+"A": "Lagos Nigeria",
+"B": "Abuja Nigeria",
+"C": "New York USA",
+"D": "London Britain"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6625,
+"subject": "socialfb",
+"question": "Who won the best Female act award in Nigerian Entertainment Award (NEA)  2015",
+"options": {
+"A": "Cynthia Morgan",
+"B": "Yemi Alade",
+"C": "Seyi Shay",
+"D": "Tiwa savage"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6626,
+"subject": "socialfb",
+"question": "Who won the best Film Director of the Year (Indigenous Films) in Nigerian Entertainment Award (NEA)  2015",
+"options": {
+"A": "Kunle Afolayan",
+"B": "Alex Konstantaras",
+"C": "Olanrewaju Abiodun",
+"D": "Chiwetel Ejiofor"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6627,
+"subject": "socialfb",
+"question": "Best Male act was given to ??.. in Nigerian Entertainment Award (NEA) 2015",
+"options": {
+"A": "Olamide",
+"B": "Davido",
+"C": "Wizkid",
+"D": "Shizzi"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6628,
+"subject": "socialfb",
+"question": "Best Rap act was given to ?.. in Nigerian Entertainment Award (NEA)  2015",
+"options": {
+"A": "Olamide",
+"B": "Davido",
+"C": "Wizkid",
+"D": "Shizz"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6629,
+"subject": "socialfb",
+"question": "Best Pop act was given to ?.. in Nigerian Entertainment Award (NEA)  2015",
+"options": {
+"A": "Olamide",
+"B": "Davido",
+"C": "Wizkid",
+"D": "Shizz"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6630,
+"subject": "socialfb",
+"question": "Best Afrobeat Act was given to ?. In Nigerian Entertainment Award (NEA)  2015",
+"options": {
+"A": "2face Idibia",
+"B": "Femi Kuti",
+"C": "Baba Fryo",
+"D": "Alariwo"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6631,
+"subject": "socialfb",
+"question": "Olamide life in concert 'Beast Mode 'hold this year on",
+"options": {
+"A": "March 10 2015",
+"B": "December 27 2015",
+"C": "December 31 2015",
+"D": "March 21 2015"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6632,
+"subject": "socialfb",
+"question": "Which of the following guest artiste will not feature in Olamide life concert 2015",
+"options": {
+"A": "Davido",
+"B": "D?Banji",
+"C": "Wizkid",
+"D": "Olamide"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6633,
+"subject": "socialfb",
+"question": "what is the full meaning of KADAMFEST",
+"options": {
+"A": "Kaduna Music Festival",
+"B": "Kano  Music Festival",
+"C": "Kaduna  Music Festivals",
+"D": "Kano Music Festivals"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6634,
+"subject": "socialfb",
+"question": "What edition is Miss World 2015",
+"options": {
+"A": "60th",
+"B": "61th",
+"C": "62nd",
+"D": "63rd"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6635,
+"subject": "socialfb",
+"question": "Which country hosted Miss World 2015 edition",
+"options": {
+"A": "China",
+"B": "Japan",
+"C": "Singapore",
+"D": "India"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6636,
+"subject": "socialfb",
+"question": "What is the date of Miss World 2015 pageant?",
+"options": {
+"A": "10-Dec-15",
+"B": "16-Dec-15",
+"C": "19-Dec-15",
+"D": "21-Dec-15"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6637,
+"subject": "socialfb",
+"question": " Which country won Miss World 2015 pageant?",
+"options": {
+"A": "China",
+"B": "South Africa",
+"C": "Spain",
+"D": "Norway"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6638,
+"subject": "socialfb",
+"question": " Tiwa Savage is how old in 2015",
+"options": {
+"A": "28",
+"B": "30",
+"C": "35",
+"D": "32"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6639,
+"subject": "socialfb",
+"question": "Which of this song was release by Wizkid in 2015",
+"options": {
+"A": "On top matter",
+"B": "Love my babe",
+"C": "Expensive shit",
+"D": "Mummy mi"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6640,
+"subject": "socialfb",
+"question": "Who was the most nominated artiste for Tooxclusive award 2015",
+"options": {
+"A": "Davido",
+"B": "Olamide",
+"C": "Di?ja",
+"D": "Korede bello"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6641,
+"subject": "socialfb",
+"question": "Who is the fourth highest earning celeb after death?",
+"options": {
+"A": "Michel Jackson",
+"B": "Bob Marley",
+"C": "Elvis Presley",
+"D": "Charles Schulz"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6642,
+"subject": "socialfb",
+"question": "Who is the Second highest earning celeb after death?",
+"options": {
+"A": "Michel Jackson",
+"B": "Bob Marley",
+"C": "Elvis Presley",
+"D": "Charles Schulz"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6643,
+"subject": "socialfb",
+"question": "Who is the third highest earning celeb after death?",
+"options": {
+"A": "Michel Jackson",
+"B": "Bob Marley",
+"C": "Elvis Presley",
+"D": "Charles Schulz"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6644,
+"subject": "socialfb",
+"question": "Who is the highest earning celeb after death?",
+"options": {
+"A": "Michel Jackson",
+"B": "Bob Marley",
+"C": "Elvis Presley",
+"D": "Charles Schulz"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6645,
+"subject": "socialfb",
+"question": "30 days in Alanta was released on",
+"options": {
+"A": "31-Oct-15",
+"B": "31-Oct-14",
+"C": "1-May-15",
+"D": "1-May-14"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6646,
+"subject": "socialfb",
+"question": "Who is Miss Nollywood Queen 2015",
+"options": {
+"A": "Miss Gwendolyn Okutele",
+"B": "Miss Adebayo Kemi",
+"C": "Miss Basira Malla",
+"D": "Miss Obichi Emeka"
+},
+"answer": "A",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6647,
+"subject": "socialfb",
+"question": " Miss Nollywood Queen 2015 is from what state",
+"options": {
+"A": "Enugu",
+"B": "Delta",
+"C": "Ondo",
+"D": "Lagos"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6648,
+"subject": "socialfb",
+"question": "What is the name of Olamide ablum released in 2015",
+"options": {
+"A": "Rapsodi",
+"B": "YBNL",
+"C": "Baddest Guy Ever Liveth",
+"D": "Eyan Mayweather"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6649,
+"subject": "socialfb",
+"question": " What is the full meaning of SMD",
+"options": {
+"A": "Super Michael Data",
+"B": "Supreme Mavin Dynasty",
+"C": "Shoki Makossa Dance",
+"D": "Simple Motion Dance"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6650,
+"subject": "socialfb",
+"question": " Who started SMD?",
+"options": {
+"A": "Olamide",
+"B": "Davido",
+"C": "P-Square",
+"D": "Don Jazzy"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6651,
+"subject": "socialfb",
+"question": " What is the name of Olamide ablum released in 2012",
+"options": {
+"A": "Rapsodi",
+"B": "YBNL",
+"C": "Baddest Guy Ever Liveth",
+"D": "Eyan Mayweather"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6652,
+"subject": "socialfb",
+"question": " What is the name of Olamide ablum release in 2014",
+"options": {
+"A": "Rapsodi",
+"B": "YBNL",
+"C": "Street OT",
+"D": "Eyan Mayweather"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6653,
+"subject": "socialfb",
+"question": "'Yemi my lover' is in which Olamide album",
+"options": {
+"A": "Rapsodi",
+"B": "YBNL",
+"C": "Baddest Guy Ever Liveth",
+"D": "Eyan Mayweather"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6654,
+"subject": "socialfb",
+"question": "What is the full name of Phyno",
+"options": {
+"A": "Godfrey Nelson",
+"B": "Azubuike Chibuzo Nelson",
+"C": "Phillip Onome",
+"D": "Paul Nwoko Godfrey"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6655,
+"subject": "socialfb",
+"question": " Which of this artiste is not a Glo ambassador",
+"options": {
+"A": "D?Banj",
+"B": "Peter and Paul Okoye (PSquare)",
+"C": "Tu Face ",
+"D": "Wande Coal"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6656,
+"subject": "socialfb",
+"question": "Which of the following artiste is not a airtel ambassador",
+"options": {
+"A": "Phyno",
+"B": "Tu Face",
+"C": "Wande Coal",
+"D": "Patoranking"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6657,
+"subject": "socialfb",
+"question": "Which Nigeria actress was a face of Lux?",
+"options": {
+"A": "Omotola  Jalade Ekeinde",
+"B": "Genevieve Nnaji",
+"C": "Chika Ike",
+"D": "Damilola Adegite"
+},
+"answer": "B",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6658,
+"subject": "socialfb",
+"question": " Which of the following is not a designer?",
+"options": {
+"A": "KC",
+"B": "Raphael loran",
+"C": "DandG",
+"D": "Ball berry"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6659,
+"subject": "socialfb",
+"question": "Who was the former model that turned blogger?",
+"options": {
+"A": "Omotola  Jalade Ekeinde",
+"B": "Genevieve Nnaji",
+"C": "Linda Ikeji",
+"D": "Damilola Adegite"
+},
+"answer": "C",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+},
+{
+"id": 6660,
+"subject": "socialfb",
+"question": "Who was the founder of Mary Kay Cosmetics?",
+"options": {
+"A": "Mary Kay",
+"B": "Mary Kay Anna",
+"C": "Mary Kay Anima",
+"D": "Mary Kay Ash"
+},
+"answer": "D",
+"solution": "Admin",
+"examtype": "0000-00-00 00:00:00",
+"examyear": "0000-00-00 00:00:00",
+"image": ""
+}
+]

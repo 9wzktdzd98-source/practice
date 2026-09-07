@@ -1,0 +1,706 @@
+[
+{
+"id": 3219,
+"subject": "currentaffairs",
+"question": "The current life expectancy in Nigeria is ",
+"options": {
+"A": "55",
+"B": "47",
+"C": "39",
+"D": "51"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3220,
+"subject": "currentaffairs",
+"question": "Mr Dele Giwa was killed through a letter bomb on ",
+"options": {
+"A": "     October 19, 1986 ",
+"B": "September 17, 1987",
+"C": "10/19/1989",
+"D": "9/17/1986"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3221,
+"subject": "currentaffairs",
+"question": "The following are spices except ",
+"options": {
+"A": "Rye ",
+"B": "Saffron ",
+"C": "Ginger ",
+"D": "Cloves "
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3222,
+"subject": "currentaffairs",
+"question": "Desmond Tutu was awarded the Nobel Peace Prize in ",
+"options": {
+"A": "1983",
+"B": "1987",
+"C": "2000",
+"D": "1984"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3223,
+"subject": "currentaffairs",
+"question": "Victoria is the capital city of ",
+"options": {
+"A": "Somalia ",
+"B": "Morocco ",
+"C": "Seychelles ",
+"D": "Lesotho "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3224,
+"subject": "currentaffairs",
+"question": "The Director-General of the Nigerian Institute of Advanced Legal Studies is ",
+"options": {
+"A": "Prof.  Dalhatu Musdapher ",
+"B": "Prof.  Pat Utomi ",
+"C": "Justice Nikki Tobi ",
+"D": "Prof.  Epiphany Azinge "
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3225,
+"subject": "currentaffairs",
+"question": "Centre of Unity is to Abuja as State of Hospitality is to ",
+"options": {
+"A": "Cross River ",
+"B": "Rivers ",
+"C": "Nassarawa ",
+"D": "Katsina"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3226,
+"subject": "currentaffairs",
+"question": "The capital of Uruguay is ",
+"options": {
+"A": "Bangkok ",
+"B": "Montevideo",
+"C": "Bern ",
+"D": "Manila "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3227,
+"subject": "currentaffairs",
+"question": "The Governor of Anambra State 2014 is  ",
+"options": {
+"A": "Mr. Peter Obi ",
+"B": "Owelle Rochas Okorocha ",
+"C": "Peter Odili ",
+"D": "Chris Ngige "
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3228,
+"subject": "currentaffairs",
+"question": "____ was the Chief Justice of Nigeria between 1995 and 2006 ",
+"options": {
+"A": "Justice Idris Lagbo Kutigi ",
+"B": "Justice Mohammad Lawal Uwais ",
+"C": "Justice George Sodeinde Sowemimo ",
+"D": "Justice Mohammed Bello "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3229,
+"subject": "currentaffairs",
+"question": "The current Secretary-General of the United Nations is from ",
+"options": {
+"A": "United Kingdom ",
+"B": "South Africa ",
+"C": "South Korea ",
+"D": "Ukraine "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3230,
+"subject": "currentaffairs",
+"question": "The full meaning of UEFA is ",
+"options": {
+"A": "Union of European Federation Associations ",
+"B": "United European Football Associations ",
+"C": "Union of English Football Associations ",
+"D": "Union of European Football Associations "
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3231,
+"subject": "currentaffairs",
+"question": "Nelson Mandela was awarded the Nobel Peace Prize in ",
+"options": {
+"A": "1993",
+"B": "1994",
+"C": "1995",
+"D": "1996"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3232,
+"subject": "currentaffairs",
+"question": "Ibeno Beach is in  ",
+"options": {
+"A": "June 12 1993 ",
+"B": "June 14 1993 ",
+"C": "June 18 1993 ",
+"D": "June 23 1993 "
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3233,
+"subject": "currentaffairs",
+"question": "Gombe State belongs to the ____ geo-political zone in Nigeria ",
+"options": {
+"A": "North Central ",
+"B": "North East ",
+"C": "North West ",
+"D": "South West "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3234,
+"subject": "currentaffairs",
+"question": "The full meaning of OECD is ",
+"options": {
+"A": "Order of the Economic Community and Development ",
+"B": "Organization for Economic Community and Development ",
+"C": "Organization for Economic Co-operation and Development ",
+"D": "Organization of Economic Co-operation and Development "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3235,
+"subject": "currentaffairs",
+"question": "Paparada Square is in ",
+"options": {
+"A": "Ilorin ",
+"B": "Lokoja ",
+"C": "Kaduna ",
+"D": "Sokoto "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3236,
+"subject": "currentaffairs",
+"question": "The former Eastern Region was proclaimed a sovereign nation, Biafra by Odumegu Ojukwu on ",
+"options": {
+"A": "5/30/1967",
+"B": "6/15/1966",
+"C": "1/10/1965",
+"D": "4/21/1969"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3237,
+"subject": "currentaffairs",
+"question": "The Kruger National Park is in ",
+"options": {
+"A": "Tunisia ",
+"B": "Cameroon ",
+"C": "South Africa ",
+"D": "U.S. "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3238,
+"subject": "currentaffairs",
+"question": "The official residence of the Secretary-General of the United Nations is in ",
+"options": {
+"A": "Washington D.C.",
+"B": "Atlanta Georgia, United States ",
+"C": "New York City, United States ",
+"D": "London "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3239,
+"subject": "currentaffairs",
+"question": "Dar es Salaam is the capital of ",
+"options": {
+"A": "Zimbabwe ",
+"B": "Sudan ",
+"C": "Tunisia ",
+"D": "Tanzania "
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3240,
+"subject": "currentaffairs",
+"question": "Shanga and Kyenga are ethnic groups in ",
+"options": {
+"A": "Sokoto State ",
+"B": "Niger State ",
+"C": "Bauchi State ",
+"D": "Niger State "
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3241,
+"subject": "currentaffairs",
+"question": "FESTAC started in ",
+"options": {
+"A": "10/1/1976",
+"B": "11/1/1977",
+"C": "11/1/1978",
+"D": "11/1/1978"
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3242,
+"subject": "currentaffairs",
+"question": "Which of these was never a Senate President in Nigeria? ",
+"options": {
+"A": "Chuba Okadigbo ",
+"B": "Pius Anyim ",
+"C": "Umaru Dikko ",
+"D": "Ameh Ebute "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3243,
+"subject": "currentaffairs",
+"question": "The capital of Iran is  ",
+"options": {
+"A": "Iranian ",
+"B": "Dublin ",
+"C": "Teheran ",
+"D": "Baghdad "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3244,
+"subject": "currentaffairs",
+"question": "The Executive Secretary of the National Universities Commission is ",
+"options": {
+"A": "Prof.  Dibu Ojerinde ",
+"B": "Prof.  Peter Okebukola ",
+"C": "Prof.  Julius Okojie ",
+"D": "Prof.  Jubril Aminu "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3245,
+"subject": "currentaffairs",
+"question": "The United Nations Charter was formed on ",
+"options": {
+"A": "6/26/1945",
+"B": "2/1/1946",
+"C": "10/24/1945",
+"D": "3/15/1943"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3246,
+"subject": "currentaffairs",
+"question": "Abayon, Adim and Adun are ethnic groups in  ",
+"options": {
+"A": "Adamawa Stat ",
+"B": "Rivers State ",
+"C": "Bauchi State ",
+"D": "Cross River State "
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3247,
+"subject": "currentaffairs",
+"question": "Barack Obama was awarded the Nobel Peace Prize in ",
+"options": {
+"A": "2003",
+"B": "2000",
+"C": "2009",
+"D": "2007"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3248,
+"subject": "currentaffairs",
+"question": "The capital of Greece is  ",
+"options": {
+"A": "Greek ",
+"B": "Athens ",
+"C": "Rome ",
+"D": "Jerusalem "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3249,
+"subject": "currentaffairs",
+"question": "Assop Falls can be found in ",
+"options": {
+"A": "Plateau State ",
+"B": "Kano State ",
+"C": "Taraba State ",
+"D": "Niger State "
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3250,
+"subject": "currentaffairs",
+"question": "The Secretary-General of the United Nations between 1972 and 1981 was ",
+"options": {
+"A": "Javier Perez de Cuellar ",
+"B": "Kofi Annan ",
+"C": "Ahmed Salim ",
+"D": "Kurt Waldheim "
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3251,
+"subject": "currentaffairs",
+"question": "Ken Saro-Wiwa and eight others were executed in ",
+"options": {
+"A": "1995",
+"B": "1994",
+"C": "1996",
+"D": "1997"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3252,
+"subject": "currentaffairs",
+"question": "Gombe State belongs to the ____ geo-political zone in Nigeria ",
+"options": {
+"A": "South West ",
+"B": "North East ",
+"C": "North West ",
+"D": "South East "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3253,
+"subject": "currentaffairs",
+"question": "Albert Lutuli was awarded the Nobel Peace Prize in ",
+"options": {
+"A": "1947",
+"B": "1909",
+"C": "1960",
+"D": "1970"
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3254,
+"subject": "currentaffairs",
+"question": "Ronald Reagan, the former US President, was a  ",
+"options": {
+"A": "Democrat",
+"B": "Democratic-Republican ",
+"C": "Federalist ",
+"D": "Republican"
+},
+"answer": "D",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3255,
+"subject": "currentaffairs",
+"question": "The full meaning of UEFA is ",
+"options": {
+"A": "Union of European Federation Associations ",
+"B": "United European Football Associations ",
+"C": "Union of European Football Associations ",
+"D": "United English Football Associations "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3256,
+"subject": "currentaffairs",
+"question": "Gurara Falls can be located in  ",
+"options": {
+"A": "Anambra State ",
+"B": "Niger State ",
+"C": "Adamawa State ",
+"D": "Imo State "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3257,
+"subject": "currentaffairs",
+"question": "Obudu Cattle Ranch is in ",
+"options": {
+"A": "\n \nCross River State \n",
+"B": "Akwa Ibom State ",
+"C": "Bayelsa State ",
+"D": "Delta State "
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3258,
+"subject": "currentaffairs",
+"question": "Alau Dam and Alan Lake are located in  ",
+"options": {
+"A": "Calabar ",
+"B": "Okitipupa",
+"C": "Maiduguri ",
+"D": "Warri "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3259,
+"subject": "currentaffairs",
+"question": "The Inspector-General of Police 2014 is ",
+"options": {
+"A": "Mr Iyami Aganike ",
+"B": "Alhaji Mohammed Dahiru Abubakar ",
+"C": "Mr Tafa Balogun ",
+"D": "Mr Sunday Ehindero "
+},
+"answer": "B",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3260,
+"subject": "currentaffairs",
+"question": "The Minster of Health 2014 is  ",
+"options": {
+"A": "Prof.  Olikoye Ransome Kuti ",
+"B": "Mr Muhammed Katsina ",
+"C": "Prof.  C.O.Onyebuchi ",
+"D": "Prof. Muhammed Katsina "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3261,
+"subject": "currentaffairs",
+"question": "Maseru is the capital city of  ",
+"options": {
+"A": "Mauritius",
+"B": "Rwanda ",
+"C": "Lesotho ",
+"D": "Gambia "
+},
+"answer": "C",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+},
+{
+"id": 3262,
+"subject": "currentaffairs",
+"question": "The National Security Adviser in 2014 was",
+"options": {
+"A": "Col. Sambo Dasuki ",
+"B": "Gen.  Aliyu Mohammed Gusau ",
+"C": "Gen.  Andrew Owoeye Azazi (rtd",
+"D": "Gen. Korede Bello"
+},
+"answer": "A",
+"solution": "",
+"examtype": "post-utme-aaua",
+"examyear": "2013",
+"image": ""
+}
+]
